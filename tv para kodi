@@ -6,6 +6,22 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/globosp/video.m3u8|Referer
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxst7jN2Sf3KpM9JaPbFn9YbsicPje6wbCsQ&usqp=CAU" group-title=",globo
 https://geralorigin.eu-central-1.edge.mycdn.live/live/globorjhd/video.m3u8|Referer=https://topcanais.com/
 
+#EXTINF:-1 group-title="ESPECIAL BA" tvg-name="CANAIS BAHIA " tvg-logo="",Globo TV Santa Cruz Bahia HD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18405
+#EXTINF:-1 group-title="ESPECIAL BA" tvg-name="CANAIS BAHIA " tvg-logo="",Globo TV Sudoeste Bahia HD
+http://tv.factoryiptv.com:80/jKmpR1QQs/factoryiptv/75485
+#EXTINF:-1 group-title="ESPECIAL BA" tvg-name="CANAIS BAHIA " tvg-logo="",Globo TV Bahia SD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18406
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista0800",GLOBO RJ (Altern)
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista0800",Globo RJ HD (Alterna)
+https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6F1tFc9CGv6j_Jil2gHwu-EutHGSBOvun0A&usqp=CAU" group-ttle="INFORMAÇÃO",》DISCOVERY CHANNAEL
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/discoverysd/video.m3u8|Referer=https://topcanais.com/
 
