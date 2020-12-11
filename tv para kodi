@@ -10,7 +10,7 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/globorjhd/video.m3u8|Refer
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/discoverysd/video.m3u8|Referer=https://topcanais.com/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-ttle="INFORMAÇÃO",》SBT
-https://r1---sn-faxoxucg-bpbe.googlevideo.com/videoplayback?expire=1593266972&ei=vP72Xtb_KYjIxQTh85iAAw&ip=187.111.9.67&id=9z_8k1Ir-6U.1&itag=140&source=yt_live_broadcast&requiressl=yes&mh=84&mm=44%2C29&mn=sn-faxoxucg-bpbe%2Csn-pmcg-bg0e&ms=lva%2Crdu&mv=m&mvi=0&pl=24&gcr=br&initcwndbps=908750&vprv=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&gir=yes&mt=1593245298&fvip=3&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIgPdguyj-QIoef4L9ha3SwSWfj-qGp72EAqAF_ASBjQnYCIQD5-G-LfxznFF9sTDuJeUyLvhnNCCbVh2b1mHqXPgGoaw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAIPcKLkmQT4pncF7LQrGpSxKYelo32ppEzDhzf9ZSfrgAiB0yUiptZsy2s752PGmYYroC0eGqHAVb_9dLDrrDDCxSQ%3D%3D&alr=yes&cpn=c3FGoI4ybHAfalUw&cver=20200626&sq=6230978
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sbtsd/video.m3u8|Referer=https://topcanais.com/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzX5Vj0h4tFLWZ_o70utyMgyJRtQ2kBdX7Mg&usqp=CAU" group-ttle="INFORMAÇÃO",》BAND
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/bandcampinassd/video.m3u8|Referer=https://topcanais.com/
@@ -42,7 +42,7 @@ https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsports2hd/video.m3u8|
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfI8Twf4bzIB74hJeuXLYZC9ctTOp9jOc3mg&usqp=CAU" group-ttle="INFORMAÇÃO",》Sportv
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportvsd/video.m3u8|Referer=https://topcanais.com/
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportvhd/video.m3u8|Referer=https://topcanais.com/
 
 
 
@@ -55,7 +55,7 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/sportv3hd/video.m3u8|Refer
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZifBdOSxr-xCI9-mME6rVdyt_E4TzLn2Q1Q&usqp=CAU" group-ttle="INFORMAÇÃO",》Combate
-https://geralorigin.eu-central-1.edge.mycdn.live/live/combatesd/video.m3u8|Referer=https://topcanais.com/
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/combatesd/video.m3u8|Referer=https://topcanais.com/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTXivObo3WHUY6KT6AqVl0X4uW2z1qE0fp4TQ&usqp=CAU" group-ttle="INFORMAÇÃO",》Viva
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/vivahd/video.m3u8|Referer=https://canaismax.com/
