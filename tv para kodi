@@ -24,18 +24,30 @@ https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6F1tFc9CGv6j_Jil2gHwu-EutHGSBOvun0A&usqp=CAU" group-ttle="INFORMAÇÃO",》DISCOVERY CHANNAEL
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/discoverysd/video.m3u8|Referer=https://topcanais.com/
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",DISCOVEVY HD
+http://cdn2.gizmodo.ml/live/discoverychannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-ttle="INFORMAÇÃO",》SBT
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sbtsd/video.m3u8|Referer=https://topcanais.com/
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista0800",SBT
+https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista0800", SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzX5Vj0h4tFLWZ_o70utyMgyJRtQ2kBdX7Mg&usqp=CAU" group-ttle="INFORMAÇÃO",》BAND
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/bandcampinassd/video.m3u8|Referer=https://topcanais.com/
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista0800",BAND
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1 group-title="ESPECIAL BA" tvg-name="CANAIS BAHIA " tvg-logo="",Band Bahia SD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28060
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRW2ecFukoQO8ALDN7AOLVCSepMTWAJc1qhWA&usqp=CAU" group-ttle=",》RECORD
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista0800",RecordTV Bahia
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcReT2F1IUR_A_gmlBSiiHgXoVUc5JCAgqc-eA&usqp=CAU" group-ttle="INFORMAÇÃO",》ESPN
-https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_240_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSikvZa54hX0bdQ2kMSeCiOGHKEpjzEgV-NA&usqp=CAU" group-ttle="INFORMAÇÃO",》ESPN 2
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
@@ -81,6 +93,8 @@ https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxpremiumsd/video.m3u8|
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFlXkFztFjU88t-c0pKI_mtJCKz-vdeexqCw&usqp=CAU" group-ttle="INFORMAÇÃO",》Multishow
 https://geralorigin.eu-central-1.edge.mycdn.live/live/multishowhd/video.m3u8|Referer=https://topcanais.com/
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4272284965f723beba2a80.png" group-title="MUSICAS",Multishow
+https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-ttle="INFORMAÇÃO",》Redetv
 https://geralorigin.eu-central-1.edge.mycdn.live/live/redetvsd/video.m3u8|Referer=https://topcanais.com/
@@ -97,6 +111,8 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/gntsd/video.m3u8|Referer=h
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiXIYjWAL8LniH6IgZIh9zeETtjA2NHPtGlg&usqp=CAU" group-ttle="INFORMAÇÃO",》Globo news
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/globonewssd/video.m3u8|Referer=https://topcanais.com/
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5209234735f723beba2e2b.png" tvg-id="0" group-title="CANAIS",GLOBO NEWS HD
+http://cdn2.gizmodo.ml/live/globonews/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-ttle="INFORMAÇÃO",》Universal
