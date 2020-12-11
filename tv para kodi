@@ -64,7 +64,7 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/sportv3hd/video.m3u8|Refer
 https://abr-h.eu-central-1.edge.mycdn.live/live/mosamoico/mosamoico_500/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTXivObo3WHUY6KT6AqVl0X4uW2z1qE0fp4TQ&usqp=CAU" group-ttle="INFORMAÇÃO",》Viva
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/vivasd/video.m3u8|Referer=https://canaismax.com/
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/vivahd/video.m3u8|Referer=https://canaismax.com/
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-premium-1-hd_m.png" group-ttle="INFORMAÇÃO",》Fox premium 1
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxpremiumsd/video.m3u8|Referer=https://topcanais.com/
