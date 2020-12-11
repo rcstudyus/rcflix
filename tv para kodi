@@ -42,7 +42,7 @@ https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsports2hd/video.m3u8|
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfI8Twf4bzIB74hJeuXLYZC9ctTOp9jOc3mg&usqp=CAU" group-ttle="INFORMAÇÃO",》Sportv
-https://geralorigin.eu-central-1.edge.mycdn.live/live/sportvhd/video.m3u8|Referer=https://topcanais.com/
+https://live.futebolonlineaovivo.com/SPORTVHD/video.m3u8|Referer=https://esporteone.com/player/jogos.php?canal=SPORTVHD
 
 
 
@@ -58,7 +58,7 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/sportv3hd/video.m3u8|Refer
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/combatesd/video.m3u8|Referer=https://topcanais.com/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTXivObo3WHUY6KT6AqVl0X4uW2z1qE0fp4TQ&usqp=CAU" group-ttle="INFORMAÇÃO",》Viva
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/vivahd/video.m3u8|Referer=https://canaismax.com/
+https://live.futebolonlineaovivo.com/VIVAHD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-premium-1-hd_m.png" group-ttle="INFORMAÇÃO",》Fox premium 1
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxpremiumsd/video.m3u8|Referer=https://topcanais.com/
@@ -152,9 +152,6 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepipocasd/video.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNCiOlcBQjjeb4_VMfXBXdUGEiuEHs_jdOMw&usqp=CAU" group-ttle="INFORMAÇÃO",》Telecine cult
 https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinecultsd/video.m3u8|Referer=https://topcanais.com/
 
-
-#EXTINF:-1 tvg-logo="Kjkhkk" group-ttle="INFORMAÇÃO",》Canal brasil
-http://listaiptvredenet.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-ttle="INFORMAÇÃO",》tcm
 https://geralorigin.eu-central-1.edge.mycdn.live/live/tcmsd/video.m3u8|Referer=https://topcanais.com/
