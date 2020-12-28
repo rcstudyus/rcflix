@@ -2568,3 +2568,628 @@ Mike e Sulley, alunos promissores da Universidade Monstros, são forçados a se 
 [COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white][B] Animação[/B][/COLOR]
 [COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]cine.vianna10@gmail.com: Para dúvidas e pedidos - Gepeto é um carpinteiro solitário que, um dia, resolve fazer um boneco de madeira para lhe fazer companhia. Durante a noite, a Fada Azul dá vida ao boneco, que passa a se chamar Pinóquio. Ansioso para se tornar um menino de verdade, Pinóquio se mete em várias confusões, apesar dos constantes avisos de seu amigo Grilo Falante. O boneco tem uma particularidade: sempre que mente seu nariz cresce. Até o dia em que precisa resgatar seu criador, quando ele fica preso na barriga de uma baleia.[/B][/COLOR]</info>
 </item>
+
+
+<channels></channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] PETS - A VIDA SECRETA DOS BICHOS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/3vnL6jV/petsi-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLEÇÃO PETS - A VIDA SECRETA DOS BICHOS COMPLETA</info>
+<genre>ANIMAÇÃO</genre>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] PETS - A VIDA SECRETA DOS BICHOS 1 - 2016 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=FrXPs5IFN-8$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] PETS - A VIDA SECRETA DOS BICHOS 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19fcNWtlu5Cckff5uRyCcy7AoZ0A8rN0w/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] PETS - A VIDA SECRETA DOS BICHOS 1 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:168F2C06914E2FBED2D000EFBF5E22DB7E2F69E5&dn=Pets%20A%20Vida%20Secreta%20dos%20Bichos%202016%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a81%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] PETS - A VIDA SECRETA DOS BICHOS 1 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4222B182671636806475051DD6BE975B30D2AAE5&dn=Pets%20A%20Vida%20Secreta%20dos%20Bichos%202016%20%5b1080p%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a81%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] PETS - A VIDA SECRETA DOS BICHOS 1 - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] PETS - A VIDA SECRETA DOS BICHOS 1 - RES - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/PETSAVSCDBS.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] PETS - A VIDA SECRETA DOS BICHOS 1 - 1080 - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] PETS - A VIDA SECRETA DOS BICHOS 1 - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/L5CHXWb/pets1-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/pfy8yLt/pets1-fan.jpg</fanart>
+<info>Max é um cachorrinho que mora em um apartamento de Manhattan. Quando seu dono traz para casa um vira-lata desleixado chamado Duke, Max não gosta nada, já que o seu tempo de bichinho de estimação favorito parece ter acabado. Mas logo eles vão ter que colocar as divergências de lado pois um coelhinho branco adorável chamado Snowball está construindo um exército de animais abandonados determinados a se vingar de todos os pets que tem dono.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] PETS - A VIDA SECRETA DOS BICHOS 2 - 2019 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=MRvse6dSdbg$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] PETS - A VIDA SECRETA DOS BICHOS 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/127t6YZsKgNo_uWTzPIBNs08oldcGNwxT/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] PETS - A VIDA SECRETA DOS BICHOS 2 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF37F65C03375138F74400045179E24C23056D83&dn=%5bWWW.BLUDV.TV%5d%20Pets%20-%20A%20Vida%20Secreta%20dos%20Bichos%202%20%202019%20%28720p%20-%20BluRay%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] PETS - A VIDA SECRETA DOS BICHOS 2 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7600E9B66E02B661B6F1CDA3755B1EAAA604AD20&dn=%5bWWW.BLUDV.TV%5d%20Pets%20-%20A%20Vida%20Secreta%20dos%20Bichos%202%20%202019%20%281080p%20-%20BluRay%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] PETS - A VIDA SECRETA DOS BICHOS 2 - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] PETS - A VIDA SECRETA DOS BICHOS 2 - RES - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/PETSAVSCDBS2.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] PETS - A VIDA SECRETA DOS BICHOS 2 - 1080 - DUB[/COLOR]</link>
+<link>http://yorixiriamori.lhmtv.gq/futuro/-u9eV5cM5s-M/Xc17o5bPjjI/AAAAAAAAMuo/yYPpsSL_RrAIzX9NFucayKCqFiv3Mv8KwCKgBGAsYHg/m18/Pets.A.Vida.Secreta.dos.Bichos.2.2019.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] PETS - A VIDA SECRETA DOS BICHOS 2 - SD - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/TLW1RsZ/pets2-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/NW4FtpH/pets2-fan.jpg</fanart>
+<info>Max se vê enganado por Katie no primeiro trailer da animação e acaba dentro de uma clínica veterinária onde os pets não parecem nada normais. Nesta sequência, o protagonista ainda terá que se acostumar com um recém-chegado à família.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<channels></channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] CARROS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/SXpxYdb/carrosi-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLEÇÃO CARROS COMPLETA</info>
+<genre>ANIMAÇÃO</genre>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARROS 1 - 2006 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=SbXIj2T-_uk$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARROS 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cdrVHXZa48_8yRkIuPu30ebhtT0hfq0D/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARROS 1 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80d1f3247d2fea2836afb1fed1fddea27ebeeb67&dn=Carros+%282006%29+BDRIp+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARROS 1 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83D0B800EE8EED868700CD6A1D013B9133712EC6&dn=Carros%201%20%282006%29%201080p%20Dublado%20JohnL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARROS 1 - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] CARROS 1 - RES - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCFServer2/ondemand/CARROS1.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARROS 1 - 1080 - DUB[/COLOR]</link>
+<link>http://assistaiptvplay.com:80/movie/samuel1234/samuel1234/66929.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARROS 1 - SD - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/qWFvzTF/carros-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/Y7nyC7v/carros-fan.jpg</fanart>
+<info>Sensação da temporada da Copa do Pistão, o estreante Relâmpago McQueen aproveita a fama e as glórias de suas vitórias.Até o dia em que, no caminho para a corrida mais importante de sua vida, perde-se no meio da estrada. Em Radiator Springs,uma esquecida cidadezinha da velha Rota 66, que o ajudam a descobrir que há coisas mais importantes na vida do que troféus efama. Com uma trilha sonora sensacional e bônus alucinantes, incluindo um exclusivo curta animado Mate e a Luz Fantasma,Carros é garantia de diversão a toda velocidade.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARROS 2 - 2011 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=8M2NvKPW_VE$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARROS 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CsO_0HU9b70tfLdcVsqOZJFIDgKBMpBx/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARROS 2 - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] CARROS 2 - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33671E62C4AFCFCB413246F8010AEB497C2E6E94&dn=Carros%202%20%282011%29%201080p%20Dublado%20JohnL.mp4&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARROS 2 - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] CARROS 2 - RES - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCFServer2/ondemand/CARROS2.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARROS 2 - 1080 - DUB[/COLOR]</link>
+<link>http://assistaiptvplay.com:80/movie/samuel1234/samuel1234/66928.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARROS 2 - 720 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/98JHBvL/carros2-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/YkKJch6/carros2-fan.jpg</fanart>
+<info>Relâmpago McQueen volta à tona com seu melhor amigo Mater, e precisará levar seus passaportes em um mundo de intrigas, ação e comédia ao redor do mundo. Com um novo chefe, eles irão disputar a Corrida dos Campeões.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARROS 3 - 2017 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=BuvJZGLclAU$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARROS 3[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kQGdnT1IfiY8qLwT7o4dKQb3UTvmTVFs/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARROS 3 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:268763D41C6ABE82C5C4141183E9FAC4B845A798&dn=Carros+3+720p+%282017%29+Dual+%C3%81udio+BluRay+5.1+--+By+-+Lucas+Firmo&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARROS 3 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C5D770D64CDB4DD4438635D74313ED34ECE1BE36&dn=Carros.3.2017.1080p.BluRay.H264.AC3.5.1.DUAL-RICKSZ-BLUDV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARROS 3 - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] CARROS 3 - RES - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/CRS3.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARROS 3 - 1080 - DUB[/COLOR]</link>
+<link>http://assistaiptvplay.com:80/movie/samuel1234/samuel1234/66927.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] CARROS 3 - 720 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/19ChjVn/carros3-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/bFPjKFq/carros3-fan.jpg</fanart>
+<info>Surpreendido por uma nova geração de corredores incrivelmente rápidos, o lendário Relâmpago McQueen é repentinamente afastado do esporte que ama. Para voltar com tudo às corridas, ele precisará da ajuda da jovem treinadora de corridas,Cruz Ramirez. Com o seu plano para vencer, mais a inspiração do Fabuloso Doc Hudson e alguns acontecimentos inesperados,eles partem para a maior aventura de suas vidas. O teste final do campeão será na maior prova da Copa Pistão!</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS GRANDES HISTÓRIAS DO MATE - 2008 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=MlOct8tySXM$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS GRANDES HISTORIAS DO MATE[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1htTtTvwjC1BBUrnfaei-Wt51xzsPjfyH/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS GRANDES HISTORIAS DO MATE - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] AS GRANDES HISTORIAS DO MATE - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1B317887AA43F429C822B6C4433FE896AB8E1A7D&dn=Cars%20Toon%20-%20As%20Grandes%20Hist%c3%b3rias%20Do%20Mate%202010%20Bluray%201080p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS GRANDES HISTORIAS DO MATE - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] AS GRANDES HISTORIAS DO MATE - RES - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCFServer2/ondemand/CRSTONAGHDM.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS GRANDES HISTORIAS DO MATE - 1080 - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] AS GRANDES HISTORIAS DO MATE - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/nMYhDn7/matehistory-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/HpQgkSp/matehistory-fan.jpg</fanart>
+<info>Turbine seus motores para esta coleção de CARS TOON estrelado por Mate, o adorável e hilário guincho de Carros. Das mentes criativas da Disney Pixar chegam nove histórias superdivertidas envolvendo touradas, corridas, shows de rock, apresentações de caminhões-monstro e até OVNIs – e ainda veja os novos curtas Mate, O Detetive e Mate Lunático.</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] MONSTROS S/A[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/317Cvjg/monstrossai-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS MONSTROS ASSUSTADORES ATRÁS DE SUSTOS ENERGÉTICOS</info>
+<genre>ANIMAÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] MONSTROS S/A - 2001 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=iRh2kF-1X2E$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] MONSTROS S/A[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1r8IwPetsgYOk4yejCUgNZ4MnKzKg-ugL/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] MONSTROS S/A - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:780EDA17B618E5F45C02F315AFD0BAC91B5611B3&dn=Monstros%20S.A%20720p%20Dublado%20-%20Filmes%20Kickass&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] MONSTROS S/A - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae64eb917a16d99b6029158e8b4836994d80ee80&dn=Monstros+S.A+%282001%29+1080p+Dublado+&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker-ccc.de%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] MONSTROS S/A - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] MONSTROS S/A - RES - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/MNSTRSA.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] MONSTROS S/A - 1080 - DUB[/COLOR]</link>
+<link>http://assistaiptvplay.com:80/movie/samuel1234/samuel1234/66941.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] MONSTROS S/A - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/nbwKKRF/monstrosa-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/yyF7hGW/monstrosa-fan.jpg</fanart>
+<info>Sulley e seu falante assistente Mike trabalham na Monstros S.A., a maior fábrica de processamento de gritos de Monstrópolis.A principal fonte de energia do mundo dos monstros provém da coleta dos gritos das crianças humanas. Só que os montros acreditam que as crianças são tóxicas e, quando uma menininha invade o mundo deles, começa a maior confusão.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTROS - 2013 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=elKdcx9ar3k$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTROS[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pMyzsGtfvC6MCQ499arrQLkXQ83iqbuk/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTROS - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G3PPRTG54Y7LNV5TMVK23VN3MBNNDDT3&dn=Monstros%20S.A.%202001%20WWW.BLUDV.COM$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTROS - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TUHY3PESICLETNLKPQSN2N7DNXV2UM54&dn=Monstros%20S.A.%202001%20%5B1080p%5D%20WWW.BLUDV.COM$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTROS - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] UNIVERSIDADE MONSTROS - RES - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/UNIMNSTRS.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTROS - 1080 - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/UNIMNSTRS.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTROS - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/Z2yRdGT/univermonstro-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/WWJGK0M/univermonstro-fan.jpg</fanart>
+<info>Mike Wazowski e James P. Sullivan são uma dupla inseparável em Monstros S.A., mas nem sempre foi assim.Quando se conheceram na universidade, os dois jovens monstros se detestavam, com Mike sendo um sujeito estudioso, mas não muito assustador, e Sulley surgindo como o cara popular e arrogante, graças ao talento inerente para o susto.Após um incidente durante um teste, os dois são obrigados a participar da mesma equipe na Olimpíada dos Sustos. A equipe, por sinal, é formada por uma série de monstros desajustados, para o desespero de Sulley, acostumado a conviver com os caras mais populares da escola.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] HOTEL TRANSILVÂNIA[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/JR7Bwb6/transivania-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS MONSTROS NUNCA MAIS SERÃO OS MESMOS</info>
+<genre>ANIMAÇÃO</genre>
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVÂNIA 1 - 2012 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=WtyiO4ZpbmM$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVANIA[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yrQFeUDS2qEg7NygT7PH6BMu9tS9flaY/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVANIA - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FC56EF4814C671C1C126DA7C4CC4BDB0447DD7FD&dn=Hotel%20Transilv%c3%a2nia%20%282012%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVANIA - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C6CB16D5E8D301836B1D5E78F4E83BB1295AD527&dn=Hotel%20Transilv%c3%a2nia%20%282012%29%205.1%20CH%20Dublado%201080p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVANIA - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] HOTEL TRANSILVANIA - RES - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCFServer2/ondemand/HOTLTRNSVLNA1.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVANIA - 1080 - DUB[/COLOR]</link>
+<link>http://assistaiptvplay.com:80/movie/samuel1234/samuel1234/66957.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVANIA - 720 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/c2gSCSz/transinvania-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/yRLHVFt/transinvania-fan.jpg</fanart>
+<info>O Hotel Transilvânia é um resort cinco estrelas que serve de refúgio para que os monstros possam descansar do árduo trabalho de perseguir e assustar os humanos. O local é comandado pelo Conde Drácula (Adam Sandler), que resolve convidar os amigos para comemorar, ao longo de um fim de semana, o 118º aniversário de sua filha Mavis (Selena Gomez). O que ele não esperava era que Jonathan (Adam Samberg), um humano sem noção, fosse aparecer no local justo quando o hotel está repleto de convidados e, ainda por cima, se apaixonasse por Mavis.</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVÂNIA 2 - 2015 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=KCQF_AmayN0$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVANIA 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sGIM0qxw_bUzVnvLMTwSZwYv2fhc86lQ/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVANIA 2 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6CBC6967650E6F33019977843EE94F049BE7F9FC&dn=Hotel%20Transilv%c3%a2nia%202%20%282015%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVANIA 2 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F064FEB4BC38ED1FA6130DD38477CAE66BEFBDCD&dn=Hotel%20Transilv%c3%a2nia%202%20%282015%29%205.1%20CH%20Dublado%201080p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVANIA 2 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=bV3CucTzRQY$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVANIA 2 - 720 - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer2/ondemand/HOTLTRNSVLNA2.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVANIA 2 - 1080 - DUB[/COLOR]</link>
+<link>http://assistaiptvplay.com:80/movie/samuel1234/samuel1234/98866.mkv$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVANIA 2 - 720 2 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/hsXDRf1/transinvania2-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/NWS3nzP/transinvania2-fan.jpg</fanart>
+<info>A vampira Mavis (Selena Gomez) e o humano Jonathan (Andy Samberg) se casaram e continuaram morando no Hotel Transilvânia, já que Drácula (Adam Sandler) ofereceu um emprego ao genro. Ele na verdade quer que sua filha permaneça ao seu lado, especialmente quando ela revela estar grávida. Eufórico com a notícia, Drácula torce para que seu neto seja um vampiro de verdade e busca, a todo instante, indícios de que isto acontecerá.</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVÂNIA 3 - 2018 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=c1bvxbNS5dU$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVANIA 3[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eFIkgeTAXCAyygAh2b6lP2l0gJtbrmXk/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVANIA 3 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3C4F2990A7AEA7757E84C690ADB492E945553E62&dn=%7bWWW.BLUDV.TV%7d%20Hotel%20Transilv%C3%A2nia%203%20-%20F%C3%A9rias%20Monstruosas%202018%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVANIA 3 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F064FEB4BC38ED1FA6130DD38477CAE66BEFBDCD&dn=Hotel%20Transilv%c3%a2nia%202%20%282015%29%205.1%20CH%20Dublado%201080p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVANIA 3 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] HOTEL TRANSILVANIA 3  - RES - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/HTLTRNSVN3.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVANIA 3 - 1080 - DUB[/COLOR]</link>
+<link>http://anhanga.lhmtv.gq/filmes/hoteltransilvania3-dub-1080p.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] HOTEL TRANSILVANIA 3 - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/30jxRVD/transinvania3-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/ZSnjCb4/transinvania3-fan.jpg</fanart>
+<info>A família faz um cruzeiro para que Drácula possa sair de férias e abandonar por uns dias seu trabalho no Hotel Transilvânia. Tudo vai bem até que Mavis percebe que Drácula se apaixonou por uma humana que pode colocá-los em perigo.</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] INCRÍVEIS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/y4tDcrP/incriveis-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS HERÓIS ESTÃO EM APUROS MAS NADA VAI DETÊ-LOS</info>
+<genre>ANIMAÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRÍVEIS 1 - 2004 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=p5T1KLmclyk$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lqA9KRlDx12p2uK5E71T2CexoU3jS3z4/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 1 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:022AA39B9BF5F11F84BD21B6E7DA8FDC20C7E0E9$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 1 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E029098D27C543891BD3AC29FD473E80377B954A$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 1 - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] INCRIVEIS 1 - RES - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/OSINCRVS.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 1 - 1080 - DUB[/COLOR]</link>
+<link>http://assistaiptvplay.com:80/movie/samuel1234/samuel1234/66931.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 1 - 720 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/kKkNs5K/incriveis-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/MgytShm/incriveis-fan.jpg</fanart>
+<info>Beto Pêra e sua mulher Helena estavam entre os maiores super-heróis do mundo, salvando inúmeras vidas e combatendo o mal diariamente. Quinze anos depois, eles foram forçados a adotar novas identidades e a mudar-se para o subúrbio, onde vivem como cidadãos comuns com seus três filhos: Violeta, Flecha e Zezé. Louco para voltar à ação, Beto tem a sua chance quando uma misteriosa ligação o intima a comparecer a uma ilha distante para receber uma missão ultra-secreta... E aí começa a toda aventura!.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRÍVEIS 2 - 2018 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=zOZR0TRnSU8$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gL_Owh1Vk1yePfJz944r0PEwhOjB3crp/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 2 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09BAA2ADDFC024CD3D8751BFB57E87B82A116F85$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 2 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:707639C187515278C8D09A59A2A88D332036B355$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 2 - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] INCRIVEIS 2 - RES - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/OSINCRVS2.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 2 - 1080 - DUB[/COLOR]</link>
+<link>http://assistaiptvplay.com:80/movie/samuel1234/samuel1234/66930.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 2 - 720 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/YtBC67m/incriveis2-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/ZWCsvjX/incriveis2-fan.jpg</fanart>
+<info>A família de super-heróis favorita de todo mundo está de volta em Os Incríveis 2, mas dessa vez, Helena está sendo o destaque, deixando Beto em casa com Violeta e Flecha para se aventurar no dia a dia heroico de vida “normal”. É uma transição difícil para todo mundo, sendo os super poderes emergentes de Zezé o fator mais complicado. Quando um novo vilão traça uma trama brilhante e perigosa, a família e Gelado devem encontrar uma maneira de trabalhar juntos novamente, o que é mais fácil dizer do que fazer, mesmo quando são incríveis</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] AVIÕES[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Bf9h7gM/avioesi-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLEÇÃO AVIÕES COMPLETA</info>
+<genre>ANIMAÇÃO</genre>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVIÕES 1 - 2013 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=b2gWE2txmFI$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVIOES 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YnbM7Nz8Q0qZJ-HlUEu4-ld3afXKJnDj/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVIOES 1 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:894aa76e62f717b8ed4d17f81659e7e069b4bee4&dn=Avi%26otilde%3Bes+%282013%29+BDRip+bluray+720p+torrent+dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVIOES 1 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51347756d4b752ef14fb24498991f41f48297fef&dn=Avioes+1080p+Bluray+DualAudio+Dublado+5.1+%2B+Legenda&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVIOES 1 - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] AVIOES 1 - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] AVIOES 1 - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] AVIOES 1 - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/C05jCKC/avi-es1-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/j8d3ySL/avi-es1-fan.jpg</fanart>
+<info>Dusty não foi propriamente feito para participar em corridas aéreas e ainda por cima tem medo de alturas. Por isso, recorre a Skipper, um aviador naval, que ajuda Dusty a qualificar-se para competir com Ripslinger, o detentor do título de campeão do circuito de corridas. A coragem de Dusty é posta à prova quando ousa alcançar alturas que nunca imaginara possíveis, inspirando-o a voar mais alto.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVIÕES 2 - HERÓIS DO FOGO AO RESGATE - 2014 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=KHQ6lcoMQTE$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVIOES 2 - HEROIS DO FOGO AO RESGATE[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LjBxLKG7LY7-zm4CDEz4GRugM8Eawd_V/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVIOES 2 - HEROIS DO FOGO AO RESGATE - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ff3e397d0c0b1b190e7f65ca496503ec6dd91a3&dn=Avioes+2+%282014%29+BDRip+Dual+Audio+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVIOES 2 - HEROIS DO FOGO AO RESGATE - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bef541d70b5b749d17e7b3305a4415e2746c739&dn=Avioes+2+%282014%29+1080p+Bluray+Dual+Audio+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVIOES 2 - HEROIS DO FOGO AO RESGATE - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] AVIOES 2 - HEROIS DO FOGO AO RESGATE - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] AVIOES 2 - HEROIS DO FOGO AO RESGATE - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] AVIOES 2 - HEROIS DO FOGO AO RESGATE - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/YQQMdX3/avi-es2-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/gMbwpPZ/avi-es2-fan.jpg</fanart>
+<info>Aviões 2: Heróis do Fogo ao Resgate é uma nova comédia de aventura na qual Dusty se une a uma dinâmica equipe de elite de combate a incêndios e aprende o que é preciso para ser um verdadeiro herói.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<channels>
+<channel>
+<name>[COLOR lime]ESPECIAL SCOOBY DOO[/COLOR]</name>
+<thumbnail>https://uploaddeimagens.com.br/images/002/420/768/full/SCOOB-ESPECIAL.jpg</thumbnail>
+<fanart>https://uploaddeimagens.com.br/images/002/420/769/full/SCOOBYESP2.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1H1-ESPECIAL%20SCOOBY%20DOO%20MOVIES</externallink>
+<info>
+PARA OS FÃS DO MAIOR INVESTIGADOR CANINO DE MISTÉRIOS</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<channels></channels>
+<channel>
+<name>[COLOR lime]TOY STORY[/COLOR]</name>
+<thumbnail>https://musicart.xboxlive.com/7/66095100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080</thumbnail>
+<fanart>https://img.elo7.com.br/product/zoom/1DAD0F7/painel-de-festa-toy-story-4-festa-tematica.jpg</fanart>
+<info>
+COLEÇÃO TOY STORY COMPLETA</info>
+<genre>ANIMAÇÃO</genre>
+
+<item>
+<title>[COLOR lime]LS-> TOY STORY I - 1995 - 1080 - DUB[/COLOR]</title>
+<thumbnail>http://tse1.mm.bing.net/th?id=OIP.qLVtgeF4MNjmyZO0IUu17QHaLH</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dji4Fm0gCDVb9DQQMRvAI8YNnTz.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1QgULbXh5VbVH1OCAlo4UJtUqFLBJ7R3U/view</link>
+<info>Quando um reluzente 'ranger' do espaço chamado Buzz Lightyear invade o mundo de um cowboy de corda chamado Woody, desencadeia uma hilariante briga entre brinquedos. Agora o favoritismo de Woody no coração do seu jovem dono está em perigo... assim como as vidas de Buzz e Woody. Acidentalmente levados para longe de casa, estes dois briguentos rivais caem nas garras de um vizinho mau e fanfarrão e têm de trabalhar em equipa se querem escapar. Com os brinquedos amigos, Rex o Dinossauro, o exército dos Homens Verdes e o Cabeça de Batata, dispostos a ajudar, Woody e Buzz selam a sua amizade nesta fenomenal aventura para regressarem a casa.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> TOY STORY II - 1999 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/vKMLbN1tWu4FK2B7Aw4BCjVd0RT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9Kjxr4VCU0Y4DAuXkzR2moAy7DK.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1OfB7i8MMeCD3mlXqzEUqgdfhhiqMGZze/view</link>
+<info>
+Enquanto Andy está no acampamento de férias, um ganancioso colecionador de brinquedos rapta Woody. Antes que se possa dizer "ao infinito e além", Buzz Lightyear, o Sr. Cabeça de Batata, o Porquinho, Rex e Slinky entram em ação, numa missão de resgate.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> TOY STORY III - 2010 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMltbSxwEdNE4Cv8QYLpzkHWTDo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pwrnxtwmLlFYZCZN4g7xWcV5ERr.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1tCK2ktEgyACCJYSIcMpzOnYK3TIO_bu-/view</link>
+<info>Andy tem 17 anos e está prestes a ir para a faculdade. Desta forma, precisa arrumar o quarto e definir o que irá para o lixo e o que será guardado no sótão. Seus antigos brinquedos, entre eles Buzz Lightyear, Jessie e o Sr. Cabeça de Batata , são separados para serem guardados no sótão. Entretanto, uma confusão faz com que a mãe de Andy os coloque no lixo. Woody , que será levado por Andy para a faculdade, decide salvá-los. O grupo escapa, mas acaba no carro da mãe de Andy. Ela leva a uma creche diversos brinquedos, entre eles Barbie . Ao chegarem, os amigos encontram um universo até então inimaginável, onde os brinquedos sempre têm crianças para brincarem com eles.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> TOY STORY IV - 2019 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/AcEEuMoUl8MNoqQx7RkXLMWXBpx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m67smI1IIMmYzCl9axvKNULVKLr.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1ZH64q5y0zXf0c7LQX9amCIWGDw8htQEc/view</link>
+<info>Woody, Buzz, Jesse e toda a turma vivem felizes, agora como brinquedos da pequena Bonnie. Entretanto, a chegada de um garfo transformado em brinquedo, Forky, faz com que a calmaria reinante chegue ao fim, justamente porque ele não se aceita como brinquedo.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> TOY STORY DE TERROR- 2013 - SD - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cT8krQxRoioNk2KabSYuIf2yuaC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fFYzHx4tN6cSVgWcFcfJI42KOpN.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1JFH_6-HVDm7yWXV6VwXHfiVodHAbRcAG/view</link>
+<info>Os brinquedos partem em uma viagem juntamente com Bonnie, mas um evento inesperado faz com que todos parem em um hotel de beira de estrada. Quando um dos brinquedos simplesmente desaparece, Woody, Buzz e toda a turma precisam enfrentar o medo do desconhecido para encontrá-lo.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> TOY STORY -ESQUECIDOS PELO TEMPO- 2014 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Xb82yrdcUpie0NLOD2K7kif6QC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lBIU50ihAcSJtxrayTv1CmyP7r0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1JSfKoqOCZZsucTlryEbVTfeSBMPy4A1R/view</link>
+<info>Durante uma brincadeira de natal, Woody, Buzz e companhia entram em uma nova aventura quando se deparam com um grupo de
+perigosas e delirantes figuras de ação. Cabe a Trixie ajudar seus amigos a voltarem sãos e salvos para o quarto.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> AVENTURAS DE BETTY - 2020 - 720 - DUB [/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BqqpNdlhEVZeVGwlEPGT0HPeJo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4CiNzVks1FmMCSRn3Z4RFRaipJf.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1073Q6JyhoFqJYO3eL6S8kYHlVIFQCE46/view</link>
+<info>Ambientado no parque de diversões, a pastora de ovelhas aparece no topo da roda gigante com os outros brinquedos narra os acontecimentos de sua vida entre Toy Story 2 e Toy Story 4.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+<item>
+
+
+<channels></channels>
+<channel>
+<name>[COLOR lime]ERA DO GELO[/COLOR]</name>
+<thumbnail>https://uploaddeimagens.com.br/images/002/416/281/full/era-do-gelo-icon-2.jpg</thumbnail>
+<fanart>https://uploaddeimagens.com.br/images/002/416/251/full/era-do-gelo.jpg</fanart>
+<info>
+COLEÇÃO ERA DO GELO COMPLETA</info>
+<genre>ANIMAÇÃO</genre>
+
+<item>
+<title>[COLOR lime]LS-> ERA DO GELO I - 2002 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecjXYFzc11nhGO0JqYunBBOfK8v.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/a9ykRAWtQnI3SsZDfh8sCJo5cWI.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1jTDLdIKWbRNlMPMjb4vdKMYf4RbIkWF6/view</link>
+<info>O mamute Manny,o tigre de dente de sabre Diego e a preguiça-gigante Sid são amigos em uma época muito distante dos dias atuais e vivem suas vidas em meio a muito gelo. Até o dia em que eles encontram um menino esquimó totalmente sozinho,longe de seus pais, e decidem que precisam ajudá-lo a achar a sua família. Enquanto isso, o esquilo pré-histórico Scrat segue na sua saga para manter sua amada noz protegida de outros predadores.
+</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR red]ERA DO GELO 2 - 2006 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SNlGmwnpGMYGjc5kZG9ValLpkW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wRTZaxAiDP0ZEeQsO0HiiSqYCSp.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO G DRIVE</link>
+<info>A era glacial está chegando ao fim e como consequência surgem em todo lugar gêiseres e verdadeiros parques aquáticos.O mamute Manfred, o tigre Diego e o bicho-preguiça Sid logo descobrem que toneladas de gelo estão prestes a derreter,o que inundaria o vale em que vivem. Logo, o trio de amigos precisa correr para avisar a todos do perigo e ainda encontrar um local em que não corram riscos.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR red]ERA DO GELO 3 - 2009 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kfpCRiFbzjAkShZXFQTA2ORhDS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1lXhppR9qqF5xezLhzh10Qw0gz.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO G DRIVE</link>
+<info>Manny e Ellie estão à espera de seu primeiro filho. Sid encontra alguns ovos de dinossauro,o que faz com que passe a ter sua própria família adotiva. Só que o roubo faz com que se meta em apuros, com a mãe tiranossauro vindo atrás de seus rebentos. Ela leva os três filhotes e ainda Sid para um mundo subterrâneo, onde os dinossauros ainda existem, o que obriga Manny, Ellie e Diego a irem em sua busca para resgatá-lo.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR red]LS-> ERA DO GELO IV - 2012 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/mrLTs9yt2nQHdz7Qmn9QxgnO1CV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tZGKKeWGejt63jiSdi7MTAjCFE9.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1UErRr3abA6XJgLY4-bDY73o8jN7YtNq_/view</link>
+<info>Sempre em busca de sua cobiçada noz, o esquilo Scrat provoca, sem querer, a separação dos continentes.A situação provoca mudanças no terreno de vários locais, entre eles onde os amigos Manny, Diego e Siid estão alojados.Um terremoto faz com que o trio fique preso em um iceberg, enquanto que Ellie e a pequena Amora permanecem no continente. Em alto mar, Manny promete que irá encontrá-las a qualquer custo, mas para tanto precisará enfrentar perigosos piratas e o canto das sereias.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+
+
+<channels></channels>
+<channel>
+<name>[COLOR lime]KUNG FU PANDA[/COLOR]</name>
+<thumbnail>https://caicaras.com.br/wp-content/uploads/2019/04/po-kung-fu-panda.jpg</thumbnail>
+<fanart>http://papelarrozkantinhodobolo.com.br/wp-content/uploads/2017/08/2-62.jpg</fanart>
+<info>
+COLEÇÃO KUNG FU PANDA COMPLETA</info>
+<genre>ANIMAÇÃO</genre>
+
+<item>
+<title>[COLOR lime]LS-> KUNG FU PANDA I - 2008 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/2Paj1nufT0jeSY0G4u3RC31HIGT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/UJwhgwAxU42cm9XKncO9boFAEV.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1C2ode2fCztEzOYqy4gkBx26R0ApZ3NNC/view</link>
+<info>Po é um urso panda desajeitado, que trabalha no restaurante de macarrão de sua família. Um dia ele é surpreendido ao saber que foi escolhido para cumprir uma antiga profecia, o que faz com que treine ao lado de seus ídolos no kung fu: os mestres Shifu, Garça, Tigresa, Louva-deus, Macaco e Víbora. Quando o traiçoeiro leopardo da neve Tai Lung retorna, cabe a Po defender o Vale da Paz.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> KUNG FU PANDA II - 2011 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://cloud.filmfed.com/movies/posters/l_e28f8436-8d80-4aae-8483-ab336ee5369b.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mD7SXDFQMMENfLKw9ejW8pvmjC7.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1JQInlaHwHtU1rKypCnGTNndMnDdzGAsm/view</link>
+<info>Po vive o sonho de ser o dragão guerreiro, protegendo o Vale da Paz ao lado dos mestres Shifu, Tigresa, Macaco, Víbora, Louva-deus e Garça. Sua vida pacata chega ao fim quando surge um novo inimigo, o lorde Chen, que possui uma arma secreta capaz de permitir a conquista da China e provocar o fim do kung fu. Para impedi-lo, Po e os Cinco Furiosos precisam cruzar o país e derrotá-lo.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> KUNG FU PANDA III - 2016 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/ws4sgGi3fo1Bed3fWqxrzSsLa8R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eHWmEUP4fa7h1Fe7TXfTL7ncDl8.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1JQInlaHwHtU1rKypCnGTNndMnDdzGAsm/view</link>
+<info>Desta vez, Mestre Shifu tem como principal ensinamento fazer com que Po aprenda a técnica de dominação do Chi, uma espécie de “energia vital”. Porém, o atrapalhado panda acaba se desconcentrando com a chegada do pai de sangue, o panda Li, que o carrega para a vila secreta dos pandas – aguçando o ciúme do Sr Ping, o “pai” ganso de Po. Em paralelo, o poderoso touro Kai, O Coletor, um centenário inimigo do Mestre Oogway, reúne forças para voltar para o mundo dos vivos e tomar o que ele acha que é dele por direito. Caberá a Po e seus amigos impedir o maléfico plano do vilão.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime]SHREK[/COLOR]</name>
+<thumbnail>https://media.proprofs.com/images/QM/user_images/2287999/1526074172.jpg</thumbnail>
+<fanart>https://uploaddeimagens.com.br/images/002/415/568/full/SHEREK.jpg?1570920263</fanart>
+<info>
+COLEÇÃO SHREK COMPLETA</info>
+<genre>ANIMAÇÃO</genre>
+
+<item>
+<title>[COLOR lime]LS-> SHREK I - 2001 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/5c/cd/27/5ccd27ce18f2d11b5e002dcc5f13ca25.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rpEPlKeVdQkX7oVojXATvgHlSzP.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1giDW0cEHrSCituOE1KbS9GNcHrmoL5P6/view</link>
+<info>Em um pântano distante vive Shrek, um ogro solitário que vê, sem mais nem menos, sua vida ser invadida por uma série de personagens de contos de fada, como três ratos cegos, um grande e malvado lobo e ainda três porcos que não têm um lugar onde morar. Todos eles foram expulsos de seus lares pelo maligno Lorde Farquaad. Determinado a recuperar a tranquilidade de antes, Shrek resolve encontrar Farquaad e com ele faz um acordo: todos os personagens poderão retornar aos seus lares se ele e seu amigo resgatarem uma bela princesa, que é prisioneira de um dragão. Porém, quando Shrek e o Burro enfim conseguem resgatar a princesa logo eles descobrem que seus problemas estão apenas começando.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> SHREK II - 2004 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/akWDA0BMVYK4OTM92T5i91DYnsT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rieLCLsemrccxbRozuQVysaBt4A.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1CekPCtMfmj9QsrPtgLWceMZu7tkGOS84/view</link>
+<info>Após se casar com a Princesa Fiona, vive feliz em seu pântano. Ao retornar de sua lua-de-mel Fiona recebe uma carta de seus pais, que não sabem que ela agora é um ogro, convidando-a para um jantar juntamente com seu grande amor, na intenção de conhecê-lo. A muito custo Fiona consegue convencer Shrek a ir visitá-los, tendo ainda a companhia do Burro. Porém os problemas começam quando os pais de Fiona descobrem que ela não se casou com o Príncipe, a quem havia sido prometida, e enviam o Gato de Botas para separá-los.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> SHREK III - 2007 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2b0fNiMUp8kojZoaox75vPu3Sia.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bpCWEH8UOn7Bs6t2WysrbB74tLY.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1IdGMeBCmy_OVIp8vuGeSgXCyNOV_uX8K/view</link>
+<info>O rei Harold , pai de Fiona, morre repentinamente. Com isto Shrek precisa ser coroado rei, algo que ele jamais pensou em ser. Juntamente com o Burro e o Gato de BotaS, ele precisa encontrar alguém que possa substituí-lo no cargo de soberano do Reino de Tão, Tão Distante. O principal candidato é Artie, um jovem desprezado por todos em sua escola, que é primo de Fiona.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> SHREK IV PARA SEMPRE - 2010 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKzWFq3N8TDiOhudLJMusuRIOlE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aD8iOuLlEiMfVlHTnAe15fZLo0S.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1Sa-BzwqJYGDoOf5Gt4dVRhU2Il4FUby1/view</link>
+<info>Shrek está entediado. Sua antiga vida de aventuras foi substituída pela de pacato pai de família. Casado com Fiona e pai de três filhos, Shrek sente falta da adrenalina e da liberdade que tinha no passado. Para recuperá-los, ele firma um pacto com Rumpelstiltiskin. Imediatamente Shrek é levado a uma versão alternativa do Reino de Tão, Tão Distante, onde Fiona é uma temível ogro e ele não é mais reconhecido pelo Burro e o Gato de Botas, seus melhores amigos.</info>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> SHREK 3D O FANTASMA DE LORD FARQUAAD - 2003 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/nf37Rz0CkIe9cmT7tf2XHNBk9qT.jpg</thumbnail>
+<fanart>https://i0.wp.com/ichef.bbci.co.uk/images/ic/1200x675/p04df1w0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1QatYXccRe9NGEltbxr-T8ug6ezYbd4PQ/view</link>
+<info>Shrek, a sua noiva Fiona e o fiel amigo Burro são vitimas de uma emboscada armada por Thelonius, o pajem de Lord Farquaad. Levando a Princesa Fiona como refém, Thelonius foge para a Floresta Encantada. Shrek e o Burro perseguem-no na sua fabulosa carruagem-cebola numa tentativa desesperada de salvar Fiona. Conseguindo salvá-la, os nossos heróis são contudo surpreendidos pelo fantasma do minúsculo Farquaad. Uma fogosa e irrespirável batalha começa, com os nossos recém-casados ogros à beira de uma vertiginosa queda de água!</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> NATAL SHREKTACULAR DO BURRO - 2010 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/LKOTf5FRfyRj4e4LK1GuI7b269.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3GaNNflbidNujnTB9aCZw96vZib.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1BFC2WHIxBe9xHI4yOqhDpU2LRu-NTEnw/view</link>
+<info>As risadas do Burro vão encher os salões, nesta coletânea de Natal totalmente nova. Burro apresenta seu próprio show natalino, com seus amigos de Tão Tão Distante, neste alegre presente musical, com todos os enfeites da época! Entre no SHREKTACULAR espírito natalino, com as festivas canções, a engraçada Decoração do Burro e uma hilariante lareira virtual que é tão cômica, que está pegando fogo!</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]SHREK ESPECIAL DE NATAL - 2007 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/9hNBoLoeW9dQrRe1clDORSamHdp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2lOELLpGRbwP23HMu760WAVhQYM.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1630z0s1PxZEamgeMiKFB4Ho2av4bWkfH/view</link>
+<info>O Natal está chegando e Fiona está empolgada para passar seu primeiro Natal com Shrek e seus filhos. O problema é que Shrek não tem ideia de como se comemora essa data. Ele, então, compra um livro para ajudá-lo. Tudo corre bem com os preparativos até que Burro e os outros personagens aparecem em sua casa para a festa de Natal.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
