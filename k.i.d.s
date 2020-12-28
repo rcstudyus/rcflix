@@ -3193,3 +3193,290 @@ https://drive.google.com/file/d/1630z0s1PxZEamgeMiKFB4Ho2av4bWkfH/view</link>
 <info>O Natal está chegando e Fiona está empolgada para passar seu primeiro Natal com Shrek e seus filhos. O problema é que Shrek não tem ideia de como se comemora essa data. Ele, então, compra um livro para ajudá-lo. Tudo corre bem com os preparativos até que Burro e os outros personagens aparecem em sua casa para a festa de Natal.</info>
 <genre>ANIMAÇÃO</genre>
 </item>
+
+
+<item>
+<title>[COLOR lawngreen][B]Bob Esponja: O Incrível Resgate[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9E7C4D6F7E5D3445656E502A3627A5515DE46D30</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/d88x4Jnyhr4xErOYeJCspcxI34h.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Onde está Gary? Segundo Bob Esponja, Gary foi "caracolstrado" pelo temível Rei Poseidon e levado para a cidade perdida de Atlantic City. Junto a Patrick Estrela, ele sai em uma missão de resgate ao querido amigo, e nesta jornada os dois vão conhecer novos personagens e viver inimagináveis aventuras.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]A Dama e o Vagabundo - Animação[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9B748336047B2347C4641C9E84657D5C53011BBE</link>
+<thumbnail>https://hidratorrent.org/capas/a-dama-e-o-vagabundo-animacao-download-torrent-1955-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Clássica animação dos estúdios Disney que encanta adultos, crianças e, principalmente, casais de namorados ao longo dos últimos cinqüenta anos. Essa edição comemorativa apresenta atrativos especiais tanto para os que já são fãs do filme quanto para as novas gerações que ainda não se encantaram com a clássica história de amor entre uma cadela de uma família endinheirada com um cão vira-lata de rua. O filme conta com uma das cenas mais clássicas de todos os tempos, clichê em qualquer especial sobre dia dos namorados em qualquer parte do mundo: quando o casal divide um prato de macarronada e ambos acabam mordendo o mesmo fio, culminando num beijo. A produção conta essa história de amor e une boas cenas de aventura, o que torna o filme imperdível para qualquer fã de cinema, que apesar de seus cinqüenta anos de idade, ainda é atual.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Tina e Téo - A Pedra Encantada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a309931419b42c48e0a1d0008bdc1c62b79ba73</link>
+<thumbnail>https://hidratorrent.org/capas/tina-e-teo-a-pedra-encantada-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Tina não tem medo de nada, ao contrário de seu amigo Téo, o esquilo. Juntos, eles têm a missão de encontrar a pedra encantada para que a água volte à floresta. Uma incrível aventura ecológica para toda a família!</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Mortal Kombat Legends - Scorpions Revenge[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e6fc6def57c66b05de0a45656b9bf7bd01fee75</link>
+<thumbnail>https://hidratorrent.org/capas/mortal-kombat-legends-scorpions-revenge-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Mortal Kombat Legends – A Vingança de Scorpion Dublado (download e online) Após o massacre cruel de sua família pelo mercenário Sub-Zero, Hanzo Hasashi é exilado no tortuoso Netherrealm, lá, em troca de sua servidão ao sinistro Quan Chi, ele tem a chance de vingar sua família – e ressuscita como Scorpion, uma alma perdida e vingativa. De volta ao Earthrealm, Lord Raiden reúne uma equipe de guerreiros de elite – o monge Shaolin Liu Kang, a oficial das Forças Especiais Sonya Blade e o ator de ação Johnny Cage – um grupo improvável de heróis com uma chance de salvar a humanidade. Para fazer isso, eles devem derrotar a horda de gladiadores do Outworld de Shang Tsung e vencer o torneio Mortal Kombat</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Superman - Homem do Amanhã[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bdaf7816161f1f0d1eb0e92483d9a959f4ac174</link>
+<thumbnail>https://hidratorrent.org/imagens/superman-homem-do-amanha-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: O estagiário do Daily Planet, Clark Kent, leva o aprendizado no trabalho a novos horizontes quando o Lobo e Parasita estão de olho em Metropolis.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Pets Unidos![/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab20cd39c3c4b62f084a9e0aa7d0b9f6ddcda13b</link>
+<thumbnail>https://hidratorrent.org/imagens/pets-unidos-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Em Pets Unidos!, quando Roger (um cachorro ao melhor estilo Robin Hood) e Belle (uma gata de estimação elegante, porém mimada) são jogados juntos em meio ao caos de um robô que toma conta de sua cidade natal, eles devem deixar todos os seus preconceitos de lado para sobreviver, enquanto embarcam em uma grande aventura.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Super Monsters - The New Class[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F835E02025C8F241A42ECBB35B666C126A318FCF</link>
+<thumbnail>https://hidratorrent.org/imagens/super-monsters-the-new-class-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Uma nova turma de monstrinhos chega à escola, e os Super Monstros aumentam ainda mais seus superpoderes na Sala Roxa!</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]José - O Rei dos Sonhos[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93118149A6E0D136EA57BC10CFD618E397FB4AEF</link>
+<thumbnail>https://1.bp.blogspot.com/-eG05w3ROXKQ/W7LNLM_LeII/AAAAAAAAA98/SKgJVM-W1NoquTYc9FYhdLJKSNchcaQpQCLcBGAs/s1600/Jos%25C3%25A9%2BRei%2Bdos%2BSonhos%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: José: O Rei dos Sonhos. Um dos filmes mais elogiados pela crítica, esta inspiradora aventura musical reconta a clássica história de um garoto com um dom extraordinário de prever o futuro através de seus sonhos. Vencedor do Film Advisory Board Award of Excellence, José: O Rei dos Sonhos é um tesouro atemporal para todas as gerações, com cinco inesquecíveis novas canções, animação estupenda!</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]A Estrela de Belém[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67D62017BFAA800F48BCFFBB26B70D601D030556</link>
+<thumbnail>https://3.bp.blogspot.com/-Aqm-fdhwj3M/WnjQApRG7nI/AAAAAAAAIFs/VFWCRb_IHGMYaJWCG_mKhPv4m-5tZp6ggCLcBGAs/s1600/A-Estrela-de-Belem-torrent-dublado-bluray-1080p-720p.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Bo é um jovem asno que está cansado de ficar aprisionado em um estábulo, onde sempre anda em círculos para fazer com que o moinho funcione. Incentivado pelo pássaro Davi, seu melhor amigo, ele consegue escapar e, na fuga, se esconde em meio a uma festa de casamento. Ao término do evento, ele é encontrado pela recém-casada Maria, que carrega no ventre aquele que será conhecido como o filho de Deus</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Cães Estelares[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1bfa28a83a7b5be24b677d23bd62207a778b6057&dn</link>
+<thumbnail>https://hidratorrent.org/capas/caes-estelares-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/caes-estelares-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>A equipe da Star Paws está de volta e desta vez a galáxia inteira está em jogo! Quando um gato malvado chamado Marlon Butterpaws faz planos para destruir o universo, cabe a uma equipe de cães espaciais de elite conhecida como Star Paws encontrar e parar Butterpaws e salvar o mundo!</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]As Aventuras de Fujiwara Manchester [NAC][/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8a544a93ebbc27637d5bc210c1cd259ccd7c014&dn</link>
+<thumbnail>https://hidratorrent.org/capas/as-aventuras-de-fujiwara-manchester-o-filme-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/as-aventuras-de-fujiwara-manchester-o-filme-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>As Aventuras de Fujiwara Manchester é uma série animada brasileira coproduzida pela Um Filmes e Buba Filmes. É uma série de ficção científica, ação e comédia, que estreou na TV Cultura em março de 2017. O enredo se desenvolve no século XXVII. Fujiwara Manchester é um aventureiro em busca de uma antiga joia perdida, que pode provocar a destruição da galáxia. Sua primeira temporada tem treze episódios, cada um com onze minutos de duração. Criada por Alê Camargo e produzida por Arnaldo Galvão, conta a participação do designer e consultor Andrew Probert, criador da espaçonave Enterprise do filme Jornada nas Estrelas: A Nova Geração e da máquina do tempo DeLorean, da saga De Volta para o Futuro. A série deveria estrear em 2014, mas isso só aconteceu três anos depois. </info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]O Show da Luna - Das Ilhas ao Continente[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:311f19feeb3d24711e9f376245b6a594d0dcbd6d&dn</link>
+<thumbnail>https://hidratorrent.org/capas/o-show-da-luna-das-ilhas-ao-continente-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/o-show-da-luna-das-ilhas-ao-continente-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Luna é uma garotinha totalmente, incrivelmente e desesperadamente apaixonada por ciência. Com a ajuda de Júpiter e Cláudio, ela vai conhecer alguns dos lugares mais incríveis do planeta, ilhas, desertos, até a África! Embarque nesta viagem!</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Peppa Pig - George O Gigante[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9713e2346d2d9723965b7c6851b9eb23aace69c&dn</link>
+<thumbnail>https://hidratorrent.org/capas/peppa-pig-george-o-gigante-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/peppa-pig-george-o-gigante-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Histórias incríveis de George Pig e sua Irmã Peppa Pig. Peppa, uma simpática porquinha cor-de-rosa, vive na Europa ao lado dos pais e do irmão caçuila George. Com eles, todo dia é uma diversão diferente.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Pé Grande Vs. Papai Noel[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2c78d9a8c5660985031e6b53ac2c0aed1e8c996&dn</link>
+<thumbnail>https://hidratorrent.org/capas/pe-grande-vs-papai-noel-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/pe-grande-vs-papai-noel-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Um menino e seu dragão tentam resgatar o Papai Noel dos planos de um Arvid, o yeti mais maligno de todo o Pólo Norte.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]UglyDolls[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf684966eec1708eaf334b695c3ef75eee2be975&dn</link>
+<thumbnail>https://hidratorrent.org/capas/uglydolls-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/uglydolls-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Em Uglyville, conheceremos a espirituosa Moxy (Kelly Clarkson), enquanto ela e seus amigos confrontam o que significa ser diferente.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]A Princesa Encantada - O Reino da Música[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70aec3b81bc01a440de6ad3b32187e81cb95dc0b&dn</link>
+<thumbnail>https://hidratorrent.org/capas/a-princesa-encantada-o-reino-da-musica-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/a-princesa-encantada-o-reino-da-musica-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>A princesa Odette (Nina Herzog) está apresentando uma competição de música em comemoração ao aniversário da princesa Alise, e o vencedor irá cantar para ela em seu baile. Enquanto isso, a princesa Mei Li procura Odette e Derek (Yuri Lowenthal) para ajudar Chen, que foi amaldiçoado a viver na forma de um dragão para sempre.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Batman - Silêncio[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CD35265C92FF13A6BF52587244913680DB456495&dn</link>
+<thumbnail>https://hidratorrent.org/capas/batman-silencio-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/batman-silencio-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Batman: Silêncio baseado na saga de exato mesmo nome dos quadrinhos, que trouxe um novo vilão para a galeria do Homem-Morcego, capaz de assumir sua identidade e causar o caos em Gotham City.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Brightburn - Filho das Trevas[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80525bb6a604a42955f3b5d820e1fbc9a2dc0537&dn</link>
+<thumbnail>https://hidratorrent.org/capas/brightburn-filho-das-trevas-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/brightburn-filho-das-trevas-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Quando uma criança alienígena cai no terreno de um casal da parte rural dos Estados Unidos, eles decidem criar o menino como seu filho. Porém, ao começar a descobrir seus poderes, ao invés de se tornar um herói para a humanidade, ele passa a aterrorizar a pequena cidade onde vive, se tornando uma força obscura na Terra.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]O Parque dos Sonhos[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:526bbf340c2f4f7da82fb3d15c236bcead964d25&&dn</link>
+<thumbnail>https://hidratorrent.org/capas/o-parque-dos-sonhos-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A jovem otimista e sonhadora June encontra escondido na floresta um parque de diversões chamado Wonderland, que é cheio de passeios e animais que falam. O único problema é que o parque está confuso e desorganizado. June logo descobre que o parque veio de sua imaginação e que ela é a única que pode deixar o lugar mágico de novo. </info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Pokémon Detetive Pikachu [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a57f2d2fe180aea166a012ded4f5a3693525520&dn</link>
+<thumbnail>https://hidratorrent.org/capas/pokemon-detetive-pikachu-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/pokemon-detetive-pikachu-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info> Após seu pai, um detetive, desaparecer em um acidente de carro, Tim Goodman (Justice Smith) chega à Ryme City e conhece o Detetive Pikachu (Ryan Reynolds), sendo coincidentemente o único a compreender o que ele fala. Juntos, eles resolvem alguns mistérios na cidade, incluindo o paradeiro de seu pai.</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Pokémon,O Filme[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E5A0AC198F006D9658D0836BBFB0EC84AC3E971B&dn</link>
+<thumbnail>http://www.jwave.com.br/wp-content/uploads/2018/08/1533587890329fa36ac33ede8c2f80a5fc02ab8b35.jpg</thumbnail>
+<fanart>https://switch-brasil.com/wp-content/uploads/2018/07/Pokemon-o-Filme-21-O-Poder-de-Todos.jpg</fanart>
+<genre> [COLOR White][B]  Ação Animação Aventura[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white]  O Poder de Todos, Todo ano, os cidadãos da cidade de Fura celebram um Festival do Vento, homenageando o Pokemon lendário Lugia, que protegeu a cidade da destruição anos atrás. Quando o destino de Fura City e seu festival é colocado em risco, Ash e Pikachu terão que se juntar a um time de diversos personagens para salvá-la.[/COLOR] IMDb 6,5[/B]</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Barbie Dreamtopia Festival da Alegria [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a839cfa7fac8723cdd9e0b82e4756e47a306d966&dn</link>
+<thumbnail>https://hidratorrent.org/capas/barbie-dreamtopia-festival-da-alegria-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/barbie-dreamtopia-festival-da-alegria-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Barbie, Chelsea, e seu filhote de cachorro Mel nadam através dos rios do arco-íris com as sereias bonitas e voam através das nuvens do algodão doce com fadas em um mundo mágico. </info>
+</item>
+
+<item>
+<title> [COLOR orange][B][COLOR lime]Dumbo[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5162AF262CD1AC719EFD0AB50175DB9EE55BFA10&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/A7XkpLfNH0El2yyDLc4b0KLAKvE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AkpE4O8xc4GXEWNsfRuTbb5jYqK.jpg</fanart>
+<ano>2019</ano>
+<genre> [COLOR White][B] Aventura, Família, Fantasia[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: Da Disney e do visionário diretor Tim Burton, a novíssima aventura `Dumbo´ em sua versão live-action aborda a clássica história em que as diferenças são celebradas, a família valorizada e os sonhos ganham asas. O dono de circo Max Medici (Danny DeVito) convoca a ex-estrela Holt Farrier (Colin Farrell) e seus filhos Milly (Nico Parker) e Joe (Finley Hobbins) para cuidar de um elefante recém-nascido cujas orelhas enormes fazem dele motivo de piada em um circo que está passando por dificuldades. Somente quando eles descobrem que Dumbo pode voar o circo dá a volta por cima.[/COLOR] IMDB: 6.6/10[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Como Treinar o Seu Dragão 3[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:492783def6c84b8a511ce4d0f6fe2d710970f289&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/4t8wUbgIIyRjGzYiQjSOcayCY1B.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lqROGEZ7NvUX08dAzUSJQcy8m74.jpg</fanart>
+<genre> [COLOR White][B] Animação, Ação, Aventura[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: Soluço busca realizar seu grande sonho de encontrar um lar pacífico onde os dragões possam viver em segurança. Lá, Banguela descobre uma companheira, assim como ele, mas um tanto selvagem. Mas é quando o perigo começa a rondar o lar, que a dupla Banguela e Soluço é testada e precisa tomar decisões difíceis para salvar suas espécies.[/COLOR] IMDb: 8,2/10[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Tokyo Ghoul[/COLOR] xx[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9445ed3364948a3d2e153535e428f21043c57e7&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tMs8ZJ2dNJ0fExF7ISXJvOov4Y6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/btjMe2wSFZKA01JdQFOusm7K6rT.jpg</fanart>
+<genre> [COLOR White][B] Ação, Drama, Terror[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: Em Tokyo, criaturas conhecidas como “Ghouls” vivem entre os humanos e os devoram para sobreviver. Alheio a eles, o jovem universitário Ken Kaneki leva uma vida pacata entre livros, até que um trágico encontro o coloca diante desses seres e o obriga a lutar por sua humanidade.[/COLOR] IMDb: 6,1/10[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Zumbilênio: O Parque dos Monstros[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:489b380c34496c34c56e36cc789f8b3d5f445ab2&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/w2HamcBWs8Uv2Xgt2nNPlOtyczU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1280/fWeIcLKCDmHR8VAooNEGAmoY2id.jpg</fanart>
+<genre>[COLOR White][B] Animação, Comédia, Fantasia[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: O Zumbilênio é um parque de diversões como nenhum outro: Somente legítimos lobisomens, vampiros, zumbis e outros cidadãos da comunidade dos mortos-vivos trabalham nele… Por toda a eternidade. Um dia, Hector, um jovem inspetor de qualidade, decide analisar a segurança do parque e ameaça fechá-lo. Francis, o vampiro que administra o parque, se vê sem opção além de mordê-lo para proteger seu negócio. E assim, Hector está contratado. Ele então conhece seus colegas de trabalho e Gretchen, uma bruxa estagiária do parque, que ensina a ele a cultura do seu novo ambiente de trabalho. Hector pode ser a última chance do Zumbilênio: O número de público está caindo e o parque precisa de uma nova atração especial para evitar a falência. Mas, no fundo, Hector, não para de pensar em sua jovem filha, Lucie, que espera por ele no mundo “real”[/COLOR] IMDb: 6,5/10[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Encantado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da9b98b17ca3e38b088a8ae983baa68726cec66b&dn</link>
+<thumbnail>https://i.pinimg.com/originals/14/f8/ae/14f8ae652ccbe2dc31e345b719fedeb2.jpg</thumbnail>
+<fanart>https://cdn-images.rtp.pt/icm/noticias/images/3b/3b7945e7a27ab4dfc4fff041bb74c84c?860&rect=252,0,1027,563jpg</fanart>
+<genre> [COLOR White][B]  Animação, Comédia, Família[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: Uma nova versão sobre o conto de fadas das princesas. Cinderela, Branca de Neve e Bela Adormecida estão animadas com seu noivado com o Príncipe Encantado. O que elas não esperavam é que todas estão noivas do mesmo príncipe.[/COLOR] IMDb: 5,9/10[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Dragon Ball Super Broly[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4f68f86b760eb7f721e314abf5900693f1bbbeb&dn</link>
+<thumbnail>https://i.pinimg.com/originals/04/69/60/0469600627ff253103633ec5d274ef95.jpg</thumbnail>
+<fanart>https://eventnook.s3.amazonaws.com/u/70605/coverimage_1902090305117_10.jpg</fanart>
+<genre> [COLOR White][B]Ação, Animação, Aventura[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Esta é a história de um novo Saiyajin. A Terra está em paz depois do fim do ‘Torneio do Poder’. Goku não quer nada além de treinar, já que agora compreende quantas pessoas fortes existem nos universos que ele ainda não conheceu. Então, um dia, um Saiyajin desconhecido chamado ‘Broly’ aparece diante de Goku e Vegeta. Como é possível que um Saiyajin esteja na Terra quando ele deveria ter sido destruído junto com o Planeta Vegeta? De volta do inferno mais uma vez, Freeza também aparece e os três Saiyajins que tiveram caminhos completamente diferentes se encontram em um intenso conflito. SOBRE O SITE: torrentmegafilmes.org é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Os arquivos aqui mostrados não são hospedados neste servidor todo e qualquer link (Torrent) é criado por usuários e disponibilizados na web, apenas encontramos esses links e organizamos e colocamos as capas e os trailers e agregamos ao Site! Não somos responsáveis pelos arquivos aqui encontrados.”[/COLOR] IMDb 9.0[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Hotel Transilvania 3[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DDE9D8273D94EF21BBB9BC6680A9A2C2CE0FAFA7&dn</link>
+<thumbnail>https://img.wook.pt/images/hotel-transylvania-3---livro-do-filme-stacia-deutsch/MXwyMTk4MDI1NnwxNzg0MzAxNHwxNTI3NTQ4NDAwMDAw/250x</thumbnail>
+<fanart>http://www.osul.com.br/wp-content/uploads/2018/07/TRANSI.jpg</fanart>
+<genre> [COLOR White][B]Ação, Animação, Aventura[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Solitário e infeliz, buscando um novo amor na internet, Drácula é surpreendido com um presente da querida filha: férias em um cruzeiro. Inicialmente resistente à ideia, ele acaba engajado no passeio ao se encantar pela comandante, que, no entanto, esconde um segredo nada amigável. [/COLOR] IMDb 6.4[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Homem-Aranha no Aranhaverso[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ced8f606965b435b222f85edae1dcaea705f6d4f&dn</link>
+<thumbnail>https://pipocamoderna.com.br/wp-content/uploads/2018/11/spiderman_into_the_spiderverse_ver3_xlg.jpg</thumbnail>
+<fanart>https://s2.glbimg.com/ugIp7108pC_WOMjwvwsRZSlMwhQ=/e.glbimg.com/og/ed/f/original/2019/01/08/download.jpg</fanart>
+<genre> [COLOR White][B]  Ação Animação Aventura[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Miles Morales é um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, já falecido. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói aracnídeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras variações do Homem-Aranha. [/COLOR] IMDb 8.7[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Scooby-Doo e a Maldição do 13° Fantasma[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:227882f1c9f6e0a01d91a0202adf5f9bfeb0fc2c&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/um5o9VncNiQrjNa6vKueHFRV3q8.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-hzzgw268528/W-NNpdFEjeI/AAAAAAAAVVM/SzYb1S1YDFcHDRxWK5hSs8hpPv5DLPfpgCLcBGAs/s1600/Scooby-Doo%2Be%2Ba%2BMaldi%25C3%25A7%25C3%25A3o%2Bdo%2B13%25C2%25B0%2BFantasma.jpg</fanart>
+<genre> [COLOR White][B]  Ação Animação Aventura[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] No Torrent Scooby-Doo e a Maldição do 13° Fantasma, Scooby-Doo e seus amigos embarcam em uma emocionante jornada em busca do do misterioso baú perdido contendo os espíritos de 12 perigosos fantasmas, na intenção de capturar o 13º fantasma que escapou. Enquanto o mundo inteiro está em perigo pela ameaça do ser fantasmagórico, eles precisam correr contra o tempo para solucionar mais um mistério.[/COLOR] IMDb 7.5[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Reino do Superman[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OYTZVXIZTS7U5W3HHJ4TKAIDJ6U2KZLE&dn</link>
+<thumbnail>http://www.vortexcultural.com.br/images/2019/01/Reign-of-the-Supermen.jpg</thumbnail>
+<fanart>https://images.justwatch.com/backdrop/104455361/s1440/reign-of-the-supermen</fanart>
+<genre> [COLOR White][B]  Ação Animação[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] A Morte do Superman, segunda de duas partes. Adaptando a história lendária da batalha fatal do Superman com o Apocalypse, esse será o segundo filme original do DC Universe à adaptar o material. O primeiro – de 2007 – Superman: Doomsday, foi muito condensado e trouxe o evento dos quadrinhos para dentro de 75 minutos de duração. A próxima adaptação será mais fiel ao material de origem, muito menos condensada e incluirá muitos dos momentos de fãs da história que foram deixados de...[/COLOR] IMDb 7.0[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Amigos Alienígenas[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df8de79f70289a203ea0b8a9cbfd09f897834f1f&dn</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/18/06/13/20/20/5460825.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-ynDAIgoISGw/WyHW-1tbY9I/AAAAAAAATmI/VGW0ovU-WH8-XZ6hpqV26t46sMMRBdcaACLcBGAs/w1200-h630-p-k-no-nu/Amigos%2BAlien%25C3%25ADgenas%2B-%2BP%25C3%25B4ster.jpg</fanart>
+<genre> [COLOR White][B]  Animação Aventura Comédia[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white]  A vida de Louis, um menino de doze anos, muda completamente quando a nave espacial de três alienígenas cai nos fundos do quintal de sua casa. Seu pai, um ufologista famoso, congelaria os novos amigos na primeira oportunidade, por isso ele precisa protegê-los e ajudá-los a descobrir o paradeiro da nave mãe, para que só assim eles consigam voltar para casa.[/COLOR] IMDb 6.0[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Godzilla: O Devorador de Planetas[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d76dfa3e81666214f144961c0b8ee76ae1054a5&dn</link>
+<thumbnail>https://3.bp.blogspot.com/-VWeLNOGp-2E/XDkX86uNCoI/AAAAAAAABEM/TDE6QCjwWz8wYJvUtXSZGAGL9k8Nj0qvACLcBGAs/w640/2F2rxcQJT9OXqsnWt5TcE2fe6Fw.jpg</thumbnail>
+<fanart>https://static.correiodoestado.com.br/upload/dn_noticia/2018/12/vs010119b1.jpg</fanart>
+<genre> [COLOR White][B]  Animação Ficção Científica[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] O Devorador de Planetas, Com o enfraquecimento da aliança com a Terra, Haruo considera se aliar aos Exifs, praticantes de um culto mortal que pode destruir o mundo.[/COLOR] IMDb 4.5[/B]</info>
+</item>
