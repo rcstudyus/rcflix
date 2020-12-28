@@ -1,3 +1,658 @@
+<item>
+<title>[COLOR white]A Caminho da Lua[/COLOR][COLOR yellow] (720p) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:135b3bbfffa2bfe57c0bc7f621c794bb87a45c91</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/20/09/09/18/55/1869620.jpg</thumbnail>
+<fanart>https://abroadwayeaqui.com.br/wp-content/uploads/2020/10/lua.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2020[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white][B] Animação[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]cine.vianna10@gmail.com: Para dúvidas e pedidos - Uma garota constrói uma nave espacial e parte rumo ao espaço à procura da deusa da lua.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR white]Bob Esponja - O Incrivel Resgate[/COLOR][COLOR yellow] (1080p) Dual Áudio [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:840f44334831541e2fa79eade6dfac74338c6463</link>
+<thumbnail>https://ingresso-a.akamaihd.net/img/cinema/cartaz/23570-cartaz.jpg</thumbnail>
+<fanart>https://tremdohype.com.br/wp-content/uploads/2019/11/BobEsponjaOIncrivelResgate_ImgDestaque.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2020[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white][B] Animação[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]cine.vianna10@gmail.com: Para dúvidas e pedidos - Onde está Gary? Segundo Bob Esponja, Gary foi “caracolstrado” pelo temível Rei Poseidon e levado para a cidade perdida de Atlantic City. Junto a Patrick Estrela, ele sai em uma missão de resgate ao querido amigo, e nesta jornada os dois vão conhecer novos personagens e viver inimagináveis aventuras.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR white]O X do Natal[/COLOR][COLOR yellow] (2020) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a04f337c117bbe81b5d2b139372ab9e00e8107fd&dn=COMANDO.TO%20-%20O%20X%20do%20Natal%202020%20%5b1080p%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://media.fstatic.com/mK5rl3z5_s_oVvLbShnzNhnb-rM=/290x478/smart/media/movies/covers/2020/10/alien_xmas_tv-320562078-large.jpg</thumbnail>
+<fanart>https://marciatravessoni.com.br/wp-content/uploads/2020/10/O-X-do-Natal.jpg</fanart>
+<info>cine.vianna10@gmail.com: Para dúvidas e pedidos - Um alien entra na casa de uma família de elfos e é confundido com um brinquedo de Natal. Mal sabem que a criaturinha planeja roubar todos os presentes da Terra.</info>
+</item>
+
+<item>
+<title>[COLOR white]Scooby[/COLOR][COLOR yellow] (2020) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a26727876bc0383a55d57a9bab3f6412106840e7&dn=%5bCOMANDOTORRENTS.ORG%5d%20Scooby!%20-%20O%20Filme%202020%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81SuKy3QqqL.jpg</thumbnail>
+<fanart>https://designculture.com.br/wp-content/uploads/2020/09/scoo.jpg</fanart>
+<info>cine.vianna10@gmail.com: Para dúvidas e pedidos - Scooby-Doo e sua turma precisa se unir a outros personagens do universo Hanna-Barbera para salvar o mundo de Dick Vigarista e seus planos malignos.</info>
+</item>
+
+<item>
+<title>[COLOR white]Exterminador: Cavaleiros e Dragões[/COLOR][COLOR yellow] (2020) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9071eec86dddae928f17c42b6c0a178d80e1ffc&dn=COMANDO.TO%20-%20Exterminador%20-%20Cavaleiros%20e%20Dragoes%202020%20%5b1080p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce</link>
+<thumbnail>https://i.pinimg.com/originals/fe/25/02/fe250236e2bed35fb5fd7e0f41103731.jpg</thumbnail>
+<fanart>https://static.wixstatic.com/media/8f9de8_11b05fdd29354620aac302021a111b45~mv2.jpg/v1/fit/w_1000,h_630,al_c,q_80/file.png</fanart>
+<info>Com sua alma despedaçada e seu filho preso, o mercenário e mestre assassino Slade Wilson terá que redimir os pecados do seu passado para alimentar as batalhas do seu futuro!</info>
+</item>
+
+<item>
+<title>[COLOR white]Superman - Homem do Amanhã[/COLOR][COLOR yellow] (2020) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb3ceb879ff24b9ebfc6f89d3b5ace5da4b7f4ba&dn=COMANDO.TO%20-%20Superman%20Homem%20do%20Amanh%c3%a3%202020%20%5b720p%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://i.ibb.co/2gjnH8G/homem-tomorrow-colecao-dc.jpg</thumbnail>
+<fanart>https://lh3.googleusercontent.com/-oHM6ezolLSU/X074YKiXn8I/AAAAAAAANwE/sLBwbjwFMxc3iSchLrHDdfuvQ2iDaurXwCLcBGAsYHQ/s1600/1091977.jpg</fanart>
+<info>A trama acompanha Clark Kent como um estagiário no Planeta Diário, ao mesmo tempo em que aprende como salvar a cidade de Metrópolis como Superman. Vilões como Lobo e Parasita marcam presença na animação.</info>
+</item>
+
+<item>
+<title>[COLOR white]Superman - Entre a Foice e o Martelo[/COLOR][COLOR yellow] (2020) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a8f178de1c012f579183d597c5cc3abd0f4555a&dn=COMANDO.TO%20-%20Superman%20Red%20Son%20(2020)%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://http2.mlstatic.com/dvd-superman-entre-a-foice-e-o-martelo-D_NQ_NP_651651-MLB40901795483_022020-F.jpg</thumbnail>
+<fanart>https://aventurasnahistoria.uol.com.br/media/_versions/superman_comunista_capa_widexl.jpeg</fanart>
+<info>Nessa surpreendente releitura de um conto mais que familiar, uma certa nave kryptoniana cai na Terra, trazendo um infante que um dia se tornará o ser mais poderoso do planeta. Mas seu veículo não caiu nos Estados Unidos. Ele não foi criado em Smallville, Kansas. Em vez disso, encontrou um novo lar em uma fazenda coletiva na União Soviética! Da mente de Mark Millar, elogiado roteirista de Authority e O Procurado, chega esta estranha e genial reinterpretação do mito do Superman.</info>
+</item>
+
+<item>
+<title>[COLOR white]Liga da Justiça Sombria - Guerra de Apokolips[/COLOR][COLOR yellow] (2020) Dual Áudio [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cda6173a5f5bee04e0c05378681960392339cd3f&dn=COMANDO.TO%20-%20Liga%20da%20Justi%c3%a7a%20Sombria%20-%20Guerra%20de%20Apokolips%202020%20%5b720p%5d%20%5bDUBLADO%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1Wc96TasY2rNhDpt3kjbum2nSd.jpg</thumbnail>
+<fanart>https://www.unicorniohater.com.br/wp-content/uploads/2020/05/justice-league-dark-apokolips-war-Robin.jpg</fanart>
+<info>A conclusão de uma jornada, iniciada em Liga da Justiça: Guerra, de 2014, "Liga da Justiça Sombria: Guerra de Apokolips" lida agora com uma Terra dizimada após uma invasão do imperador de Apokolips, Darkseid, que derrota toda a Liga da Justiça após uma tentativa de ataque mal-sucedido dos maiores heróis da DC.</info>
+</item>
+
+<item>
+<title>[COLOR white]Os Irmãos Willoughbys[/COLOR][COLOR yellow] (2020) Dual Áudio [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A9C5F3C9DFD476422E8FBF9CBB487E40AD27B1C6&dn=COMANDO.TO-Os.Irmaos.Willoughby.2020.720p.WEB-DL.DUAL&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a82%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://cdn.cinepop.com.br/2020/03/Movie-Poster-For-Netflix-Willoughbys.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/8sHigkoddxw/maxresdefault.jpg</fanart>
+<info>Quando são abandonados por seus pais egoístas, os quatro irmãos Willoughby, Tim, Jane e os dois gêmeos embarcam em uma aventura selvagem através do mundo moderno, colidindo com um gato, um órfão, uma babá e um mongo de doces, para se reunir com a "família em que nasceram", apenas para descobrir ao longo do caminho o valor do amor na "família que eles escolheram".</info>
+</item>
+
+<item>
+<title>[COLOR white]Mortal Kombat Legends a Vingança de Scorpion[/COLOR][COLOR yellow] (2020) Dual Áudio [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:772d68e164740ae78754afdf6015e5f6c098d804&dn=COMANDO.TO%20-%20Mortal%20Kombat%20Legends%20-%20A%20Vingan%C3%A7a%20de%20Scorpion%202020%20[720p]%20[DUAL]&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://glotorrents.pw:6969/announce&tr=udp://tracker4.piratux.com:6969/announce&tr=udp://coppersurfer.tk:6969/announce&tr=http://t2.pow7.com/announce&tr=udp://tracker.yify-torrents.com:80/announce&tr=http://www.h33t.com:3310/announce&tr=http://exodus.desync.com/announce&tr=http://tracker.coppersurfer.tk:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.istole.it:80/announce&tr=http://tracker.blazing.de/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=http://tracker.yify-torrents.com/announce&tr=udp://tracker.prq.to/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://9.rarbg.com:2740/announce&tr=udp://tracker.ex.ua:80/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://12.rarbg.me:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://11.rarbg.com/announce&tr=udp://tracker.ccc.de:80/announce&tr=udp://fr33dom.h33t.com:3310/announce&tr=udp://public.popcorn-tracker.org:6969/announce</link>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2020/03/8956_TXXNvrL.jpg</thumbnail>
+<fanart>https://www.omegascopio.com.br/wp-content/uploads/2020/04/Mortal-Kombat-Legends-Scorpions-Revenge-1920x1080-1-1024x576.jpg</fanart>
+<info>“Mortal Kombat Legends: A Vingança de Scorpion” coloca nossos personagens favoritos lutando até a morte em um torneio que determinará o destino da Terra. Joel McHale e Jennifer Carpenter lideram o elenco emprestando suas vozes para Johnny Cage e Sonya Blade, respectivamente.</info>
+</item>
+
+<item>
+<title>[COLOR white]Dois Irmãos - Uma Jornada Fantástica[/COLOR][COLOR yellow] (2020) Dual Áudio [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd9de23491b6af01e9246b8005540b6891090be6&dn=COMANDO.TO%20-%20Dois%20Irmaos%20-%20Uma%20Jornada%20Fantastica%202020%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://www.reservacultural.com.br/niteroi/wp-content/uploads/2020/02/5867.jpg</thumbnail>
+<fanart>https://spinoff.com.br/wp-content/uploads/dois-irm%C3%A3os-uma-jornada-fant%C3%A1stica.png</fanart>
+<info>Num mundo encantado habitado por diversas criaturas mágicas como fadas, trolls e unicórnios, dois irmãos elfos tentam através da magia viver um último dia com o pai, falecido quando eram pequenos.</info>
+</item>
+
+<item>
+<title>[COLOR white]Um Espião Animal[/COLOR][COLOR yellow] (2020) Dual Áudio [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e12b333b9e726350eae3cae61cbd4c7fee68e0e0&dn=COMANDO.TO%20-%20Um%20Espi%c3%a3o%20Animal%202020%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://clickrec.com.br/wp-content/uploads/2020/01/POSTER_16122019-2000x2938.jpg</thumbnail>
+<fanart>https://supercinemaup.com/wp-content/uploads/2020/01/Um-Espi%C3%A3o-Animal-Dublado-1-1240x640.jpg</fanart>
+<info>Quando um evento inesperado acontece, Lance Sterling (voz de Will Smith), o melhor espião do mundo, precisa unir forças com o inventor Walter (voz de Tom Holland) para salvar o dia.</info>
+</item>
+
+<item>
+<title>[COLOR white]Frozen 2[/COLOR][COLOR yellow] (2020) Dual Áudio [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b32c3e984b7baa86aed2cbcecb024e898d2c2e4&dn=LAPUMiA.Org%20-%20Frozen%202%202020%205.1%20(720p-Mp4)&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://i.ibb.co/r60QjPZ/frozen-2-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/jR2Vcg6/frozen-2-banner.jpg</fanart>
+<info>De volta à infância de Elsa e Anna, as duas garotas descobrem uma história do pai, quando ainda era príncipe de Arendelle. Ele conta às meninas a história de uma visita à floresta dos elementos, onde um acontecimento inesperado teria provocado a sepaação dos habitantes da cidade com os quatro elementos fundamentais: ar, fogo, terra e água. Esta revelação ajudará Elsa a compreender a origem de seus poderes.</info>
+</item>
+
+<item>
+<title>[COLOR white]Frozen[/COLOR][COLOR red][/COLOR][COLOR yellow] (2013) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HCB5BYZKDCYLD7UCI7KNCAB5XVE4VIJB&dn=Frozen.Uma.Aventura.Congelante.2014.720p-WOLVERDONFILMES.COM</link>
+<thumbnail>https://i.ibb.co/tYZ3Q9g/frozen.jpg</thumbnail>
+<fanart>https://i.ibb.co/Y7FX0yY/Frozen-Poster-15.jpg</fanart>
+<info>Acompanhada por um vendedor de gelo, a jovem e destemida princesa Anna parte em uma jornada por perigosas montanhas de gelo na esperança de encontrar sua irmã, a rainha Elsa, e acabar com a terrível maldição de inverno eterno, que está provocando o congelamento do reino.</info>
+</item>
+
+<item>
+<title>[COLOR white]Steven Universo - O Filme[/COLOR][COLOR red][/COLOR][COLOR yellow] (2019) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:567447b950c2a6508424b3728434ef7b43c94024</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/19/07/10/09/26/1158975.jpg</thumbnail>
+<fanart>https://www.omegascopio.com.br/wp-content/uploads/2020/02/Steven-Universo-Futuro.jpg</fanart>
+<info>Steven acha que seu tempo de defesa da Terra acabou, mas quando uma nova ameaça chega a Beach City, Steven enfrenta seu maior desafio ainda.</info>
+</item>
+
+<item>
+<title>[COLOR white]Angry Birds 2[/COLOR][COLOR yellow] (2019) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de1df96ba5e02721593d622c795669cd5730d443&dn=Angry%20Birds%202%20-%20O%20Filme%202019%205.1%20(720p)%20COMANDOTORRENTS&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/19/05/01/19/49/4080361.jpg</thumbnail>
+<fanart>https://www.mommyhoodcentral.com/wp-content/uploads/2019/08/angrybirds2movie-2.jpg</fanart>
+<info>Os raivosos passarinhos que não voam e os porquinhos conspiradores levam sua briga para outro nível quando surge uma nova ameaça que coloca ambas as Ilhas dos Porcos e dos Pássaros em perigo.</info>
+</item>
+
+<item>
+<title>[COLOR white]Angry Birds[/COLOR][COLOR yellow] (2016) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58976a498af4af918b44b1a4d173c94f0ea420a3</link>
+<thumbnail>https://http2.mlstatic.com/poster-peq-imp-couche-a3-do-angry-birds-o-filme-vr2-D_NQ_NP_554221-MLB20743071962_052016-F.jpg</thumbnail>
+<fanart>https://www.kreml-kulturhaus.de/wp-content/uploads/2019/12/angrybirds.jpg</fanart>
+<info>O estressado Red, o volátil Bomba e o veloz Chuck são três pássaros que não conseguem se encaixar na ilha em que vivem, pois ela é habitada por alegres e pacíficas aves. Mas, quando o local é invadido por misteriosos porquinhos verdes, esses três improváveis heróis precisam descobrir o que estes inesperados visitantes estão tramando.</info>
+</item>
+
+<item>
+<title>[COLOR white]O Parque dos Sonhos[/COLOR][COLOR red][/COLOR][COLOR yellow] (2019) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0FABC55C0C2ED4E4C795BE954C3B9C06D2062342&dn=WWW.BLUDV.TV%5d%20O%20Parque%20dos%20Sonhos%202019%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://i.ibb.co/bgs0KK4/parque-dos-sonhos-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/sHXCdwv/parque-dos-sonhos-banner.jpg</fanart>
+<info>A jovem otimista e sonhadora June encontra escondido na floresta um parque de diversões chamado Wonderland, que é cheio de passeios e animais que falam. O único problema é que o parque está confuso e desorganizado. June logo descobre que o parque veio de sua imaginação e que ela é a única que pode tornar o lugar mágico de novo.</info>
+</item>
+
+<item>
+<title>[COLOR white]Abominável[/COLOR][COLOR red][/COLOR][COLOR yellow] (2019) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4C295E557900F94956CBF9A5E0ED10C6C547912B&dn=%5bWWW.BLUDV.TV%5d%20Abomin%c3%a1vel%202020%20%281080p%20-%20BluRay%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://i.ibb.co/KKVK6j7/abomin-vel.jpg</thumbnail>
+<fanart>https://i.ibb.co/S5Tz6xq/Abominavel-3.jpg</fanart>
+<info>A co-produção do Pearl Studio e da DreamWorks Animation, ABOMINABLE leva o público a uma jornada épica de 3.000 milhas das ruas de Xangai até as deslumbrantes paisagens de neve do Himalaia. Quando um grupo travesso de amigos encontra um jovem Yeti, eles embarcam em uma jornada épica para reunir a criatura mágica com sua família no ponto mais alto da Terra.</info>
+</item>
+
+<item>
+<title>[COLOR white]Dragon Quest: Your Story[/COLOR][COLOR red] [/COLOR][COLOR yellow] (2019) DUAL AUDIO[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e25246d8db00756b7a05c423beb09670a8d79c57&dn=COMANDO.TO%20-%20Dragon%20Quest%20-%20Your%20Story%202020%20[1080p-FULL]%20[DUAL]&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://glotorrents.pw:6969/announce&tr=udp://tracker4.piratux.com:6969/announce&tr=udp://coppersurfer.tk:6969/announce&tr=http://t2.pow7.com/announce&tr=udp://tracker.yify-torrents.com:80/announce&tr=http://www.h33t.com:3310/announce&tr=http://exodus.desync.com/announce&tr=http://tracker.coppersurfer.tk:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.istole.it:80/announce&tr=http://tracker.blazing.de/announce&tr=http://tracker.yify-torrents.com/announce&tr=udp://tracker.prq.to/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://9.rarbg.com:2740/announce&tr=udp://tracker.ex.ua:80/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://12.rarbg.me:80/announce&tr=udp://11.rarbg.com/announce&tr=udp://tracker.ccc.de:80/announce&tr=udp://fr33dom.h33t.com:3310/announce&tr=udp://public.popcorn-tracker.org:6969/announce</link>
+<thumbnail>https://comandotorrents.org/wp-content/uploads/2020/02/Dragon.Quest_.Your_.Story_.2020.jpg</thumbnail>
+<fanart></fanart>
+<info>Luca segue os passos do pai para resgatar a mãe do maligno Ladja. Sua única esperança é encontrar o herói que carrega a espada zenitiana.</info>
+</item>
+
+<item>
+<title>[COLOR white]Racetime – Hora da Corrida[/COLOR][COLOR yellow] (2019) Dual Áudio [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca3534d3026b1fe62eba0d3fdd3f97a731183c52&dn=COMANDO.TO%20-%20Racetime%20-%20Hora%20da%20Corrida%202020%205.1%20(1080p)&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://glotorrents.pw:6969/announce&tr=udp://tracker4.piratux.com:6969/announce&tr=udp://coppersurfer.tk:6969/announce&tr=http://t2.pow7.com/announce&tr=udp://tracker.yify-torrents.com:80/announce&tr=http://www.h33t.com:3310/announce&tr=http://exodus.desync.com/announce&tr=http://tracker.coppersurfer.tk:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.istole.it:80/announce&tr=http://tracker.blazing.de/announce&tr=http://tracker.yify-torrents.com/announce&tr=udp://tracker.prq.to/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://9.rarbg.com:2740/announce&tr=udp://tracker.ex.ua:80/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://12.rarbg.me:80/announce&tr=udp://11.rarbg.com/announce&tr=udp://tracker.ccc.de:80/announce&tr=udp://fr33dom.h33t.com:3310/announce&tr=udp://public.popcorn-tracker.org:6969/announce</link>
+<thumbnail>https://i.ibb.co/jkvxJ1v/RACETIME-1-Sht.jpg</thumbnail>
+<fanart>https://i.ibb.co/1TRVFbk/Racetime-Movie-Poster.jpg</fanart>
+<info>Uma corrida de trenó espetacular pela vila. Frankie-Four-Eyes e sua equipe, incluindo Sophie como motorista, enfrentam os recém-chegados: o misterioso e vaidoso Zac e seu primo atlético Charly. O fantástico trenó projetado por Frankie se desintegra logo antes de cruzar a linha de chegada. É uma perda amarga para Frankie, que se recusa a aceitar que ele pode ter cometido alguns erros de construção. Juntamente com seus amigos, ele consegue provar que Zac trapaceou durante a corrida. Frankie exige uma revanche; que Zac aceita desde que Frankie construa uma pista de corrida totalmente nova.</info>
+</item>
+
+<item>
+<title>[COLOR white]Klaus[/COLOR][COLOR yellow] (2019) 720p Dual Audio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56f17000ae593230f18fb154ec402e7c691f3638&dn=Klaus%202019%20[720p]%20[DUAL]%20COMANDOTORRENTS&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://glotorrents.pw:6969/announce&tr=udp://tracker4.piratux.com:6969/announce&tr=udp://coppersurfer.tk:6969/announce&tr=http://t2.pow7.com/announce&tr=udp://tracker.yify-torrents.com:80/announce&tr=http://www.h33t.com:3310/announce&tr=http://exodus.desync.com/announce&tr=http://tracker.coppersurfer.tk:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.istole.it:80/announce&tr=http://tracker.blazing.de/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=http://tracker.yify-torrents.com/announce&tr=udp://tracker.prq.to/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://9.rarbg.com:2740/announce&tr=udp://tracker.ex.ua:80/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://12.rarbg.me:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://11.rarbg.com/announce&tr=udp://tracker.ccc.de:80/announce&tr=udp://fr33dom.h33t.com:3310/announce&tr=udp://public.popcorn-tracker.org:6969/announce</link>
+<thumbnail>https://i.ibb.co/GTnLtn5/images-7.jpg</thumbnail>
+<fanart>https://i.ibb.co/BPF1P70/images-8.jpg</fanart>
+<info>Jesper é o pior estudante da academia postal. Ele mora em uma ilha gelada acima do Círculo Ártico, onde cartas não têm vez entre os vizinhos brigados que mal se falam. Jesper está para desistir quando encontra uma aliada, a professora Alva, e conhece Klaus, um misterioso carpinteiro que vive sozinho em uma casa cheia de brinquedos feitos à mão. Suas amizades improváveis trazem o riso de volta à pequena Smeerensburg e criam um novo legado de vizinhos generosos, contos mágicos e meias cuidadosamente penduradas sob a chaminé.</info>
+</item>
+
+<item>
+<title>[COLOR white]A Família Adams[/COLOR][COLOR yellow] (2019) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca261aff70e2a73e39ada6129505fffa4afc84e0&dn=COMANDO.TO%20-%20A%20Fam%C3%ADlia%20Addams%202020%20[1080p]%20[DUAL]&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://glotorrents.pw:6969/announce&tr=udp://tracker4.piratux.com:6969/announce&tr=udp://coppersurfer.tk:6969/announce&tr=http://t2.pow7.com/announce&tr=udp://tracker.yify-torrents.com:80/announce&tr=http://www.h33t.com:3310/announce&tr=http://exodus.desync.com/announce&tr=http://tracker.coppersurfer.tk:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.istole.it:80/announce&tr=http://tracker.blazing.de/announce&tr=http://tracker.yify-torrents.com/announce&tr=udp://tracker.prq.to/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://9.rarbg.com:2740/announce&tr=udp://tracker.ex.ua:80/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://12.rarbg.me:80/announce&tr=udp://11.rarbg.com/announce&tr=udp://tracker.ccc.de:80/announce&tr=udp://fr33dom.h33t.com:3310/announce&tr=udp://public.popcorn-tracker.org:6969/announce</link>
+<thumbnail>https://i.ibb.co/wStSHjb/adams.jpg</thumbnail>
+<fanart>https://i.ibb.co/KwFKtfk/a-familia-addams.jpg</fanart>
+<info>Prepare-se para estalar os dedos! A Família Addams está de volta às telonas na primeira animação de comédia sobre o clã mais excêntrico do pedaço. Engraçada, estranha e completamente icônica, a Família Addams redefine o que significa ser um bom vizinho.</info>
+</item>
+
+<item>
+<title>[COLOR white]Como Treinar seu Dragão 3[/COLOR][COLOR red][/COLOR][COLOR yellow](2019) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1dc9a4ff4910a33ba50cd25a42679d82cdee7a77&dn=%5d%20Como%20Treinar%20o%20Seu%20Drag%C3%A3o%203%202019%20%5b720p%5d%20%5bBluRay%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://i.ibb.co/FWdfFkg/treinardragon.jpg</thumbnail>
+<fanart>https://i.ibb.co/wBMgkCJ/treinardrag.png</fanart>
+<info>Soluço tem um grande sonho: encontrar um lar onde os dragões possam viver em paz. Mas, no meio deste plano, o perigo começa a rondar a sociedade viking quando o vilão Grimmel aparece para acabar com a liberdade dos dragões – especialmente Banguela.</info>
+</item>
+
+<item>
+<title>[COLOR white]Como Treinar seu Dragão 2[/COLOR][COLOR red][/COLOR][COLOR yellow] (2014) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9bf0f6118b7d1515482efe59ccb7b13916c2c7e&dn=Como+Treinar+o+seu+Drag%26atilde%3Bo+2+%282014%29+WEB-DL+720p+5.1+Dublad&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%C2%A0</link>
+<thumbnail>https://i.ibb.co/fnGZHyd/dragon.jpg</thumbnail>
+<fanart>https://i.ibb.co/1qbY8sy/dragon2.png</fanart>
+<info>Cinco anos após convencer os habitantes de seu vilarejo que os dragões não devem ser combatidos, Soluço (voz de Jay Baruchel) convive com seu dragão Fúria da Noite, e estes animais integraram pacificamente a rotina dos moradores da ilha de Berk. Entre viagens pelos céus e corridas de dragões, Soluço descobre uma caverna secreta, onde centenas de novos dragões vivem. O local é protegido por Valka (voz de Cate Blanchett), mãe de Soluço, que foi afastada do filho quando ele ainda era um bebê. Juntos, eles precisarão proteger o mundo que conhecem do perigoso Drago Bludvist (Djimon Hounson), que deseja controlar todos os dragões existentes.</info>
+</item>
+
+<item>
+<title>[COLOR white]Como Treinar seu Dragão[/COLOR][COLOR red][/COLOR][COLOR yellow] (2010) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:675bef95ec616c0bc7446113ed9a6a36565bbd96</link>
+<thumbnail>https://img.elo7.com.br/product/zoom/264EE73/big-poster-filme-como-treinar-seu-dragao-lo04-tam-90x60-cm-geek.jpg</thumbnail>
+<fanart>https://img.elo7.com.br/product/zoom/1838601/painel-como-treinar-seu-dragao-2-painel-em-tecido.jpg</fanart>
+<info>Soluço é um adolescente viking da ilha de Berk, onde lutar contra dragões é um meio de vida. Suas opiniões avançadas e um senso de humor estranho o tornam um desajustado, apesar de seu pai ser o chefe do clã. Jogado em uma escola de combate a dragões, ele quer provar que é um verdadeiro viking, mas ao fazer amizade com um dragão machucado, ele tem a chance de mudar o futuro de seu povo.</info>
+</item>
+
+<item>
+<title>[COLOR white]Toy Story 4[/COLOR][COLOR red][/COLOR][COLOR yellow] (2019) DUAL AUDIO[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12b17239121680aafa64ae034f42e6807beed796&dn=%5bcomandotorrents.org%5d%20Toy%20Story%204%202019%20%5b720p%5d%20%5bBluRay%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://i.ibb.co/DVWsCYK/toy.jpg</thumbnail>
+<fanart>https://i.ibb.co/8Y77DyV/toy2.png</fanart>
+<info>Woody, Buzz, Jesse e toda a turma vivem felizes, agora como brinquedos da pequena Bonnie. Entretanto, a chegada de um garfo transformado em brinquedo, Forky, faz com que a calmaria reinante chegue ao fim, justamente porque ele não se aceita como brinquedo.</info>
+</item>
+
+<item>
+<title>[COLOR white]Toy Story 3[/COLOR][COLOR red][/COLOR][COLOR yellow] (2010) DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57b9964c556fd91858192538159494027b2f459a&dn=Toy+Story+3+%282010%29+1080p+Dublado+&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://i.ibb.co/wYMRW31/toy3.jpg</thumbnail>
+<fanart>https://i.ibb.co/Qv9YNPK/oty32.jpg</fanart>
+<info>Andy (John Morris) tem 17 anos e está prestes a ir para a faculdade. Desta forma, precisa arrumar o quarto e definir o que irá para o lixo e o que será guardado no sótão. Seus antigos brinquedos, entre eles Buzz Lightyear (Tim Allen), Jessie (Joan Cusack) e o Sr. Cabeça de Batata (Don Rickles), são separados para serem guardados no sótão. Entretanto, uma confusão faz com que a mãe de Andy os coloque no lixo. Woody (Tom Hanks), que será levado por Andy para a faculdade, decide salvá-los. O grupo escapa, mas acaba no carro da mãe de Andy. Ela leva a uma creche diversos brinquedos, entre eles Barbie (Jodi Benson). Ao chegarem, os amigos encontram um universo até então inimaginável, onde os brinquedos sempre têm crianças para brincarem com eles.</info>
+</item>
+
+<item>
+<title>[COLOR white]Toy Story 2[/COLOR][COLOR red][/COLOR][COLOR yellow] (1999) DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9fdbc8ae54f5ff55f55505ff6333ce4fe2eaa2a4&dn=Toy+Story+2+%281999%29+1080p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://i.ibb.co/GC5M8kS/toy21.jpg</thumbnail>
+<fanart>https://i.ibb.co/K2Y9X4t/toy22.jpg</fanart>
+<info>Desta vez, Woody (Tom Hanks) tenta salvar um brinquedo que acaba indo parar num bazar de usados e termina por ser sequestrado por um colecionador de brinquedos, que pretende vendê-lo a um museu japonês. Na casa do sequestrador, descobre que foi o protagonista de um famoso seriado da TV de décadas atrás e conhece os demais integrantes de sua coleção. Enquanto isso, os demais brinquedos, liderador por Buzz Lightyear (Tim Allen), partem numa atrapalhada operação de resgate.</info>
+</item>
+
+<item>
+<title>[COLOR white]Toy Story 1[/COLOR][COLOR red][/COLOR][COLOR yellow] (1995) DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7166753c975f7231072a9d0acac5c3caadb2475&dn=Toy+Story+-+Um+Mundo+de+Aventuras+%281995%29+1080p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://i.ibb.co/d2zf1XZ/toy1.jpg</thumbnail>
+<fanart>https://i.ibb.co/vvDFQqL/toy12.jpg</fanart>
+<info>O aniversário de Andy está chegando e os brinquedos estão nervosos. Afinal de contas, eles temem que um novo brinquedo possa substituí-los. Liderados por Woody, um caubói que é também o brinquedo predileto de Andy, eles montam uma escuta que lhes permite saber dos presentes ganhos. Entre eles está Buzz Lightyear, o boneco de um patrulheiro espacial, que logo passa a receber mais atenção do garoto. Isto aos poucos gera ciúmes em Woody, que tenta fazer com que ele caia atrás da cama. Só que o plano dá errado e Buzz cai pela janela. É o início da aventura de Woody, que precisa resgatar Buzz também para limpar sua barra com os outros brinquedos.</info>
+</item>
+
+<item>
+<title>[COLOR white]WiFi Ralph: Quebrando a Internet[/COLOR][COLOR yellow] (720p) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c562a20e26702f6cb535cfac93d9655381ae0a6</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/0b/Ralph_Breaks_the_Internet_%282018_film_poster%29.png</thumbnail>
+<fanart>https://manualdosgames.com/wp-content/uploads/2018/03/thumb-1920-360874-1170x780.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2018[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white][B] Animação[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]cine.vianna10@gmail.com: Para dúvidas e pedidos - Ralph, o mais famoso vilão dos videogames, e Vanellope, sua companheira atrapalhada, iniciam mais uma arriscada aventura. Após a gloriosa vitória no Fliperama Litwak, a dupla viaja para a world wide web, no universo expansivo e desconhecido da internet. Dessa vez, a missão é achar uma peça reserva para salvar o videogame Corrida Doce, de Vanellope. Para isso, eles contam com a ajuda dos “cidadãos da Internet” e de Yess, a alma por trás do “Buzzztube”, um famoso website que dita tendências.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR white]O Grinch[/COLOR][COLOR yellow] (720p) Dual Áudio [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:637db1c8a83063f385ef7a5315b3b8c05151ae6f</link>
+<thumbnail>https://i.pinimg.com/736x/cb/cb/f3/cbcbf3efb18f132aa283a302f2eb35fa.jpg</thumbnail>
+<fanart>https://www.saudosonerd.com.br/wp-content/uploads/2018/03/O-Grinch.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2018[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B]Animação[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]cine.vianna10@gmail.com: Para dúvidas e pedidos - O Grinch é um ser verde que não suporta o Natal e, todo ano, precisa impedir que os habitantes da cidade vizinha de Quemlândia comemorem a data. Decidido a acabar com a festa, ele resolve invadir os lares dos vizinhos e roubar tudo o que está relacionado ao Natal.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR white]Hotel Transilvânia 3 - Férias Monstruosas[/COLOR][COLOR red][/COLOR][COLOR yellow] (2018) DUBLADO[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:295B47897D6EDFD855F732C3FDFA55F98A24E7B0&dn=%7bWWW.BLUDV.TV%7d%20Hotel%20Transilv%C3%A2nia%203%20-%20F%C3%A9rias%20Monstruosas%202018%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://i.ibb.co/wdy6NKM/hoteltrans.jpg</thumbnail>
+<fanart>https://i.ibb.co/X5bVk6w/hotel-transylvania-3-ep2-sony-pictures-animation.jpg</fanart>
+<info>Solitário e infeliz, buscando um novo amor na internet, Drácula é surpreendido com um presente da querida filha: férias em um cruzeiro. Inicialmente resistente à ideia, ele acaba engajado no passeio ao se encantar pela comandante, que, no entanto, esconde um segredo nada amigável.</info>
+</item>
+
+<item>
+<title>[COLOR white]Homem Aranha no Aranhaverso[/COLOR][COLOR red][/COLOR][COLOR yellow] (2018) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7dd0c4019a0af68a7dbeaeb95f409a544789de58</link>
+<thumbnail>https://i.ibb.co/RNCTCwC/aranhaverso.jpg</thumbnail>
+<fanart>https://i.ibb.co/hx5nPTw/aranhaverso1.jpg</fanart>
+<info>Miles Morales é um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, já falecido. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói aracnídeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras variações do Homem-Aranha.</info>
+</item>
+
+<item>
+<title>[COLOR white]O Touro Ferdinando[/COLOR][COLOR red][/COLOR][COLOR yellow] (2018) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A727BB8E84AA78AA4F1C7408482CB641D6D0A1CD&dn=O%20Touro%20Ferdinando%202018%20%281080p%29%20DUBLADO%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://i.ibb.co/NY5vPHv/ferdinando.jpg</thumbnail>
+<fanart>https://i.ibb.co/0VK2FPf/ferdinando1.jpg</fanart>
+<info>Ferdinando é um touro com um temperamento calmo e tranquilo, que prefere sentar-se embaixo de uma árvore e relaxar ao invés de correr por aí bufando e batendo cabeça com os outros. A medida que vai crescendo, ele se torna forte e grande, mas com o mesmo pensamento. Quando cinco homens vão até sua fazenda para escolher o melhor animal para touradas em Madri, Ferdinando é selecionado acidentalmente.</info>
+</item>
+
+<item>
+<title>[COLOR white]Peixonauta[/COLOR][COLOR red][/COLOR][COLOR yellow] (2018) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:864e5bc964e073c46bc118b1b66e9d93eeae1070&dn=Peixonauta%20-%20O%20Filme%202018%20%5bHDRip%5d%20%5bDUBLADO%5d%20COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce</link>
+<thumbnail>https://i.ibb.co/y4sv9xb/peixonauta.png</thumbnail>
+<fanart>https://i.ibb.co/7J4M3MF/peixonauta1.jpg</fanart>
+<info>Peixonauta, Marina e Zico saem do Parque em busca do Dr. Jardim e dos primos Pedro e Juca, mas ao chegarem à cidade grande encontram tudo vazio. Após investigarem melhor, percebem que as pessoas não sumiram, mas sim encolheram. Intrigados e correndo contra o tempo, Peixonauta e seus amigos precisam desvendar a causa do fenômeno e salvar a população do desaparecimento completo.</info>
+</item>
+
+<item>
+<title>[COLOR white]A Estrela de Belém[/COLOR][COLOR red][/COLOR][COLOR yellow] (2018) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67D62017BFAA800F48BCFFBB26B70D601D030556&dn=A%20Estrela%20de%20Bel%C3%A9m%202018%20%281080p%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://i.ibb.co/jRgCQHY/bel-m.jpg</thumbnail>
+<fanart>https://i.ibb.co/5RK33ds/bel-m1.jpg</fanart>
+<info>Bo é um jovem asno que está cansado de ficar aprisionado em um estábulo, onde sempre anda em círculos para fazer com que o moinho funcione. Incentivado pelo pássaro Davi, seu melhor amigo, ele consegue escapar e, na fuga, se esconde em meio a uma festa de casamento. Ao término do evento, ele é encontrado pela recém-casada Maria, que carrega no ventre aquele que será conhecido como o filho de Deus.</info>
+</item>
+
+<item>
+<title>[COLOR white]Viva: A Vida é uma Festa[/COLOR][COLOR red][/COLOR][COLOR yellow] (2017) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13E0B4E8FB184A2D67A0BA0DDD13A8F5DD94506F</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/17/12/07/11/33/0502209.jpg</thumbnail>
+<fanart>https://img.elo7.com.br/product/zoom/1C62D83/painel-1-50x1-viva-a-vida-e-uma-festa-decoracao.jpg</fanart>
+<info>Miguel é um menino de 12 anos que quer muito ser um músico famoso, mas ele precisa lidar com sua família que desaprova seu sonho. Determinado a virar o jogo, ele acaba desencadeando uma série de eventos ligados a um mistério de 100 anos. A aventura, com inspiração no feriado mexicano do Dia dos Mortos, acaba gerando uma extraordinária reunião familiar.</info>
+</item>
+
+<item>
+<title>[COLOR white]Meu Malvado Favorito 3[/COLOR][COLOR red][/COLOR][COLOR yellow] (2017) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:622d308038f27ae369a022f88c8368f80db600dd&dn=Meu%20Malvado%20Favorito%203%202017%20%5bBluRay%5d%20%5b1080p%5d%20%5bDUAL%5d%20comandotorrents.org&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fanno...&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fa...&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/17/03/14/20/37/126690.jpg</thumbnail>
+<fanart>https://deveserisso.com.br/blog/wp-content/uploads/2019/08/Meu-Malvado-Favorito-3.jpg</fanart>
+<info>Gru e Lucy são chamados para enfrentar Balthazar Bratt em sua reaparição, mas acabam sendo demitidos por não terem conseguido capturá-lo. Gru então descobre que possui um irmão gêmeo, Dru, e parte com a família para encontrá-lo no país em que vive.</info>
+</item>
+
+<item>
+<title>[COLOR white]Meu Malvado Favorito 2[/COLOR][COLOR red][/COLOR][COLOR yellow] (2013) 1080p Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2a3ddb6f7b1ee5aa4b2ea56a3e9f30bec4abf95&dn=Meu+Malvado+Favorito+2+%282013%29+BluRay+1080p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://cinejan.files.wordpress.com/2013/07/7302_603371146363744_949572901_n.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-FseN7IKx_FU/UxHwN8T16hI/AAAAAAAAHRU/pLSLptVOzI0/s1600/Meu+Malvado+Favorito+2+-+Despicable+Me+2+-+satelitevertebral.blogspot.com+(7).jpg</fanart>
+<info>Gru mudou radicalmente sua vida e agora seu negócio é se dedicar às filhotas Agnes, Edith e Margo, deixando de lado os tempos de vilão. Ele só não contava que seu passado de “ladrão da Lua” pudesse falar mais alto e ser responsável pelo seu recrutamento, através da AVL (Liga Anti-Vilões), para salvar o mundo na companhia da agente Lucy.</info>
+</item>
+
+<item>
+<title>[COLOR white]Carros 3[/COLOR][COLOR red][/COLOR][COLOR yellow] (2017) DUAL AUDIO[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53IDJPSZ352ZKGO2RWX6547SRMVXPJYY&dn=Carros%203%202017%20%5BBluRay%5D%20(720p)%20WWW.BLUDV.COM</link>
+<thumbnail>https://i.ibb.co/KXc04Mq/images-7.jpg</thumbnail>
+<fanart>https://i.ibb.co/L6LSxTX/images-6.jpg</fanart>
+<info>Surpreendido por uma nova geração de corredores incrivelmente rápidos, o lendário Relâmpago McQueen é repentinamente afastado do esporte que ama. Para voltar com tudo às corridas, ele precisará da ajuda de uma determinada jovem treinadora de corridas, Cruz Ramirez. Com o seu plano para vencer, mais a inspiração do Fabuloso Doc Hudson e alguns acontecimentos inesperados, eles partem para a maior aventura de suas vidas. E o teste final do campeão será na maior prova da Copa Pistão!</info>
+</item>
+
+<item>
+<title>[COLOR white]Carros 2[/COLOR][COLOR red][/COLOR][COLOR yellow] (2011) DUAL AUDIO[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33671e62c4afcfcb413246f8010aeb497c2e6e94</link>
+<thumbnail>https://i.ibb.co/Q8RR9Rh/carros-21.jpg</thumbnail>
+<fanart>https://i.ibb.co/4dc0QF0/carros-2.jpg</fanart>
+<info>Relâmpago McQueen volta à tona com seu melhor amigo Mater, e precisará levar seus passaportes em um mundo de intrigas, ação e comédia ao redor do mundo. Com um novo chefe, eles irão disputar a Corrida dos Campeões.</info>
+</item>
+
+<item>
+<title>[COLOR white]Carros[/COLOR][COLOR red][/COLOR][COLOR yellow] (2006) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80d1f3247d2fea2836afb1fed1fddea27ebeeb67</link>
+<thumbnail>https://uauposters.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/1/214920140608-uau-posters-filmes-infantis-animacao-carros-cars--3.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/poster-cartaz-decorativo-kit-3-posters-a3-carros-disney-D_NQ_NP_843511-MLB20566970462_012016-F.jpg</fanart>
+<info>Sensação da temporada da Copa do Pistão, o estreante Relâmpago McQueen aproveita a fama e as glórias de suas vitórias. Até o dia em que, no caminho para a corrida mais importante de sua vida, perde-se no meio da estrada. Em Radiator Springs, uma esquecida cidadezinha da velha Rota 66, que o ajudam a descobrir que há coisas mais importantes na vida do que troféus e fama.</info>
+</item>
+
+<item>
+<title>[COLOR white]Procurando Dory[/COLOR][COLOR red][/COLOR][COLOR yellow] (2016) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:435A66EA77226047FDE1CDC017D6526302EA21BE&dn=Procurando%20Dory%201080p%20%282016%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2750%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2720%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
+<thumbnail>https://www.ocamundongo.com.br/wp-content/uploads/2017/06/procurando-dory-incapacidade-poster-camundongo.jpg</thumbnail>
+<fanart>https://img.elo7.com.br/product/zoom/1E0EF13/poster-cartaz-procurando-dory-filme.jpg</fanart>
+<info>Um ano após ajudar Marlin (Albert Brooks) a reencontrar seu filho Nemo, Dory (Ellen DeGeneres) tem um insight e lembra de sua amada família. Com saudades, ela decide fazer de tudo para reencontrá-los e na desenfreada busca esbarra com amigos do passado e vai parar nas perigosas mãos de humanos.</info>
+</item>
+
+<item>
+<title>[COLOR white]Procurando Nemo[/COLOR][COLOR yellow] (720p) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df126d22e729e94c5ff4ef19a5ebbafafe8ddab1&dn=Procurando+Nemo+2003+Dublado+720p+BRrip+x264&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80</link>
+<thumbnail>https://fontmeme.com/images/Finding-Nemo-Poster.jpg</thumbnail>
+<fanart>https://img.elo7.com.br/product/zoom/2B0760E/painel-2-00-x-1-50m-procurando-nemo-e-dory-rosa.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2003[/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white][B] Animação[/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]cine.vianna10@gmail.com: Para dúvidas e pedidos - Em seu primeiro dia de aula, esquecendo os conselhos do pai superprotetor, Nemo é capturado por um mergulhador e acaba no aquário de um dentista. Enquanto Nemo tenta bolar um plano para escapar, seu pai cruza o oceano para resgatá-lo.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR white]Kung Fu Panda 3[/COLOR][COLOR red][/COLOR][COLOR yellow] (2016) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C8C780BC1A747724BADBAAB385AD43C51FA6DB10&dn=Kung%20Fu%20Panda%203%201080p%20%282016%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
+<thumbnail>https://contosereconto.files.wordpress.com/2016/03/kung-fu-panda-3-second-teaser-poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/fkorWPoi6E0/maxresdefault.jpg</fanart>
+<info>Desta vez, Mestre Shifu tem como principal ensinamento fazer com que Po aprenda a técnica de dominação do Chi, uma espécie de “energia vital”. Porém, o atrapalhado panda acaba se desconcentrando com a chegada do pai de sangue, o panda Li, que o carrega para a vila secreta dos pandas – aguçando o ciúme do Sr Ping, o “pai” ganso de Po.</info>
+</item>
+
+<item>
+<title>[COLOR white]Kung Fu Panda 2[/COLOR][COLOR red][/COLOR][COLOR yellow] (2011) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78c40f183a0d579c359742f2f86721e5c208ab07</link>
+<thumbnail>https://cinemacomrapadura.com.br/imagens/2014/12/20141230-kung-fu-panda-2-poster-615x923.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/3b/f0/e2/3bf0e23a3567e34ce96dafd75aa7506e.jpg</fanart>
+<info>Po (Jack Black) vive o sonho de ser o dragão guerreiro, protegendo o Vale da Paz ao lado dos mestres Shifu (Dustin Hoffman), Tigresa (Angelina Jolie), Macaco (Jackie Chan), Víbora (Lucy Liu), Louva-deus (Seth Rogen) e Garça (David Cross). Sua vida pacata chega ao fim quando surge um novo inimigo, o lorde Chen (Gary Oldman), que possui uma arma secreta capaz de permitir a conquista da China e provocar o fim do kung fu. Para impedi-lo, Po e os Cinco Furiosos precisam cruzar o país e derrotá-lo.</info>
+</item>
+
+<item>
+<title>[COLOR white]Kung Fu Panda[/COLOR][COLOR red][/COLOR][COLOR yellow] (2008) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5c76ce4981d69e0dd8cac9e6f9df46155abda52</link>
+<thumbnail>https://www.dvdplanetstore.pk/wp-content/uploads/2013/12/Kung_Fu_Panda_1_2008.jpg</thumbnail>
+<fanart>https://img.elo7.com.br/product/zoom/254011A/lona-festa-infantil-kung-fu-panda-1-20x0-80-festa.jpg</fanart>
+<info>Po (Jack Black) é um urso panda desajeitado, que trabalha no restaurante de macarrão de sua família. Um dia ele é surpreendido ao saber que foi escolhido para cumprir uma antiga profecia, o que faz com que treine ao lado de seus ídolos no kung fu: os mestres Shifu (Dustin Hoffman), Garça (David Cross), Tigresa (Angelina Jolie), Louva-deus (Seth Rogen), Macaco (Jackie Chan) e Víbora (Lucy Liu). Quando o traiçoeiro leopardo da neve Tai Lung (Ian McShane) retorna, cabe a Po defender o Vale da Paz.</info>
+</item>
+
+<item>
+<title>[COLOR white]Pets- A Vida Secreta dos Bichos[/COLOR][COLOR red][/COLOR][COLOR yellow] (2016) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f78e145557b0e3912c583d69def38b287aeb8009</link>
+<thumbnail>https://i.ibb.co/R0q14M2/pets-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/6FdVSss/pets-banner.jpg</fanart>
+<info>Max é um cachorrinho que mora em um apartamento de Manhattan. Quando seu dono traz para casa um vira-lata desleixado chamado Duke, Max não gosta nada, já que o seu tempo de bichinho de estimação favorito parece ter acabado. Mas logo eles vão ter que colocar as divergências de lado pois um coelhinho branco adorável chamado Snowball está construindo um exército de animais abandonados determinados a se vingar de todos os pets que tem dono.</info>
+</item>
+
+<item>
+<title>[COLOR white]ZOOTOPIA - Essa Cidade é o Bicho[/COLOR][COLOR red][/COLOR][COLOR yellow] (2016) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D68B0A3058110FB6B81467625783B6199F6D3C59&dn=Zootopia%20Essa%20Cidade%20%c3%a9%20o%20Bicho%202016%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fthetracker.org%2fannounce&tr=http%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce</link>
+<thumbnail>https://i.ibb.co/VVMKzQ6/images-1.jpg</thumbnail>
+<fanart>https://i.ibb.co/92CJ01x/images-2.jpg</fanart>
+<info>Judy Hopps é a pequena coelha de uma fazenda isolada, filha de agricultores que plantam cenouras há décadas. Mas ela tem sonhos maiores: pretende se mudar para a cidade grande, Zootopia, onde todas as espécies de animais convivem em harmonia, na intenção de se tornar a primeira coelha policial. Judy enfrenta o preconceito e as manipulações dos outros animais, mas conta com a ajuda inesperada da raposa Nick Wilde, conhecida por sua malícia e suas infrações. A inesperada dupla se dedica à busca de um animal desaparecido, descobrindo uma conspiração que afeta toda a cidade.</info>
+</item>
+
+<item>
+<title>[COLOR white]MOANA[/COLOR][COLOR red][/COLOR][COLOR yellow] (2016) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8bdc9c8f49251e58c749931b34998d90cd97fa2</link>
+<thumbnail>https://i.ibb.co/mGQJ6YB/moana.jpg</thumbnail>
+<fanart>https://i.ibb.co/s3m7kCf/Moana-destaque.jpg</fanart>
+<info>Moana Waialiki é uma corajosa jovem, filha do chefe de uma tribo na Oceania, vinda de uma longa linhagem de navegadores. Querendo descobrir mais sobre seu passado e ajudar a família, ela resolve partir em busca de seus ancestrais, habitantes de uma ilha mítica que ninguém sabe onde é. Acompanhada pelo lendário semideus Maui, Moana começa sua jornada em mar aberto, onde enfrenta terríveis criaturas marinhas e descobre histórias do submundo.</info>
+</item>
+
+<item>
+<title>[COLOR white]Epa! Cadê o Noé[/COLOR][COLOR red][/COLOR][COLOR yellow] (2015) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C59DCE98343C259F41885DC314E829C096B5EE9E&dn=epa+cadê+o+noé+2016+1080p+bluray+5+1+x264+dual+bludv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>https://i.ibb.co/H4cyMqC/Epa-Cad-o-No-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/7bXrWF1/epa.jpg</fanart>
+<info>É o fim do mundo e o dilúvio está chegando. Uma arca é construída para salvar todos os animais, mas Dave e seu filho Finny, um par de nestrians desajeitados, são excluídos. Escondidos a bordo com a ajuda involuntária de Hazel e sua filha Leah, dois Grymps, eles pensam que estão a salvo até a curiosidade das crianças distraí-las e levá-las para fora da arca. Agora, Finny e Leah precisam sobreviver a predadores famintos, a inundação e tentar chegar ao topo de uma montanha, enquanto Dave e Hazel devem colocar de lado suas diferenças e salvar seus filhos.</info>
+</item>
+
+<item>
+<title>[COLOR white]Cada um na sua Casa[/COLOR][COLOR red][/COLOR][COLOR yellow] (2015) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c89f4e706178b73148866e800ef91560796e6e1</link>
+<thumbnail>https://i.ibb.co/1mvmFcN/casa-et-anima.jpg</thumbnail>
+<fanart>https://i.ibb.co/BPKv517/casa-et-anima1.jpg</fanart>
+<info>O planeta Terra foi invadido por seres extra-terrestres, os Boov, que estão em busca de um novo planeta para chamar de lar. Eles convivem com os humanos pacificamente, que não sabem de sua existência. Entretanto, um dia a jovem adolescente Tip (Rihanna) encontra o alien Oh (Jim Parsons), que foi banido pelos Boov devido às várias trapalhadas causadas por ele. Os dois logo embarcam em uma aventura onde aprendem bastante sobre as relações intergalácticas.</info>
+</item>
+
+<item>
+<title>[COLOR white]The Last Naruto: O Filme[/COLOR][COLOR red][/COLOR][COLOR yellow] (2014) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63743af872af1ccfc1d0bf5f31daec58d3f6e9bd</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/15/05/28/17/20/502228.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/iN9kVajy4tc/maxresdefault.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2014[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white][B] Animação[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]cine.vianna10@gmail.com: Para dúvidas e pedidos - Após dois anos dos eventos da Quarta Guerra Mundial Ninja, a lua começa a cair em direção à terra. Com a lua agora como um meteoro que ameaça destruir tudo com o impacto, um Naruto mais velho tem de lidar com esta nova ameaça. Enquanto isso, uma concorrente a liderança do Clã Hyūga, Hinata, consegue entregar à Naruto um cachecol de valor sentimental amoroso no Festival de Inverno de Konohagakure, e, em seguida, é vítima de um fracassado sequestro de um vilão misterioso. Este vilão consegue tomar a irmã mais nova de Hinata, Hanabi Hyūga, como réfem, e assim atrai Naruto, Sakura, Sai, Shikamaru e Hinata em uma missão de resgate a Hanabi. Em meio a caça ao vilão, ocorre algumas conversas entre Naruto e Hinata, assim como encontros com o vilão, e os acontecimentos só fortalecem uma relação mais forte entre eles.[/B][/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR white]Operacão Big Hero[/COLOR][COLOR red][/COLOR][COLOR yellow] (2014) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9feede0d1be4086394225cb81253c29c0ee30037</link>
+<thumbnail>https://http2.mlstatic.com/operaco-big-hero-cartaz-pster-cinema-original-D_NQ_NP_835721-MLB20838780496_072016-F.jpg</thumbnail>
+<fanart>https://www.mis-sp.org.br/images/events/Bpp3T6Q2raoXLQkh4BnwIrXhztiyytxDHGBivTpC.png</fanart>
+<info>Cidade de San Fransokyo, Estados Unidos. Hiro Hamada (voz de Ryan Potter) é um garoto prodígio que, aos 13 anos, criou um poderoso robô para participar de lutas clandestinas, onde tenta ganhar um bom dinheiro. Seu irmão, Tadashi (voz de Daniel Henney), deseja atraí-lo para algo mais útil e resolve levá-lo até o laboratório onde trabalha, que está repleto de invenções. Hiro conhece os amigos de Tadashi e logo se interessa em estudar ali. Para tanto ele precisa fazer a apresentação de uma grande invenção, de forma a convencer o professor Callahan (James Cromwell) a matriculá-lo. Entretanto, as coisas não saem como ele imaginava e Hiro, deprimido, encontra auxílio inesperado através do robô inflável Baymax (voz Scott Adsit), criado pelo irmão.</info>
+</item>
+
+<item>
+<title>[COLOR white]A Lenda de Oz[/COLOR][COLOR red][/COLOR][COLOR yellow] (2014) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1AC8B162FCCAAB160F216983BAFA05B7BD8CF369&dn=A.Lenda.de.Oz.2015.1080p.Dublado-&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337</link>
+<thumbnail>https://i.ibb.co/wwf29hk/OZ.jpg</thumbnail>
+<fanart>https://i.ibb.co/hZNQqcy/OZ1.jpg</fanart>
+<info>Dorothy acaba de voltar para casa de sua incrível jornada a Oz, mas já a estão chamando para mais uma aventura! Ao acordar em Kansas após o tornado, Dorothy (Lea Michele) e Toto voltam para Oz em um arco-íris mágico enviado por seus amigos, o Espantalho (Dan Aykroyd), o Leão (James Belushi) e o Homem de Lata (Kelsey Grammer). O tempo em Oz passou muito mais rápido do que em Kansas, e Dorothy descobre que Jester (Martin Short) – o irmão malvado da Bruxa Má do Oeste – está conquistando Oz aos poucos, uma região por vez, sequestrando seus líderes e deixando um rastro de escuridão por todo lugar. Mesmo Glinda (Bernadette Peters) não consegue combater os poderes maléficos de Jester, o que faz de Dorothy a única esperança</info>
+</item>
+
+<item>
+<title>[COLOR white]Bons de Bico[/COLOR][COLOR red][/COLOR][COLOR yellow] (2013) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19ed275263ad633f50bc925418a9e57d5cdaa268&dn=Bons.De.Bico.%282014%29.BDRIP.1080p.Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://s2.glbimg.com/Cpnrf_QS4PTz8m93Zk_s7pkuQ0g=/362x536/https://s2.glbimg.com/YbKqZ9462Zer5eIhGPS6_lGkE78=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/G/h/AhamP8REyOHwnHQlhRLw/2020-794-filme-cdc-bons-de-bico-poster.jpg</thumbnail>
+<fanart>https://conteudo.imguol.com.br/c/entretenimento/2013/11/06/cena-da-animacao-bons-de-bico-de-jimmy-hayward-1383766981996_1920x1080.jpg</fanart>
+<info>Reggie é buscado por Jake, um peru corajoso que recebeu ordens superiores para resgatá-lo. Segundo os planos, os dois animais devem entrar em uma máquina do tempo, voltar no século XVII e impedir que os colonos americanos tenham a ideia de matar perus nas festas de fim de ano. Quando voltam no tempo, a dupla vai conhecer um mundo cheio de perigos – incluindo cães selvagens e caçadores de perus – mas também novas amizades e amores.</info>
+</item>
+
+<item>
+<title>[COLOR white]Aviões[/COLOR][COLOR red][/COLOR][COLOR yellow] (2013) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97B53266E4CCB1D0A9595BB4474626A28A9CF8D5&dn=Avi%C3%B5es%20%282013%29%20BluRay%201080p%20Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce</link>
+<thumbnail>https://i.pinimg.com/originals/4a/8c/64/4a8c64200609050deac058d1cb8d57bb.jpg</thumbnail>
+<fanart>https://amenteemaravilhosa.com.br/wp-content/uploads/2017/12/aviao-do-filme-avioes.jpg</fanart>
+<info>Junte-se a Dusty, um pulverizador agrícola com sonhos nas alturas e uma única chance de entrar para o mundo dos aviões mais velozes do planeta na maior corrida aérea já realizada. Dusty tem um enorme coração, mas dois grandes problemas: ele não foi feito exatamente para competir; e ele tem medo de altura.</info>
+</item>
+
+<item>
+<title>[COLOR white]Ta Chovendo Hamburguer 2[/COLOR][COLOR red][/COLOR][COLOR yellow] (2013) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:002984B865D133465E12E34726124C12A910E640&dn=T%C3%A1%20Chovendo%20Hamb%C3%BArguer%202%20%282014%29%20-%20wolverdonfilmes.com</link>
+<thumbnail>https://i.ibb.co/dgfHC4Q/hamburguer.jpg</thumbnail>
+<fanart>https://i.ibb.co/YbwpdjH/ta-chovendo-hamburguer-2.jpg</fanart>
+<info>A genialidade do inventor Flint Lockwood é finalmente reconhecida quando ele é convidado pelo seu ídolo, Chester V, para entrar para a Live Corp Company, onde os melhores e mais geniais inventores do mundo criam tecnologias para o aprimoramento da humanidade. O braço direito de Chester – e uma das suas melhores invenções - é Barb (uma orangotango altamente evoluída com um cérebro humano, que também é sorrateira, manipuladora e gosta de usar batom). O sonho de Flint sempre foi ser reconhecido como um grande inventor, mas tudo muda quando ele descobre que a sua máquina mais famosa (que transforma água em alimentos) continua em operação e agora está criando híbridos de comida e animais – “comidanimais!” Com o futuro da humanidade em suas mãos, Chester envia Flint e seus amigos numa missão deliciosamente perigosa, enfrentando tacodilos e camaranzés famintos, serpentortas, queijaranhas com bacon duplo e outros monstros de comida para salvar o mundo mais uma vez!</info>
+</item>
+
+<item>
+<title>[COLOR white]Ta Chovendo Hamburguer[/COLOR][COLOR red][/COLOR][COLOR yellow] (2009) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5A33ABDF414415D914E934326E6D3FC36D078F30&dn=Ta%20Chovendo%20Hamburguer%201%20%282009%29%201080p%20Dual%20JohnL</link>
+<thumbnail>https://i.ibb.co/gZ3mXRn/chovendo-hambuguer.jpg</thumbnail>
+<fanart>https://i.ibb.co/MgJygyg/chovendo-hamburguer.jpg</fanart>
+<info>Flint Lockwood (Bill Hader) é um jovem cientista que sonha criar algo que faça com que seja reconhecido pela população de Boca Grande, uma pequena ilha no Atlântico. Um dia ele consegue descobrir uma forma de transformar água em comida, só que precisa de bastante eletricidade para colocá-la em funcionamento. Ao tentar usar a energia da geradora local, ele perde o controle da invenção e ela ruma para o céu. Para piorar, a confusão que ele cria destrói um parque de diversões, o grande trunfo do prefeito Shelbourne (Bruce Campbell) para melhorar a economia local. Flint acredita ter perdido a máquina, mas repentinamente começa a chover hambúrgueres em toda a cidade. Com o apoio de Sam Sparks (Anna Farris), uma estagiária de jornalismo que foi enviada à ilha para ser a nova garota do tempo, Flint logo vira uma celebridade local.</info>
+</item>
+
+<item>
+<title>[COLOR white]Universidade Monstros[/COLOR][COLOR red][/COLOR][COLOR yellow] (2013) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2379526b70c166d3fa6bd660d68bb441bc11906d&dn=Universidade+Monstros+%282013%29+BluRay+1080p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://i.ibb.co/1TrpNQP/MU.jpg</thumbnail>
+<fanart>https://i.ibb.co/4W4fV7Q/MU1.jpg</fanart>
+<info>Mike Wazowski (Billy Crystal) e James P. Sullivan (John Goodman) são uma dupla inseparável em Monstros S.A., mas nem sempre foi assim. Quando se conheceram na universidade, os dois jovens monstros se detestavam, com Mike sendo um sujeito estudioso, mas não muito assustador, e Sulley surgindo como o cara popular e arrogante, graças ao talento inerente para o susto. Após um incidente durante um teste, os dois são obrigados a participarem da mesma equipe na olimpíada dos sustos. A equipe, por sinal, é formada por uma série de monstros desajustados, para o desespero de Sulley, acostumado a conviver com os caras mais populares da escola.</info>
+</item>
+
+<item>
+<title>[COLOR white]Os Croods[/COLOR][COLOR red][/COLOR][COLOR yellow] (2013) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:849009666a1f7a842a0488ce87965bf116557f0a</link>
+<thumbnail>https://i.ibb.co/Str6RQB/croods.jpg</thumbnail>
+<fanart>https://i.ibb.co/FgJYvsW/croods1.jpg</fanart>
+<info>Eles são os Croods, uma família liderada por um pai que morre de medo do mundo exterior. Só que grandes transformações estão para acontecer, pois a adolescente Eep acaba conhecendo o também jovem Guy (Ryan Reynolds / Raphael Rossatto) e ele vai apresentar um incrível mundo novo, para o desespero do paizão protetor. Agora, juntos, eles vão enfrentar grandes desafios e se adaptar a uma nova e divertida era.</info>
+</item>
+
+<item>
+<title>[COLOR white]A Origem dos Guardioes[/COLOR][COLOR red][/COLOR][COLOR yellow] (2012) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:364CF0230AB48D0D635DA1345908193AADFDCB3C&dn=A%20Origem%20dos%20Guardi%c3%b5es%202018%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://i.ibb.co/KGvC9Pb/origem-dos-guardioes-poster.png</thumbnail>
+<fanart>https://i.ibb.co/ykr2j47/origem-dos-guardioes-banner.jpg</fanart>
+<info>Jack Frost, um garoto que controla o inverno, se junta ao seleto time dos Guardiões Imortais para impedir Breu, o bicho-papão, de transformar todos os sonhos das crianças em pesadelo e usar seus poderes maquiavélicos para governar o mundo.</info>
+</item>
+
+<item>
+<title>[COLOR white]O Lorax - Em Busca da Trúfula Perdida[/COLOR][COLOR red][/COLOR][COLOR yellow] (2012) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4617338ccd7eb0719df49800187a360c4e1b6a76</link>
+<thumbnail>https://i.ibb.co/rsNzvB5/lorax.jpg</thumbnail>
+<fanart>https://i.ibb.co/J7xYjWY/loraxanima.jpg</fanart>
+<info>Tudo começa com Ted (Zac Efron), um garoto de 12 anos apaixonado pela vizinha Audrey (Taylor Swift). Capaz de tudo para agradar a garota, ele descobre que o grande sonho dela é ver uma árvore de verdade, afinal, onde eles vivem isso não existe mais. Na cidade de Thneed-Ville tudo é tecnológico e artificial. Para descobrir o que aconteceu com as árvores e como conseguir uma para sua amada, Ted embarca numa incrível aventura, na qual passeia por uma terra desconhecida, cheia de cor e natureza. Lá conhece também o simpático - e ao mesmo tempo rabugento - Lorax, uma criatura preocupada com o futuro que luta para proteger seu mundo. A história é inspirada no livro do escritor e cartunista norte-americano Dr. Seuss, o mesmo que inspirou os filmes O Grinch, vencedor de três estatuetas do Oscar, e O Gato.</info>
+</item>
+
+<item>
+<title>[COLOR white]VALENTE[/COLOR][COLOR red][/COLOR][COLOR yellow] (2012) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WZPKRIHFCLINKSRUJHZZKX6PDEKGIKRC&dn=Valente%20(2012)%201080p%20Dublado%20JohnL</link>
+<thumbnail>https://i.ibb.co/PZG2c5q/valente.jpg</thumbnail>
+<fanart>https://i.ibb.co/ZY0VkJr/valente2.jpg</fanart>
+<info>A princesa Merida deve seguir os costumes do seu reino e tomar-se rainha ao lado do cavalheiro que conseguir a sua mão durante um torneio de arco e flecha. Mas Merida está determinada a trilhar o seu próprio caminho e desafia a tradição ancestral.</info>
+</item>
+
+<item>
+<title>[COLOR white]Enrolados[/COLOR][COLOR red][/COLOR][COLOR yellow](2010) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3095ea710f54c851c9a287195219f234f1c1214&dn=Enrolados+%282010%29+720p+Dublado+pt-BR+%2F+Brazilian+Pt&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://i.ibb.co/mzkr1KL/enrolados.jpg</thumbnail>
+<fanart>https://i.ibb.co/KqTvhT6/enrolados-poster-6.jpg</fanart>
+<info>Flynn Ryder é o bandido mais procurado do reino. Um dia, em plena fuga, ele se esconde em uma torre. Lá conhece Rapunzel, uma jovem prestes há completar 18 anos e que tem um enorme cabelo dourado. Rapunzel deseja deixar seu confinamento na torre para ver as luzes que sempre surgem no dia de seu aniversário. Para tanto, faz um acordo com Flynn. Ele a ajuda a fugir e ela lhe devolve a valiosa tiara que tinha roubado. Só que a mamãe Gothel, que manteve Rapunzel na torre durante toda a sua vida, não quer que ela deixe o local de jeito nenhum.</info>
+</item>
+
+<item>
+<title>[COLOR white]Planeta 51[/COLOR][COLOR red][/COLOR][COLOR yellow] (2009) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e02fc1024ddffb350a15d0e3c1f5e511ba7e17b3&dn=Planeta+51+720p+dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://i.ibb.co/JnZtSy1/51.jpg</thumbnail>
+<fanart>https://i.ibb.co/Nxcx5gX/51-2.jpg</fanart>
+<info>O capitão Charles T. Baker (Dwayne Johnson) acredita ser o primeiro ser vivo a chegar ao planeta 51. Entretanto, ao pousar, descobre estar enganado. O planeta é habitado por uma grande população de seres verdes, que temem a chegada do alienígena: o próprio capitão. Tendo apenas a ajuda de seu robô Rover e Lem (Justin Long), um novo amigo, o capitão precisa evitar que se torne mais um integrante do Museu de Alienígenas Invasores do planeta 51.</info>
+</item>
+
+<item>
+<title>[COLOR white]Naruto Shippuden: Laços[/COLOR][COLOR yellow] (2008) Legendado [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DF533CE5ED11AFE4E80EA9A836E95F184C02DC09&dn=Naruto%20Shippuuden%20%28Filme%2002%29%20-%20La%C3%A7os%20%282008%29%20BDRIP%201080p%20Legendado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce</link>
+<thumbnail>https://animespro.com/wp-content/uploads/narutoshippudenmovie2.jpg</thumbnail>
+<fanart>https://dg31sz3gwrwan.cloudfront.net/fanart/79824/194081-0-q80.jpg</fanart>
+<info>Antigamente existia a ‘mágica’ e respeitada vila do “Céu”, uma fortaleza flutuante. Acreditava-se que ela era o centro mais protegido do mundo, pois era uma combinação de gigantescas muralhas impenetráveis, e havia um poder de flutuação que era sustentado por um outro mistério, o ‘Chakra Negro’. Mas por algum motivo a vila oculta do “Céu” foi extinta… a “Vila Flutuante” sumiu com tudo e com todos, o que restou foram somente ruínas e algumas histórias. Agora ela reaparece trazendo à tona laços inseparáveis.</info>
+</item>
+
+<item>
+<title>[COLOR white]Bee Movie - A História de uma Abelha[/COLOR][COLOR yellow] (2007) Dublado [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28C420E19249D2E5A93DD350FBFECB0C7AE617E8&dn=Bee%20Movie%20-%20A%20Hist%C3%B3ria%20de%20uma%20Abelha%20%282007%29%20BluRay%20720p%20Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce</link>
+<thumbnail>https://i.ibb.co/2KFTvzT/bee-movie-poster.jpg</thumbnail>
+<fanart>https://i.ibb.co/2Pn3HPf/bee-movie-banner.jpg</fanart>
+<info>Barry B. Benson (voz de Jerry Seinfeld) é uma abelha que acaba de se formar na faculdade, mas não se sente satisfeito em executar uma única função durante toda a sua vida, na fabricação de mel. Em uma viagem fora da colméia, ao lado das abelhas que colhem néctar, Barry tem sua vida salva pela florista nova-iorquina Vanessa (Renée Zellweger). Enquanto o relacionamento entre os dois cresce, ele descobre que seres humanos colhem e vendem mel. Por isso, decide processar toda a raça humana.</info>
+</item>
+
+<item>
+<title>[COLOR white]Robôs[/COLOR][COLOR yellow] (2005) Dublado [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49e485a5ad4e3a32c490eddbf9991ab97f208d51&dn=Rob%c3%b4s%20(2005)%201080p%20Dublado%20JohnL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://i.ibb.co/w0ftPJw/images-59.jpg</thumbnail>
+<fanart>https://i.ibb.co/tpQhFjW/images-60.jpg</fanart>
+<info>Robôs (Robots) dublado e com qualidade de blu-ray. Rodney Lataria (Reynaldo Gianecchini) é um robô que tem um dom para inventar máquinas, que trabalha com seu pai lavando pratos. Sonhando em conhecer seu ídolo, o Grande Soldador (José Santa Cruz), Rodney decide partir em uma viagem rumo a Robópolis. Porém, ao chegar na cidade, ele percebe que sua busca será mais difícil do que imaginava. Logo Rodney se torna amigo dos Enferrujados, um grupo de robôs de rua que sabe se virar e que acaba por abrigá-lo. Tentando encontrar o Grande Soldador e mantendo seu ideal em fazer um mundo melhor, ele enfrenta situações que podem pôr em risco a própria existência de Robópolis.</info>
+</item>
+
+<item>
+<title>[COLOR white]SHREK[/COLOR][COLOR yellow] (2001) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:090bd5e3e15b33ce9247d0a9dd4a8f408065c35e</link>
+<thumbnail>https://i.pinimg.com/originals/a5/ae/48/a5ae48861b19751372fdb0af6344e1b9.jpg</thumbnail>
+<fanart>https://guiadanetflix.com.br/wp-content/uploads/2018/12/shrek-1024x576.jpeg</fanart>
+<info>Em um pântano distante vive Shrek (Mike Myers), um ogro solitário que vê, sem mais nem menos, sua vida ser invadida por uma série de personagens de contos de fada, como três ratos cegos, um grande e malvado lobo e ainda três porcos que não têm um lugar onde morar. Todos eles foram expulsos de seus lares pelo maligno Lorde Farquaad (John Lithgow). Determinado a recuperar a tranquilidade de antes, Shrek resolve encontrar Farquaad e com ele faz um acordo: todos os personagens poderão retornar aos seus lares se ele e seu amigo Burro (Eddie Murphy) resgatarem uma bela princesa (Cameron Diaz), que é prisioneira de um dragão. Porém, quando Shrek e o Burro enfim conseguem resgatar a princesa logo eles descobrem que seus problemas estão apenas começando.</info>
+</item>
+
+<item>
+<title>[COLOR white]O Gigante de Ferro[/COLOR][COLOR yellow] (1999) Dublado [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b65f940e17607f77350a68611d0fc51e6c66df48</link>
+<thumbnail>https://static.cineclick.com.br/adm/uploads/banco_imagens/69/1080x1620_1573419519.jpg</thumbnail>
+<fanart>https://modomeu.com/wp-content/uploads/2014/12/iron-giant-film.jpg</fanart>
+<info>Em plenos anos 50, vive no Maine o jovem Hogarth. Quando ele repentinamente encontra um gigantesco robô de origem desconhecida, logo um forte laço de amizade se forma entre os dois. Porém, assim que a existência do robô revelada, um agente do governo logo parte em seu encalço, no intuito de destruí-lo.</info>
+</item>
+
+<item>
+<title>[COLOR white]O Principe do Egito[/COLOR][COLOR red][/COLOR][COLOR yellow] (1998) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d14560deecd77ef61fe817fe62119782a9f683f2&dn=O+Principe+do+Egito+1998+BDRip+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://i.ibb.co/4TZL30n/principe-do-egito.jpg</thumbnail>
+<fanart>https://i.ibb.co/RbwdD3T/prince-of-egit.png</fanart>
+<info>No Egito antigo, onde os hebreus viviam como escravos, o faraó Seti, temendo o constante nascimento de crianças hebréias que poderiam no futuro ameaçar seu poder, ordena que todos os bebês hebreus do sexo masculino sejam afogados. Uma hebréia, para tentar salvar seu filho Moisés, o coloca em uma cesta no Rio Nilo. A criança acaba sendo encontrada pela rainha. Assim, Moisés é criado como irmão de Ramsés, o herdeiro do trono. Os dois crescem juntos e se tornam grande amigos. Porém um dia Moisés descobre sua origem, decide abandonar o palácio e libertar seu povo, os hebreus, para levá-los à Terra Prometida.</info>
+</item>
+
+<item>
+<title>[COLOR white]Mulan[/COLOR][COLOR red][/COLOR][COLOR yellow] (1998) DUAL AUDIO[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A6E7ECF9671D7902B59F743E796CFEF8FC018F2F&dn=36.Mulan.1998.1080p.BRrip.x264.AC3.5.1.AAC.2.0.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://i.ibb.co/PjvQwnb/mulan.jpg</thumbnail>
+<fanart>https://i.ibb.co/MSn9hF3/mulan2.jpg</fanart>
+<info>Quando os mongóis invadem a China, o imperador (Pat Morita) decreta que cada família ceda um homem para o exército imperial. Com isso, uma jovem fica angustiada ao ver seu velho e doente pai ser convocado, por ser o único homem da família. Ele precisa ir, mesmo sabendo que certamente morrerá, para manter a honra da família. Assim, sua filha rouba sua armadura e espada, se disfarça de homem e se apresenta no lugar do pai, mas os espíritos dos ancestrais decidem protegê-la e ordenam a um dragão (Eddie Murphy), que havia caído em desgraça, que convença a jovem a abandonar seu plano. Ele concorda, mas quando conhece a jovem descobre que ela não pode ser dissuadida e, assim, decide ajudá-la a cumprir sua perigosa missão de ir para a guerra e voltar viva.</info>
+</item>
+
+<item>
+<title>[COLOR white]Vida de Inseto[/COLOR][COLOR yellow] (1998) Dublado [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F1619D92647D3AAD4B2EC1FA8DB61DDEF4EEA13F&dn=Vida%20de%20Inseto%20720p%20-%20The%20Pirate%20Filmes&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.ccc.de:80/announce</link>
+<thumbnail>https://i.ibb.co/bmthcgs/inseto.jpg</thumbnail>
+<fanart>https://i.ibb.co/M6TtQ0w/inseto2.jpg</fanart>
+<info>Todo ano, os gananciosos gafanhotos exigem uma parte da colheita das formigas. Mas quando algo dá errado e a colheita destruída, os gafanhotos ameaçam atacar e as formigas são forçadas a pedir ajuda a outros insetos para enfrentá-los numa batalha.</info>
+</item>
+
+<item>
+<title>[COLOR white]Neon Genesis Evangelion: O Fim do Evangelho[/COLOR][COLOR yellow] (1997) Dual Áudio [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b826376ede1237cb6d47d7df8d79c479aefd334e&dn=COMANDO.TO%20-%20Neon%20Genesis%20Evangelion%20-%20O%20Fim%20do%20Evangelho%201997%20%5b1080p%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://i.pinimg.com/originals/b2/28/d7/b228d7e35003e623923e8b0a5a55fb6e.jpg</thumbnail>
+<fanart>https://supercinemaup.com/wp-content/uploads/2016/06/10-animes-indispens%C3%A1veis-1.jpg</fanart>
+<info>O filme mostra o verdadeiro final da série. Todos os acontecimentos de Neon Genesis Evangelion culminaram para esse ponto. O Terceiro Impacto começa e cabe a Shinji Ikari decidir o futuro da humanidade. Sem deixar os momentos de ação e de filosofia de lado (e também muitas indagações), O Fim de Evangelion é um final merecido para série.</info>
+</item>
+
+<item>
+<title>[COLOR white]O Rei Leão[/COLOR][COLOR yellow] (1994) Dublado [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a573a253408f6ae776994ad41cd7fa2b44a5d2bc</link>
+<thumbnail>https://flixfilmes.org/wp-content/uploads/2020/02/rei-leao.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-Vw2nDKTK82o/V-1dA6LBt8I/AAAAAAAAAOw/4LKJBaldFkU3fKqRkmwz0JziOYouhyccACLcB/s1600/o-rei-le%25C3%25A3o-3D-ed.jpg</fanart>
+<info>Mufasa (James Earl Jones), o Rei Leão, e a rainha Sarabi (Madge Sinclair) apresentam ao reino o herdeiro do trono, Simba (Matthew Broderick). O recém-nascido recebe a bênção do sábio babuíno Rafiki (Robert Guillaume), mas ao crescer é envolvido nas artimanhas de seu tio Scar (Jeremy Irons), o invejoso e maquiavélico irmão de Mufasa, que planeja livrar-se do sobrinho e herdar o trono.</info>
+</item>
+
+<item>
+<title>[COLOR white]A Bela e a Fera[/COLOR][COLOR yellow] (1991) Dublado [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80f1785ff2e8e6c61b7b533e268e0de9e8176ac0</link>
+<thumbnail>https://i.ibb.co/C57BPT6/belaea-fera.png</thumbnail>
+<fanart>https://megapixparaimprensa.com.br/wp-content/uploads/2018/01/a_bela_e_a_fera_1991_high.jpg</fanart>
+<info>Em uma pequena aldeia da França vive Belle, uma jovem inteligente que é considerada estranha pelo moradores da localidade, e seu pai, Maurice, um inventor que é visto como um louco. Ela é cortejada por Gaston, que quer casar com ela. Mas apesar de todas as jovens do lugarejo o acharem um homem bonito, Belle não o suporta, pois vê nele uma pessoa primitiva e convencida. Quando o pai de Belle vai para uma feira demonstrar sua nova invenção, ele acaba se perdendo na floresta e é atacado por lobos. Desesperado, Maurice procura abrigo em um castelo, mas acaba se tornando prisioneiro da Fera, o senhor do castelo, que na verdade é um príncipe que foi amaldiçoado por uma feiticeira quando negou abrigo a ela.</info>
+</item>
+
+<item>
+<title>[COLOR white]Os Jetsons[/COLOR][COLOR red][/COLOR][COLOR yellow] (1990) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B3F3394841BB7D95BF01A01639D8464C1154365A&dn=Os%20Jetsons%20O%20Filme%20%281990%29%20WEB-DL%20720p%20Dublado%20Mp4%20-%20WWW.RAPIDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://i.ibb.co/pbVPBRm/os-jetsons.jpg</thumbnail>
+<fanart>https://i.ibb.co/C1RcSBR/os-jetsons1.jpg</fanart>
+<info>Pela primeira vez, a família mais louca e divertida de todo o espaço vai viver uma aventura completa e emocionante. Quando George Jetson é promovido, ele se muda com toda família para um asteróide distante, cheio de surpresas e novos amigos. Você vai conhecer um Shopping Center do futuro, vai rolar de rir com os jogos de basquete sem gravidade e descobrir que os Grungies, habitantes do asteróide, já sabem como usar a tecnologia em causar danos à ecologia. O Jetsons - é uma incrível produção de 1990, baseado no desenho originais que se tornaram uma das séries de maior sucesso na televisão de todo o mundo.</info>
+</item>
+
+<item>
+<title>[COLOR white]Pinóquio[/COLOR][COLOR yellow] (720p) Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c8e1055120c02ccf17b32758713ba1e2260f57e</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/14/03/05/20/02/220604.jpg</thumbnail>
+<fanart>https://img.elo7.com.br/product/zoom/11E8749/painel-pinoquio-g-frete-gratis-painel-de-aniversario.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]1940[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white][B] Animação[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]cine.vianna10@gmail.com: Para dúvidas e pedidos - Gepeto é um carpinteiro solitário que, um dia, resolve fazer um boneco de madeira para lhe fazer companhia. Durante a noite, a Fada Azul dá vida ao boneco, que passa a se chamar Pinóquio. Ansioso para se tornar um menino de verdade, Pinóquio se mete em várias confusões, apesar dos constantes avisos de seu amigo Grilo Falante. O boneco tem uma particularidade: sempre que mente seu nariz cresce. Até o dia em que precisa resgatar seu criador, quando ele fica preso na barriga de uma baleia.[/B][/COLOR]</info>
+</item>
+
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]A Liga da Justiça e os Jovens Titãs[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
