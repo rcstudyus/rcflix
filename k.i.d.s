@@ -8,6 +8,18 @@
 [COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]cine.vianna10@gmail.com: Para dúvidas e pedidos - Uma garota constrói uma nave espacial e parte rumo ao espaço à procura da deusa da lua.[/B][/COLOR]</info>
 </item>
 
+
+<item>
+<title>[COLOR white]DENNIS - O PIMENTINHA ATACA NOVAMENTE[/COLOR][COLOR yellow] (720p) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F9B4F12677EA16CCD757D672EAD7A9C1F3ECA0D</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/9AnwwTia1JiQH6lItJ3dSz9onvI.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/JBJ0zpWwAFc/hqdefault.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2020[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white][B] Animação[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]O pestinha Dennis apronta mais uma das suas traquinagens e tira o Sr. Wilson do sério, a ponto de fazê-lo colocar sua casa à venda. De castigo, o garotinho foge e confessa ao vizinho que o ama como seu melhor amigo e prova isso salvando-o de uns pilantras.</item>
+
+magnet:?xt=urn:btih:6F9B4F12677EA16CCD757D672EAD7A9C1F3ECA0D
+
 <item>
 <title>[COLOR white]Bob Esponja - O Incrivel Resgate[/COLOR][COLOR yellow] (1080p) Dual Áudio [/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:840f44334831541e2fa79eade6dfac74338c6463</link>
