@@ -1,7 +1,39 @@
 #EXTM3U
 
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="ANIMAL PLANET"
+https://br56.logicyel.com/live/5782_.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR EM TESTE", CNN BRASIL
+
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="A&E"
+https://br56.logicyel.com/live/5790_.m3u8
+
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="AMC"
+http://dynamic.fr34you.top:2096/ULTRA_4C4A480003EF/jLm4cpxtAK53/43
+
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="AXN"
+https://br56.logicyel.com/live/5792_.m3u8
+
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="BABY TV"
+https://br56.logicyel.com/live/5766_.m3u8
+
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="BAND"
+http://dynamic.fr34you.top:2096/ULTRA_4C4A480003EF/jLm4cpxtAK53/79
+
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="BAND 4K"
+https://br56.logicyel.com/live/5763_.m3u8
+
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="BANDNEWS"
+https://br56.logicyel.com/live/5793_.m3u8
+
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="BANDSPORTS"
+https://br56.logicyel.com/live/5928_.m3u8
+
+
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="BIS"
+https://br56.logicyel.com/live/5794_.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", CNN BRASIL
 https://br56.logicyel.com/live/87776_.m3u8
 
 
