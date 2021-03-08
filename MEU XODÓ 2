@@ -32,6 +32,34 @@ https://br56.logicyel.com/live/5928_.m3u8
 #EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="BIS"
 https://br56.logicyel.com/live/5794_.m3u8
 
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="ELEVEN SPORTS 1"
+http://dynamic.fr34you.top:2096/ULTRA_4C4A480003EF/jLm4cpxtAK53/335
+
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="CINEMAX"
+https://br56.logicyel.com/live/5783_.m3u8
+
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="SPORT TV 1"
+http://dynamic.fr34you.top:2096/ULTRA_4C4A480003EF/jLm4cpxtAK53/342
+
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="SPORT TV 2"
+http://dynamic.fr34you.top:2096/ULTRA_4C4A480003EF/jLm4cpxtAK53/343
+
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="SPORT TV 3"
+http://dynamic.fr34you.top:2096/ULTRA_4C4A480003EF/jLm4cpxtAK53/344
+
+
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="COMEDY CENTRAL"
+https://br56.logicyel.com/live/5867_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="DISCOVERY H&H"
+https://br56.logicyel.com/live/5784_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="DISCOVERY KIDS"
+https://br56.logicyel.com/live/5806_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="GLOBO BAHIA"
+https://br56.logicyel.com/live/6431_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", CNN BRASIL
 https://br56.logicyel.com/live/87776_.m3u8
