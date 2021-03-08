@@ -1,64 +1,155 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", ANIMAL PLANET
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="ANIMAL PLANET"
 https://br56.logicyel.com/live/5782_.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", A&E
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="A&E"
 https://br56.logicyel.com/live/5790_.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", AMC
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="AMC"
 http://dynamic.fr34you.top:2096/ULTRA_4C4A480003EF/jLm4cpxtAK53/43
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", AXN
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="AXN"
 https://br56.logicyel.com/live/5792_.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", BABY TV
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="BABY TV"
 https://br56.logicyel.com/live/5766_.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", BAND
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="BAND"
 http://dynamic.fr34you.top:2096/ULTRA_4C4A480003EF/jLm4cpxtAK53/79
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", BAND 4K
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="BAND 4K"
 https://br56.logicyel.com/live/5763_.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", BANDNEWS
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="BANDNEWS"
 https://br56.logicyel.com/live/5793_.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", BANDSPORTS
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="BANDSPORTS"
 https://br56.logicyel.com/live/5928_.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", BIS
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="BIS"
 https://br56.logicyel.com/live/5794_.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", ELEVEN SPORTS 1
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="ELEVEN SPORTS 1"
 http://dynamic.fr34you.top:2096/ULTRA_4C4A480003EF/jLm4cpxtAK53/335
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", CINEMAX
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="CINEMAX"
 https://br56.logicyel.com/live/5783_.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", SPORT TV 1
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="SPORT TV 1"
 http://dynamic.fr34you.top:2096/ULTRA_4C4A480003EF/jLm4cpxtAK53/342
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", SPORT TV 2
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="SPORT TV 2"
 http://dynamic.fr34you.top:2096/ULTRA_4C4A480003EF/jLm4cpxtAK53/343
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", SPORT TV 3
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="SPORT TV 3"
 http://dynamic.fr34you.top:2096/ULTRA_4C4A480003EF/jLm4cpxtAK53/344
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", COMEDY CENTRAL
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="COMEDY CENTRAL"
 https://br56.logicyel.com/live/5867_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", DISCOVERY H&H
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="DISCOVERY H&H"
 https://br56.logicyel.com/live/5784_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", DISCOVERY KIDS
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="DISCOVERY KIDS"
 https://br56.logicyel.com/live/5806_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", GLOBO BAHIA
+#EXTINF:-1, group-title="SERVIDOR AMIGOS", tvg-name="GLOBO BAHIA"
 https://br56.logicyel.com/live/6431_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", DISC SCIENCE
+https://br56.logicyel.com/live/5807_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", DISC THEATER
+https://br56.logicyel.com/live/5853_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", DISC TURBO
+https://br56.logicyel.com/live/5786_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", DISC WORLD
+https://br56.logicyel.com/live/5886_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", DISCOVERY CHANNEL
+https://br56.logicyel.com/live/5785_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", DISNEY
+https://br56.logicyel.com/live/5787_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", DISNEY JR
+https://br56.logicyel.com/live/5775_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", DISNEY XD
+https://br56.logicyel.com/live/5776_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", E 
+https://br56.logicyel.com/live/5729_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", GLOBO 1
+https://br56.logicyel.com/live/5758_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", ESPN BRASIL
+https://br56.logicyel.com/live/5907_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS",ESPN EXTRA
+https://br56.logicyel.com/live/34_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", ESPN
+https://br56.logicyel.com/live/5912_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", ESPN 2
+https://br56.logicyel.com/live/5912_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", FISH TV
+https://br56.logicyel.com/live/5808_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", FOOD NETWORK 
+https://br56.logicyel.com/live/5759_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", FOX
+https://br56.logicyel.com/live/5888_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", FOX 4K
+https://br56.logicyel.com/live/5888_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", FOX LIFE
+https://br56.logicyel.com/live/5869_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", FOX PREMIUM 1
+https://br56.logicyel.com/live/5889_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", FOX PREMIUM 2
+https://br56.logicyel.com/live/5871_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", FOX SPORTS
+https://br56.logicyel.com/live/5927_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", FOX SPORTS 4K
+https://br56.logicyel.com/live/5927_.m3u8?token=830e12d3e1a3456685d4b565ec38a00d
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERVIDOR AMIGOS", CNN BRASIL
