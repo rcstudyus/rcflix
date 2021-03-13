@@ -3,57 +3,55 @@
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" , BAND SPORTS 
 http://hvod.imirun.net:8080/Band-Sports-HD/index.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" , COMBATE 
 http://hvod.imirun.net:8080/Combate-HD/index.m3u8
 
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" , ESPN + 
 http://hvod.imirun.net:8080/ESPN+/index.m3u8
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" , ESPN BRASIL 
 http://hvod.imirun.net:8080/ESPN-Brasil-HD/index.m3u8
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES ESPORTES" , ESPN  
 http://hvod.imirun.net:8080/ESPN/index.m3u8
 
 
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" , FOX ESPORT 
 http://hvod.imirun.net:8080/Fox-Sports-HD/index.m3u8
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" , FOX sports 2
 http://hvod.imirun.net:8080/Fox-Sports-2-HD/index.m3u8
 
 
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" ,  PREMIER CLUBE 
 http://hvod.imirun.net:8080/Premiere-Clubes-HD/index.m3u8
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" ,  PREMIER 2 
 http://hvod.imirun.net:8080/Premiere-2-HD/index.m3u8
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" ,  PREMIER 3 
 http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" ,  PREMIER 4 
 http://hvod.imirun.net:8080/Premiere-4-HD/index.m3u8
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" ,  PREMIER 5 
 http://hvod.imirun.net:8080/Premiere-5-HD/index.m3u8
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" ,  PREMIER 6 
 http://hvod.imirun.net:8080/Premiere-6-HD/index.m3u8
 
 
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" , SPORTV 
 http://hvod.imirun.net:8080/Sportv-HD/index.m3u8
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" , SPORTV 2 
 http://hvod.imirun.net:8080/Sportv-2-HD/index.m3u8
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" , SPORTV 3 
 http://hvod.imirun.net:8080/Sportv-2-HD/index.m3u8
 
