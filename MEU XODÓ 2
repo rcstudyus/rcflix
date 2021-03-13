@@ -56,22 +56,31 @@ http://hvod.imirun.net:8080/Sportv-2-HD/index.m3u8
 http://hvod.imirun.net:8080/Sportv-2-HD/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 1 FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonato.png" group-title="Canais | PPV",Campeonato Carioca 1 FHD
 http://b5.vc:80/9JJCdQuZpt/fireurl.co/96513
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 1 FHD [H265]
 http://b5.vc:80/9JJCdQuZpt/fireurl.co/96514
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 1 HD
 http://b5.vc:80/9JJCdQuZpt/fireurl.co/96515
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 1 SD
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/livefc02hd/video.m3u8?md5=pBKKz55J7sfbKhZALPWPJQ&expires=1614855541
+http://yakisobamix.click:80/gabriel123/gabriel321/105019
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 2 FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/esportes22_350/index.m3u8
+http://yakisobamix.click:80/gabriel123/gabriel321/105020
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 2 FHD [H265]
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/esportes22_2000/index.m3u8
+http://rec2.distv.net:80/daniele/12345/4
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 2 HD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/esportes22_2000/index.m3u8
+http://rec2.distv.net:80/diego1/diego1/4
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 2 SD
 http://b5.vc:80/9JJCdQuZpt/fireurl.co/96520
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 2 SD
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/84612
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 2 SD
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/84613
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 2 SD
+http://dns.velox4k.tech:2082/6893910914/6615263741/23243
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 2 SD
+http://pdsrv.io:80/kleber/kleber12345/76664
+
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<,
 
