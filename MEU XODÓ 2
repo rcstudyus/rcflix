@@ -1,60 +1,79 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" , BAND SPORTS 
-http://hvod.imirun.net:8080/Band-Sports-HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iOPJueQ.png" group-title="Esportes",All Sports TV
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" , COMBATE 
-http://hvod.imirun.net:8080/Combate-HD/index.m3u8
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-logo="https://i.imgur.com/q92za8a.png" group-title="Esportes",BandSports
+https://nxplay-srv1.nxplay.com.br/BAND_SPORTS/index.m3u8
 
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-logo="https://i.imgur.com/q92za8a.png" group-title="Esportes",BandSports HD
+https://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" , ESPN + 
-http://hvod.imirun.net:8080/ESPN+/index.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-logo="https://i.imgur.com/ck1qmrN.png" group-title="Esportes",ESPN
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" , ESPN BRASIL 
-http://hvod.imirun.net:8080/ESPN-Brasil-HD/index.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-logo="https://i.imgur.com/ck1qmrN.png" group-title="Esportes",ESPN HD
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES ESPORTES" , ESPN  
-http://hvod.imirun.net:8080/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="https://i.imgur.com/wtyiv1p.png" group-title="Esportes",ESPN 2
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/master.m3u8
 
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="https://i.imgur.com/wtyiv1p.png" group-title="Esportes",ESPN 2 HD
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
 
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://i.imgur.com/L2fqOaA.png" group-title="Esportes",ESPN Brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" , FOX ESPORT 
-http://hvod.imirun.net:8080/Fox-Sports-HD/index.m3u8
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://i.imgur.com/L2fqOaA.png" group-title="Esportes",ESPN Brasil HD
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" , FOX sports 2
-http://hvod.imirun.net:8080/Fox-Sports-2-HD/index.m3u8
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="https://i.imgur.com/cX1sv83.png" group-title="Esportes",ESPN Extra
+https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/master.m3u8
 
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="https://i.imgur.com/cX1sv83.png" group-title="Esportes",ESPN Extra HD
+https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
+#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 1
+https://slvcs87g3x.akamaized.net/live/canal_01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" ,  PREMIER CLUBE 
-http://hvod.imirun.net:8080/Premiere-Clubes-HD/index.m3u8
+#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 2
+https://slvcs87g3x.akamaized.net/live/canal_02/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" ,  PREMIER 2 
-http://hvod.imirun.net:8080/Premiere-2-HD/index.m3u8
+#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 3
+https://slvcs87g3x.akamaized.net/live/canal_03/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" ,  PREMIER 3 
-http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
+#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" ,  PREMIER 4 
-http://hvod.imirun.net:8080/Premiere-4-HD/index.m3u8
+#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" ,  PREMIER 5 
-http://hvod.imirun.net:8080/Premiere-5-HD/index.m3u8
+#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 6
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" ,  PREMIER 6 
-http://hvod.imirun.net:8080/Premiere-6-HD/index.m3u8
+#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 7
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LiveEI" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="Esportes",Estádio TNT Sports 8
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="https://i.imgur.com/R4DJNZm.png" group-title="Esportes",Fox Sports
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" , SPORTV 
-http://hvod.imirun.net:8080/Sportv-HD/index.m3u8
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="https://i.imgur.com/R4DJNZm.png" group-title="Esportes",Fox Sports HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" , SPORTV 2 
-http://hvod.imirun.net:8080/Sportv-2-HD/index.m3u8
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere Clubes
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTES" , SPORTV 3 
-http://hvod.imirun.net:8080/Sportv-2-HD/index.m3u8
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere Clubes HD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://i.imgur.com/YzY6fI2.png" group-title="Esportes",SporTV
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://i.imgur.com/YzY6fI2.png" group-title="Esportes",SporTV HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonato.png" group-title="Canais | PPV",Campeonato Carioca 1 FHD
 http://b5.vc:80/9JJCdQuZpt/fireurl.co/96513
@@ -263,10 +282,20 @@ https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZj
 http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://i.imgur.com/ZekUX7A.png",Comedy Central HD
 http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://i.imgur.com/yScrn6s.png",Paramount
-http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://i.imgur.com/yScrn6s.png",Paramount HD
-http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="https://i.imgur.com/fuKwYWn.png" group-title="Filmes e Séries",Comedy Central HD
+https://ug1upc1hgb.singularcdn.net.br/CCLB_HD/index.m3u8
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="https://i.imgur.com/YBdPi3r.png" group-title="Filmes e Séries",Paramount Network
+https://nxplay-srv1.nxplay.com.br/PCBR_HD/index.m3u8
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="https://i.imgur.com/YBdPi3r.png" group-title="Filmes e Séries",Paramount Network HD
+https://nxplay-srv1.nxplay.com.br/PCBR_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="https://i.imgur.com/WGQ4LCM.png" group-title="Filmes e Séries",TBS
+https://origin-02.nxplay.com.br/TBS/index.m3u8
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="https://i.imgur.com/WGQ4LCM.png" group-title="Filmes e Séries",TBS HD
+https://origin-02.nxplay.com.br/TBS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://i.imgur.com/RSGqIKS.png" group-title="Filmes e Séries",TNT
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/playlist.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://i.imgur.com/RSGqIKS.png" group-title="Filmes e Séries",TNT HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
 
 
 
@@ -417,6 +446,25 @@ http://api.new.livestream.com:80/accounts/15107153/events/4338771/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/genesis.png" group-title="Religioso", Rede Gênesis
 https://5d23bdca513db.streamlock.net/sara/sara/chunklist.m3u8
+
+
+
+################################################################################# Séries 24 Horas
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q4InnVb.png" group-title="Séries 24 Horas",TV Séries 1 - As Panteras
+https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q4InnVb.png" group-title="Séries 24 Horas",TV Séries 2 - A Mulher Biônica
+https://stmv1.srvstm.com/tvserie2/tvserie2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q4InnVb.png" group-title="Séries 24 Horas",TV Séries 3 - Star Trek
+https://stmv1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q4InnVb.png" group-title="Séries 24 Horas",TV Séries 4 - Chips
+https://stmv1.srvstm.com/tvserie4/tvserie4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q4InnVb.png" group-title="Séries 24 Horas",TV Séries 5 - Guerra, Sombra e Água Fresca
+https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8
 
 
 
