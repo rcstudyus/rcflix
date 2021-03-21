@@ -1,5 +1,16 @@
 #EXTM3U
 
+
+#EXTINF:-1 type="stream" tvg-id="CAMPEONATO CARIOCA 1" tvg-logo="http://dns.jslinkdns.xyz:80/images/23977f6d33486f21501b80afd10c8087.png" group-title="CANAIS | SPORTS DIVERSOS",CAMPEONATO CARIOCA 1
+http://dns.fastuhd.online/live/henzo05tb/63692808/175446.m3u8
+#EXTINF:-1 type="stream" tvg-id="CAMPEONATO CARIOCA 1 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/440137e3a11e264ea8cdcc19b5c85af0.png" group-title="CANAIS | SPORTS DIVERSOS",CAMPEONATO CARIOCA 1 HD
+http://dns.fastuhd.online/live/henzo05tb/63692808/175552.m3u8
+#EXTINF:-1 type="stream" tvg-id="CAMPEONATO CARIOCA 2" tvg-logo="http://dns.jslinkdns.xyz:80/images/23977f6d33486f21501b80afd10c8087.png" group-title="CANAIS | SPORTS DIVERSOS",CAMPEONATO CARIOCA 2
+http://dns.fastuhd.online/live/henzo05tb/63692808/175447.m3u8
+#EXTINF:-1 type="stream" tvg-id="CAMPEONATO CARIOCA 2 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/440137e3a11e264ea8cdcc19b5c85af0.png" group-title="CANAIS | SPORTS DIVERSOS",CAMPEONATO CARIOCA 2 HD
+http://dns.fastuhd.online/live/henzo05tb/63692808/175553.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iOPJueQ.png" group-title="Esportes",All Sports TV
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
