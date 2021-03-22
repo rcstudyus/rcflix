@@ -319,6 +319,10 @@ http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
 #EXTINF:-1 group-title="Notícias" tvg-logo="http://i.imgur.com/oLcHI8G.png",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://i.imgur.com/oLcHI8G.png",Band News
+https://nxplay-srv1.nxplay.com.br/BAND_NEWS/tracks-v1a1/mono.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Notícias" tvg-logo="https://i.imgur.com/f3m6Tcz.png",CNN Brasil (Alter)
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 #EXTINF:-1 group-title="Notícias" tvg-logo="https://i.imgur.com/f3m6Tcz.png",CNN Brasil
 http://origin-02.nxplay.com.br/CNN_Brazil_HD_NX/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Notícias" tvg-logo="https://i.imgur.com/f3m6Tcz.png",CNN Brasil HD
