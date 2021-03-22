@@ -309,7 +309,8 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/playlist.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
 
 
-
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://s03.video.glbimg.com/x720/61910.jpg",Globo News
+https://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/playlist.m3u8
 #EXTINF:-1 group-title="Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News MA
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
 #EXTINF:-1 group-title="Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News
