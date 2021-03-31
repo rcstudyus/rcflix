@@ -129,6 +129,8 @@ http://pdsrv.io:80/kleber/kleber12345/76664
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV Aberta",Globo RJ HD
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV Aberta",Globo NORDESTE HD
+https://lojadebicicleta.com.br/player3/canaishlb.php?canal=bobonordeste
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV Aberta",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Manchete" tvg-name="TV Manchete" tvg-logo="https://imgur.com/dQRl59I.png" tvg-shift="0" group-title="TV Aberta",TV Manchete
