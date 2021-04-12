@@ -8,6 +8,14 @@
 [COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]cine.vianna10@gmail.com: Para dúvidas e pedidos - Uma garota constrói uma nave espacial e parte rumo ao espaço à procura da deusa da lua.[/B][/COLOR]</info>
 </item>
 
+<item>
+<title>[COLOR white]MOGLI - O MENINO LOBO[/COLOR][COLOR yellow] (720p) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E699A881CB151F31E8C433664AFF52CB4DB874DA</link>
+<thumbnail>https://ondebaixa.com/capas/mogli-o-menino-lobo-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ondebaixa.com/capas/mogli-o-menino-lobo-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>http://</info>
+</item>
+
 
 <item>
 <title>[COLOR white]DENNIS - O PIMENTINHA ATACA NOVAMENTE[/COLOR][COLOR yellow] (720p) Dual Áudio[/COLOR]</title>
