@@ -1,18 +1,7 @@
 #EXTM3U
 
-
-<item>
-<title>[B][COLOR white]GLOBO NORDESTE[/COLOR][/B] [B][COLOR gold]HD[/COLOR][/B]</title>
-<link>$doregex[MEGA_TV]</link>
-<regex>
-<name>MEGA_TV</name>
-<expres>source: "(.*?)"</expres>
-<referer>https://lojadebicicleta.com.br/</referer> 
-<page>https://lojadebicicleta.com.br/player3/canaishlb.php?canal=bobonordeste</page></regex>
-<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/rede-globo.png</thumbnail>
-<fanart></fanart>  
-</item>
-
+#EXTINF:-1 type="stream" tvg-id="CAMPEONATO CARIOCA 1" tvg-logo="http://dns.jslinkdns.xyz:80/images/23977f6d33486f21501b80afd10c8087.png" group-title="CANAIS | FILMES DIRETO",CAMPEONATO CARIOCA 1
+https://filmesmp4.com/v2/?dub=https://pandafiles.com/mo39rzxmle5a/Ak-47.A.Arma.Que.Mudou.o.Mundo.2021_Dub__Filmesmp4.com_.mp4
 
 #EXTINF:-1 type="stream" tvg-id="CAMPEONATO CARIOCA 1" tvg-logo="http://dns.jslinkdns.xyz:80/images/23977f6d33486f21501b80afd10c8087.png" group-title="CANAIS | SPORTS DIVERSOS",CAMPEONATO CARIOCA 1
 http://dns.fastuhd.online/live/henzo05tb/63692808/175446.m3u8
