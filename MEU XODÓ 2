@@ -3,14 +3,22 @@
 #EXTINF:-1 type="stream" tvg-id="CAMPEONATO CARIOCA 1" tvg-logo="http://dns.jslinkdns.xyz:80/images/23977f6d33486f21501b80afd10c8087.png" group-title="CANAIS | FILMES DIRETO",CAMPEONATO CARIOCA 1
 https://filmesmp4.com/v2/?dub=https://pandafiles.com/mo39rzxmle5a/Ak-47.A.Arma.Que.Mudou.o.Mundo.2021_Dub__Filmesmp4.com_.mp4
 
-#EXTINF:-1 type="stream" tvg-id="CAMPEONATO CARIOCA 1" tvg-logo="http://dns.jslinkdns.xyz:80/images/23977f6d33486f21501b80afd10c8087.png" group-title="CANAIS | SPORTS DIVERSOS",CAMPEONATO CARIOCA 1
-http://dns.fastuhd.online/live/henzo05tb/63692808/175446.m3u8
-#EXTINF:-1 type="stream" tvg-id="CAMPEONATO CARIOCA 1 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/440137e3a11e264ea8cdcc19b5c85af0.png" group-title="CANAIS | SPORTS DIVERSOS",CAMPEONATO CARIOCA 1 HD
-http://dns.fastuhd.online/live/henzo05tb/63692808/175552.m3u8
-#EXTINF:-1 type="stream" tvg-id="CAMPEONATO CARIOCA 2" tvg-logo="http://dns.jslinkdns.xyz:80/images/23977f6d33486f21501b80afd10c8087.png" group-title="CANAIS | SPORTS DIVERSOS",CAMPEONATO CARIOCA 2
-http://dns.fastuhd.online/live/henzo05tb/63692808/175447.m3u8
-#EXTINF:-1 type="stream" tvg-id="CAMPEONATO CARIOCA 2 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/440137e3a11e264ea8cdcc19b5c85af0.png" group-title="CANAIS | SPORTS DIVERSOS",CAMPEONATO CARIOCA 2 HD
-http://dns.fastuhd.online/live/henzo05tb/63692808/175553.m3u8
+#EXTINF:-1 group-title="tv • ESPORTES" tvg-logo="http://i.img8.xyz/_logos/cariocao_hd.png",Campeonato Carioca 1 HD₂
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/84612
+#EXTINF:-1 group-title="tv • ESPORTES" tvg-logo="http://i.img8.xyz/_logos/cariocao_sd.png",Campeonato Carioca 1 SD₂
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/84613
+#EXTINF:-1 group-title="tv • ESPORTES" tvg-logo="http://i.img8.xyz/_logos/cariocao_hd.png",Campeonato Carioca 2 HD₂
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/84614
+#EXTINF:-1 group-title="tv • ESPORTES" tvg-logo="http://i.img8.xyz/_logos/cariocao_sd.png",Campeonato Carioca 2 SD₂
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/84615
+#EXTINF:-1,CAMPEONATO CARIOCA 1 HD
+http://snxt.online:80/fabricio2021/fabricio2021/207371
+#EXTINF:-1,CAMPEONATO CARIOCA 2 HD
+http://snxt.online:80/fabricio2021/fabricio2021/207372
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA Opçao 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f9/Carioca2017.png/200px-Carioca2017.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CAMPEONATO CARIOCA Opçao 1
+http://e.advd.cyou:80/live/gustavo/gustavo/191899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA Opçao 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f9/Carioca2017.png/200px-Carioca2017.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CAMPEONATO CARIOCA Opçao 2
+http://e.advd.cyou:80/live/gustavo/gustavo/191900.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/440137e3a11e264ea8cdcc19b5c85af0.png" group-title="CANAIS | SPORTS DIVERSOS",CAMPEONATO CARIOCA 1 HD
 http://dns.blackouthd.xyz:80/kadja005/800900500/175552
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 2 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/440137e3a11e264ea8cdcc19b5c85af0.png" group-title="CANAIS | SPORTS DIVERSOS",CAMPEONATO CARIOCA 2 HD
