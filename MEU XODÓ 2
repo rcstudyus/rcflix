@@ -554,11 +554,12 @@ http://177.20.208.58:8000/play/a053/index.m3u8
 #EXTINF:-1 group-title="ESPECIAL BA" tvg-name="CANAIS BAHIA " tvg-logo="",Globo TV Sudoeste Bahia HD
 http://177.20.208.58:8000/play/a052/index.m3u8
 #EXTINF:-1 group-title="ESPECIAL BA" tvg-name="CANAIS BAHIA " tvg-logo="",Globo TV Sudoeste Bahia HD 2
-http://tv.factoryiptv.com:80/jurema10/jurema10/75485
+http://main.icontv.in:80/live/celsovargas/121819/62833.m3u8
 #EXTINF:-1 group-title="ESPECIAL BA" tvg-name="CANAIS BAHIA " tvg-logo="",Globo TV Bahia FD
 http://rec2.distv.net:80/live/daniele/12345/17.m3u8
 #EXTINF:-1 group-title="ESPECIAL BA" tvg-name="CANAIS BAHIA " tvg-logo="",Globo TV Bahia FD 2
-http://tv.factoryiptv.com:80/jurema10/jurema10/37096
+http://dns.blackouthd.xyz:80/valdeir033/800900500/173216
+
 
 
 
