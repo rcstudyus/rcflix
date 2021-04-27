@@ -1,5 +1,24 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="COMBATE" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate
+http://s4.pjtiptv.ga/COMBATE/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="Esportes",SporTV
+http://s4.pjtiptv.ga/SPORTV/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
+
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="Esportes",SporTV 2
+http://s4.pjtiptv.ga/SPORTV2/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
+
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="Esportes",SporTV 3
+http://s4.pjtiptv.ga/SPORTV3/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
+
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sports
+http://s4.pjtiptv.ga/FOXSPORTS/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",Fox Sports 2
+http://s4.pjtiptv.ga/FOXSPORTS2/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
+
 #EXTINF:-1 type="stream" tvg-id="CAMPEONATO CARIOCA 1" tvg-logo="http://dns.jslinkdns.xyz:80/images/23977f6d33486f21501b80afd10c8087.png" group-title="CANAIS | FILMES DIRETO",CAMPEONATO CARIOCA 1
 https://filmesmp4.com/v2/?dub=https://pandafiles.com/mo39rzxmle5a/Ak-47.A.Arma.Que.Mudou.o.Mundo.2021_Dub__Filmesmp4.com_.mp4
 
@@ -300,6 +319,10 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Filmes e Séries",Multishow
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/playlist.m3u8
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Filmes e Séries",Multishow
+http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Filmes e Séries",Multishow HD
+http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://i.imgur.com/ZekUX7A.png",Comedy Central
 http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://i.imgur.com/ZekUX7A.png",Comedy Central HD
@@ -317,11 +340,21 @@ https://origin-02.nxplay.com.br/TBS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://i.imgur.com/RSGqIKS.png" group-title="Filmes e Séries",TNT
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/playlist.m3u8
 #EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://i.imgur.com/RSGqIKS.png" group-title="Filmes e Séries",TNT HD
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Filmes e Séries",AMC
+http://cdn-1.nxplay.com.br/AMC_BRASIL/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Filmes e Séries",AMC HD
+http://cdn-1.nxplay.com.br/AMC_BRASIL/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
+#EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentários",Arte 1
+http://cdn-1.nxplay.com.br/ARTE1_NX/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentários",Arte 1 HD
+http://cdn-1.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 
 #EXTINF:-1 group-title="Notícias" tvg-logo="http://s03.video.glbimg.com/x720/61910.jpg",Globo News
 https://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/playlist.m3u8
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Notícias",Globo News Opção 2
+http://s4.pjtiptv.ga/GLOBONEWS/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
 #EXTINF:-1 group-title="Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News MA
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
 #EXTINF:-1 group-title="Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News
@@ -332,8 +365,10 @@ http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 #EXTINF:-1 group-title="Notícias" tvg-logo="http://i.imgur.com/oLcHI8G.png",Band News
 https://nxplay-srv1.nxplay.com.br/BAND_NEWS/tracks-v1a1/mono.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Notícias" tvg-logo="https://i.imgur.com/f3m6Tcz.png",CNN Brasil (Alter)
-https://youtu.be/bskhkc1TBBo
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="http://i.imgur.com/f3m6Tcz.png" group-title="Notícias",CNN Brasil
+http://cdn-1.nxplay.com.br/CNN_Brazil_HD_NX_01/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="http://i.imgur.com/f3m6Tcz.png" group-title="Notícias",CNN Brasil HD
+http://cdn-1.nxplay.com.br/CNN_Brazil_HD_NX_01/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 group-title="Notícias" tvg-logo="https://i.imgur.com/f3m6Tcz.png",CNN Brasil
 http://cdn-1.nxplay.com.br/CNN_Brazil_HD_NX_01/tracks-v1a1/mono.m3u8
 
