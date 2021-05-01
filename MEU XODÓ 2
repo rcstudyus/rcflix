@@ -1,19 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CARIOCA" tvg-name="CARIOCA" tvg-logo="https://i.ibb.co/VYBYbHZ/carioca.png" group-title="ESPORTES",CARIOCA
-http://b5.vc:80/live/7885037935/fireurl.co/96513.ts
-
-#EXTINF:-1 tvg-id="CARIOCA" tvg-name="CARIOCA" tvg-logo="https://i.ibb.co/VYBYbHZ/carioca.png" group-title="ESPORTES",CARIOCA
-http://b5.vc:80/live/7885037935/fireurl.co/96514.ts
-
-#EXTINF:-1 tvg-id="CARIOCA" tvg-name="CARIOCA" tvg-logo="https://i.ibb.co/VYBYbHZ/carioca.png" group-title="ESPORTES",CARIOCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH LISTAS GRATIS;url=http://b5.vc:80/live/7885037935/fireurl.co/96515.ts
-
-#EXTINF:-1 tvg-id="CARIOCA" tvg-name="CARIOCA" tvg-logo="https://i.ibb.co/VYBYbHZ/carioca.png" group-title="ESPORTES",CARIOCA
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/84613
-
-#EXTINF:-1 tvg-id="CARIOCA" tvg-name="CARIOCA" tvg-logo="https://i.ibb.co/VYBYbHZ/carioca.png" group-title="ESPORTES",CARIOCA
-http://dns.velox4k.tech:2082/6893910914/6615263741/23243
+EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais @ Pay-Per-View",Campeonato Carioca 1 FHD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32891.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais @ Pay-Per-View",Campeonato Carioca 1 FHD (H265)
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32892.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais @ Pay-Per-View",Campeonato Carioca 1 HD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32893.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais @ Pay-Per-View",Campeonato Carioca 1 SD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32894.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais @ Pay-Per-View",Campeonato Carioca 2 (H265)
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32896.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais @ Pay-Per-View",Campeonato Carioca 2 FHD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32895.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais @ Pay-Per-View",Campeonato Carioca 2 HD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32897.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais @ Pay-Per-View",Campeonato Carioca 2 SD
+http://esrv.cc:80/live/Clouddy05/Rr7uL/32898.m3u8
 
 
 
