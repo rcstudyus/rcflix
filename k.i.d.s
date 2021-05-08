@@ -1,3 +1,14 @@
+
+<item>
+<title>[COLOR white]PETS 2 - A VIDA SECRETA DOS BICHOS 2[/COLOR][COLOR yellow] (720p) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF37F65C03375138F74400045179E24C23056D83</link>
+<thumbnail>https://www.thepiratefilmestorrent.net/wp-content/uploads/2019/10/The-Secret-Life-of-Pets-2-download-255x319.jpg</thumbnail>
+<fanart>https://studiosol-a.akamaihd.net/uploadfile/letras/playlists/d/c/0/3/dc031b7f0d8a499097ce3b861a8210d5.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2019[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white][B] Animação[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]A vida de Max e Duke muda bastante quando sua dona tem um filho. De início eles não gostam nem um pouco deste pequeno ser que divide a atenção, mas aos poucos ele os conquista. Não demora muito para que Max se torne superprotetor em relação à criança, o que lhe causa uma coceira constante. Quando toda a família decide passar uns dias em uma fazenda, os cachorros enfrentam uma realidade completamente diferente com a qual estão acostumados.[/B][/COLOR]</info>
+</item>
+
 <item>
 <title>[COLOR white]A Caminho da Lua[/COLOR][COLOR yellow] (720p) Dual Áudio[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:135b3bbfffa2bfe57c0bc7f621c794bb87a45c91</link>
