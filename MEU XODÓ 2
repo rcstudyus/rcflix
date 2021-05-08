@@ -1,5 +1,24 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png" ,CARIOCÃO 2
+http://nbrasil.biz:80/richard123/richard321/138068
+#EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png" ,CARIOCÃO 2 HD
+http://nbrasil.biz:80/richard123/richard321/138067
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca²" tvg-logo="http://logocanais.ddns.net/Logo/carioca.jpg" group-title="Canais: Esportes PPV",Campeonato Carioca²
+http://assistirpainel.ddns.net:8880/jmn1etr4q2z/4ust2y3mwxg/43520
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca³" tvg-logo="http://logocanais.ddns.net/Logo/carioca.jpg" group-title="Canais: Esportes PPV",Campeonato Carioca³
+http://assistirpainel.ddns.net:8880/jmn1etr4q2z/4ust2y3mwxg/43521
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca¹" tvg-logo="http://logocanais.ddns.net/Logo/carioca.jpg" group-title="Canais: Esportes PPV",Campeonato Carioca¹
+http://assistirpainel.ddns.net:8880/jmn1etr4q2z/4ust2y3mwxg/43519
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 2 FHD
+http://4p.vc:80/K7y6g34drYdn/9771144045/96517
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 2 HD
+http://ptvplay.life:80/mania238/30HGE1000/99359
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 2 SD
+http://ptvplay.life:80/mania238/30HGE1000/99405
+
 EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais @ Pay-Per-View",Campeonato Carioca 1 FHD
 http://esrv.cc:80/live/Clouddy05/Rr7uL/32891.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais @ Pay-Per-View",Campeonato Carioca 1 FHD (H265)
