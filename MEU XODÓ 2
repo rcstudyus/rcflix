@@ -1,5 +1,43 @@
 #EXTM3U
 
+#EXTINF:-1,BR| CONMEBOL TV 4 HD
+http://bazarhd.online:80/2993289990/5002883998/82351
+#EXTINF:-1,BR| CONMEBOL TV 3 HD
+http://bazarhd.online:80/2993289990/5002883998/82350
+#EXTINF:-1,BR| CONMEBOL TV 2 HD
+http://bazarhd.online:80/2993289990/5002883998/82349
+#EXTINF:-1,BR| CONMEBOL TV 1 HD
+http://bazarhd.online:80/2993289990/5002883998/82348
+
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais: Esportes PPV",Conmebol
+http://assistirpainel.ddns.net:8080/jmn1etr4q2z/4ust2y3mwxg/21761
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol²" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais: Esportes PPV",Conmebol²
+http://assistirpainel.ddns.net:8080/jmn1etr4q2z/4ust2y3mwxg/36198
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol³" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais: Esportes PPV",Conmebol³
+http://assistirpainel.ddns.net:8080/jmn1etr4q2z/4ust2y3mwxg/36199
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol¹" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais: Esportes PPV",Conmebol¹
+http://assistirpainel.ddns.net:8080/jmn1etr4q2z/4ust2y3mwxg/36197
+
+
+#EXTINF:-1,BR CONMEBOL TV 01
+http://goodtv.xyz:2052/Mike/Mike123/2274685
+#EXTINF:-1,BR CONMEBOL TV 02
+http://goodtv.xyz:2052/Mike/Mike123/2274686
+#EXTINF:-1,BR CONMEBOL TV 03
+http://goodtv.xyz:2052/Mike/Mike123/2274687
+#EXTINF:-1,BR CONMEBOL TV 04
+http://goodtv.xyz:2052/Mike/Mike123/2274688
+
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL TV 1" tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png" group-title="CANAIS | ESPORTES",CONMEBOL TV 1
+http://163.172.103.202:8880/287994003710/287994003710/31185
+#EXTINF:-1 tvg-id="CONMEBOL TV 2"tvg-name="CONMEBOL TV 2"tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png" group-title="CANAIS | ESPORTES",CONMEBOL TV 2
+http://163.172.103.202:8880/287994003710/287994003710/31187
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="CONMEBOL TV 3" tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png" group-title="CANAIS | ESPORTES",CONMEBOL TV 3
+http://163.172.103.202:8880/287994003710/287994003710/31190
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL TV 4" tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png" group-title="CANAIS | ESPORTES",CONMEBOL TV 4
+http://163.172.103.202:8880/287994003710/287994003710/31192
+
+
 #EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png" ,CARIOCÃO 2
 http://nbrasil.biz:80/richard123/richard321/138068
 #EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png" ,CARIOCÃO 2 HD
