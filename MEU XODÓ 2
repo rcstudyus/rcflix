@@ -38,108 +38,13 @@ http://163.172.103.202:8880/287994003710/287994003710/31190
 http://163.172.103.202:8880/287994003710/287994003710/31192
 
 
-#EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png" ,CARIOCÃO 2
-http://nbrasil.biz:80/richard123/richard321/138068
-#EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png" ,CARIOCÃO 2 HD
-http://nbrasil.biz:80/richard123/richard321/138067
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca²" tvg-logo="http://logocanais.ddns.net/Logo/carioca.jpg" group-title="Canais: Esportes PPV",Campeonato Carioca²
-http://assistirpainel.ddns.net:8880/jmn1etr4q2z/4ust2y3mwxg/43520
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca³" tvg-logo="http://logocanais.ddns.net/Logo/carioca.jpg" group-title="Canais: Esportes PPV",Campeonato Carioca³
-http://assistirpainel.ddns.net:8880/jmn1etr4q2z/4ust2y3mwxg/43521
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca¹" tvg-logo="http://logocanais.ddns.net/Logo/carioca.jpg" group-title="Canais: Esportes PPV",Campeonato Carioca¹
-http://assistirpainel.ddns.net:8880/jmn1etr4q2z/4ust2y3mwxg/43519
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 2 FHD
-http://4p.vc:80/K7y6g34drYdn/9771144045/96517
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 2 HD
-http://ptvplay.life:80/mania238/30HGE1000/99359
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vBDogfl.png" group-title="●PPV●", Campeonato Carioca 2 SD
-http://ptvplay.life:80/mania238/30HGE1000/99405
-
-EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais @ Pay-Per-View",Campeonato Carioca 1 FHD
-http://esrv.cc:80/live/Clouddy05/Rr7uL/32891.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais @ Pay-Per-View",Campeonato Carioca 1 FHD (H265)
-http://esrv.cc:80/live/Clouddy05/Rr7uL/32892.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais @ Pay-Per-View",Campeonato Carioca 1 HD
-http://esrv.cc:80/live/Clouddy05/Rr7uL/32893.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais @ Pay-Per-View",Campeonato Carioca 1 SD
-http://esrv.cc:80/live/Clouddy05/Rr7uL/32894.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais @ Pay-Per-View",Campeonato Carioca 2 (H265)
-http://esrv.cc:80/live/Clouddy05/Rr7uL/32896.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais @ Pay-Per-View",Campeonato Carioca 2 FHD
-http://esrv.cc:80/live/Clouddy05/Rr7uL/32895.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais @ Pay-Per-View",Campeonato Carioca 2 HD
-http://esrv.cc:80/live/Clouddy05/Rr7uL/32897.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais @ Pay-Per-View",Campeonato Carioca 2 SD
-http://esrv.cc:80/live/Clouddy05/Rr7uL/32898.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="COMBATE" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate
-http://s4.pjtiptv.ga/COMBATE/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
-
-#EXTINF:-1 tvg-id="SPORTV" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="Esportes",SporTV
-http://s4.pjtiptv.ga/SPORTV/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
-
-#EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="Esportes",SporTV 2
-http://s4.pjtiptv.ga/SPORTV2/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
-
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="Esportes",SporTV 3
-http://s4.pjtiptv.ga/SPORTV3/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
-
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sports
-http://s4.pjtiptv.ga/FOXSPORTS/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
-
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",Fox Sports 2
-http://s4.pjtiptv.ga/FOXSPORTS2/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
-
-#EXTINF:-1 type="stream" tvg-id="CAMPEONATO CARIOCA 1" tvg-logo="http://dns.jslinkdns.xyz:80/images/23977f6d33486f21501b80afd10c8087.png" group-title="CANAIS | FILMES DIRETO",CAMPEONATO CARIOCA 1
-https://filmesmp4.com/v2/?dub=https://pandafiles.com/mo39rzxmle5a/Ak-47.A.Arma.Que.Mudou.o.Mundo.2021_Dub__Filmesmp4.com_.mp4
-
-#EXTINF:-1 group-title="tv • ESPORTES" tvg-logo="http://i.img8.xyz/_logos/cariocao_hd.png",Campeonato Carioca 1 HD₂
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/84612
-#EXTINF:-1 group-title="tv • ESPORTES" tvg-logo="http://i.img8.xyz/_logos/cariocao_sd.png",Campeonato Carioca 1 SD₂
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/84613
-#EXTINF:-1 group-title="tv • ESPORTES" tvg-logo="http://i.img8.xyz/_logos/cariocao_hd.png",Campeonato Carioca 2 HD₂
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/84614
-#EXTINF:-1 group-title="tv • ESPORTES" tvg-logo="http://i.img8.xyz/_logos/cariocao_sd.png",Campeonato Carioca 2 SD₂
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/84615
-#EXTINF:-1,CAMPEONATO CARIOCA 1 HD
-http://snxt.online:80/fabricio2021/fabricio2021/207371
-#EXTINF:-1,CAMPEONATO CARIOCA 2 HD
-http://snxt.online:80/fabricio2021/fabricio2021/207372
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA Opçao 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f9/Carioca2017.png/200px-Carioca2017.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CAMPEONATO CARIOCA Opçao 1
-http://e.advd.cyou:80/live/gustavo/gustavo/191899.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA Opçao 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f9/Carioca2017.png/200px-Carioca2017.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CAMPEONATO CARIOCA Opçao 2
-http://e.advd.cyou:80/live/gustavo/gustavo/191900.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/440137e3a11e264ea8cdcc19b5c85af0.png" group-title="CANAIS | SPORTS DIVERSOS",CAMPEONATO CARIOCA 1 HD
-http://dns.blackouthd.xyz:80/kadja005/800900500/175552
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 2 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/440137e3a11e264ea8cdcc19b5c85af0.png" group-title="CANAIS | SPORTS DIVERSOS",CAMPEONATO CARIOCA 2 HD
-http://dns.blackouthd.xyz:80/kadja005/800900500/175553
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1" tvg-logo="http://dns.jslinkdns.xyz:80/images/23977f6d33486f21501b80afd10c8087.png" group-title="CANAIS | SPORTS DIVERSOS",CAMPEONATO CARIOCA 1
-http://dns.blackouthd.xyz:80/kadja005/800900500/175446
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 2" tvg-logo="http://dns.jslinkdns.xyz:80/images/23977f6d33486f21501b80afd10c8087.png" group-title="CANAIS | SPORTS DIVERSOS",CAMPEONATO CARIOCA 2
-http://dns.blackouthd.xyz:80/kadja005/800900500/175447
-#EXTINF:-1,CAMPEONATO CARIOCA HD
-http://b2p.li:80/bladecasa/XdzA3517/194957
-#EXTINF:-1,CAMPEONATO CARIOCA 2 HD
-http://b2p.li:80/bladecasa/XdzA3517/194958
-#EXTINF:-1,CAMPEONATO CARIOCA 3 HD
-http://b2p.li:80/bladecasa/XdzA3517/194959
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iOPJueQ.png" group-title="Esportes",All Sports TV
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-logo="https://i.imgur.com/q92za8a.png" group-title="Esportes",BandSports
-https://nxplay-srv1.nxplay.com.br/BAND_SPORTS/index.m3u8
-
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-logo="https://i.imgur.com/q92za8a.png" group-title="Esportes",BandSports HD
-https://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Espn.br" tvg-logo="https://i.imgur.com/ck1qmrN.png" group-title="Esportes",ESPN
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/master.m3u8
@@ -207,14 +112,6 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://i.imgur.com/YzY6fI2.png" group-title="Esportes",SporTV HD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 2 FHD [H265]
-http://rec2.distv.net:80/daniele/12345/4
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 2 HD
-http://rec2.distv.net:80/diego1/diego1/4
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 2 SD
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/84612
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 2 SD
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/84613
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<,
 
@@ -233,8 +130,6 @@ http://n.srv1.xyz:8880/rogerrocha/estherlorena/84613
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV Aberta",Globo RJ HD
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV Aberta",Globo NORDESTE HD
-http://edge1.fire19.xyz/3692/tracks-v1a1/mpegts
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV Aberta",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Manchete" tvg-name="TV Manchete" tvg-logo="https://imgur.com/dQRl59I.png" tvg-shift="0" group-title="TV Aberta",TV Manchete
