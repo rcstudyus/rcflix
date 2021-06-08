@@ -1,5 +1,251 @@
 #EXTM3U
 
+#EXTINF: -1 tvg-id="TV Cultura" tvg-chno="1" tvg-logo=""https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png" group-title="Abertos", TV Cultura
+http://50.7.34.155:2200/BR/cultura-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo=""" group-title="Abertos",SBT
+http://50.7.34.155:2200/BR/SBT_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Rede Globo", Globo SP
+http://50.7.34.155:2200/BR/Globo_HD_SP-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Rede Globo", Globo RJ
+http://50.7.34.155:2200/BR/Globo_HD_RJ-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Rede Globo", Globo Nordeste
+http://50.7.34.155:2200/BR/Globo_Nordeste_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Rede Globo", Globo Nordeste
+http://50.7.34.155:2200/BR/Globo_Nordeste_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Rede Globo", RPC Curitiba
+http://50.7.34.155:2200/BR/RPC_TV_Curitiba_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Rede Globo", TV Anhanguera Goiania
+http://50.7.34.155:2200/BR/TV_Anhanguera_Gonia_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Rede Globo", EPTV Campinas
+http://50.7.34.155:2200/BR/EPTV_HD_Campinas-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Rede Globo", TV Verdes Mares Fortaleza
+http://50.7.34.155:2200/BR/TV_Verdes_Mares_HD_Fortaleza-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Rede Globo", RPC Cascavel
+http://50.7.34.155:2200/BR/Globo_Rpc_Cascavel_HD_-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Abertos", Record SP
+http://50.7.34.155:2200/BR/RECORDTV_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Abertos", RedeTV
+http://50.7.34.155:2200/BR/Rede_TV_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Abertos", Gazeta
+http://50.7.34.155:2200/BR/Gazeta-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Abertos", Band
+http://50.7.34.155:2200/BR/Band_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Abertos", Loading TV
+http://50.7.34.155:2200/BR/Loading_TV_-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Abertos",TV Novo Tempo
+http://50.7.34.155:2200/BR/tvnovotempo-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Abertos",Canal Rural
+http://50.7.34.155:2200/BR/canalrural-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Abertos",TV Aparecida
+http://50.7.34.155:2200/BR/tvaparecida-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Abertos",TV Escola
+http://50.7.34.155:2200/BR/tvescola-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Notícias", CNN Brasil
+http://50.7.34.155:2200/BR/CNN_Brasil_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Notícias", Globo News
+http://50.7.34.155:2200/BR/Globo_News_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Notícias", Record News
+http://50.7.34.155:2200/BR/recordnews-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", Mais Globosat
+http://50.7.34.155:2200/BR/Mais_Globosat_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", GNT
+http://50.7.34.155:2200/BR/GNT_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", SYFY
+http://50.7.34.155:2200/BR/SyFy_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", Multishow
+http://50.7.34.155:2200/BR/Multishow_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", Curta
+http://50.7.34.155:2200/BR/Curta_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", Food Network
+http://50.7.34.155:2200/BR/Food_Network_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", Arte1
+http://50.7.34.155:2200/BR/Arte_1_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", Fashion
+http://50.7.34.155:2200/BR/Fashion_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", TLC
+http://50.7.34.155:2200/BR/TLC_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", TCM
+http://50.7.34.155:2200/BR/tcm-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO
+http://50.7.34.155:2200/BR/HBO_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO 2
+http://50.7.34.155:2200/BR/HBO_2_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO Family
+http://50.7.34.155:2200/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO Plus
+http://50.7.34.155:2200/BR/HBO_Plus_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO Mundi
+http://50.7.34.155:2200/BR/HBO_Mundi_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO Pop
+http://50.7.34.155:2200/BR/HBO_Pop_Mundi_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO Signature
+http://50.7.34.155:2200/BR/HBO_Signature_Mundi_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO Xtreme
+http://50.7.34.155:2200/BR/HBO_Xtreme_Mundi_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Action
+http://50.7.34.155:2200/BR/Telecine_Action_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Fun
+http://50.7.34.155:2200/BR/Telecine_Fun_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Pipoca
+http://50.7.34.155:2200/BR/Telecine_Pipoca_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Premium
+http://50.7.34.155:2200/BR/Telecine_Premium_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Touch
+http://50.7.34.155:2200/BR/Telecine_Touch_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Cult
+http://50.7.34.155:2200/BR/Telecine_Cult_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Canal Brasil
+http://50.7.34.155:2200/BR/Canal_Brasil_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Universal TV
+http://50.7.34.155:2200/BR/Universal_TV_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Studio Universal
+http://50.7.34.155:2200/BR/Studio_Universal_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Warner Channel
+http://50.7.34.155:2200/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Star Channel
+http://50.7.34.155:2200/BR/Fox_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Star Hits 1
+http://50.7.34.155:2200/BR/Fox_Premium_1_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Star Hits 2
+http://50.7.34.155:2200/BR/Fox_Premium_2_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Star Life
+http://50.7.34.155:2200/BR/Fox_Life_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Cinemax
+http://50.7.34.155:2200/BR/Cinemax_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Megapix
+http://50.7.34.155:2200/BR/Megapix_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Space
+http://50.7.34.155:2200/BR/Space_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Film&Arts
+http://50.7.34.155:2200/BR/Film_Arts_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Fx
+http://50.7.34.155:2200/BR/Fx_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Sony Channel
+http://50.7.34.155:2200/BR/Canal_Sony_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", TBS
+http://50.7.34.155:2200/BR/TBS_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Paramount
+http://50.7.34.155:2200/BR/Paramount_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", TNT
+http://50.7.34.155:2200/BR/TNT_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", TNT Séries
+http://50.7.34.155:2200/BR/TNT_Series_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", AMC
+http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", A&E
+http://50.7.34.155:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Sportv 1
+http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Sportv 2
+http://50.7.34.155:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Sportv 3
+http://50.7.34.155:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere Clubes
+http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 2
+http://50.7.34.155:2200/BR/Premiere_2_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 3
+http://50.7.34.155:2200/BR/Premiere_3_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 4
+http://50.7.34.155:2200/BR/Premiere_4_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 5
+http://50.7.34.155:2200/BR/Premiere_5_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 6
+http://50.7.34.155:2200/BR/Premiere_6_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 7
+http://50.7.34.155:2200/BR/Premiere_7_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 8
+http://50.7.34.155:2200/BR/Premiere_8_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", ESPN
+http://50.7.34.155:2200/BR/ESPN_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", ESPN 2
+http://50.7.34.155:2200/BR/ESPN2_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", ESPN Extra
+http://50.7.34.155:2200/BR/ESPN_Extra_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Fox Sports
+http://50.7.34.155:2200/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Fox Sports 2
+http://50.7.34.155:2200/BR/Fox_Sports_2_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Combate
+http://50.7.34.155:2200/BR/Combate_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Band Sports
+http://50.7.34.155:2200/BR/Band_Sports_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Estádio TNT Sports 2
+http://50.7.34.155:2200/BR/EI_PLUS_2_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Estádio TNT Sports 3
+http://50.7.34.155:2200/BR/EI_PLUS_3_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Estádio TNT Sports 4
+http://50.7.34.155:2200/BR/EI_PLUS_4_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Estádio TNT Sports 5
+http://50.7.34.155:2200/BR/EI_PLUS_5_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Estádio TNT Sports 6
+http://50.7.34.155:2200/BR/EI_PLUS_6_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Conmebol TV 4
+http://50.7.34.155:2200/BR/Conmebol_TV_04_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Música", MTV
+http://50.7.34.155:2200/BR/MTV_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Música", MTV
+http://50.7.34.155:2200/BR/MTV_LIVE_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Música", BIS
+http://50.7.34.155:2200/BR/BIS_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Música", Travel Box Brasil
+http://50.7.34.155:2200/BR/Travel_Box_Brasil_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Fishtv
+http://50.7.34.155:2200/BR/fishtvhd-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Discovery Channel
+http://50.7.34.155:2200/BR/Discovery_Channel_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Discovery Science
+http://50.7.34.155:2200/BR/Discovery_Science_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Discovery World
+http://50.7.34.155:2200/BR/Discovery_World_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Discovery Turbo
+http://50.7.34.155:2200/BR/Discovery_Turbo_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Discovery Home & Health
+http://50.7.34.155:2200/BR/Disc-_Home_Health_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Discovery Theater
+http://50.7.34.155:2200/BR/Discovery_Theater_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Discovery ID
+http://50.7.34.155:2200/BR/ID_-_Investi_Discovery_HD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Animal Planet
+http://50.7.34.155:2200/BR/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Nat Geo
+http://50.7.34.155:2200/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Nat Geo Wild
+http://50.7.34.155:2200/BR/NatGeo_Wild_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", History
+http://50.7.34.155:2200/BR/The_History_Channel_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", History 2
+http://50.7.34.155:2200/BR/History_2_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Disney XD
+http://50.7.34.155:2200/BR/disneyxd-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Disney Junior
+http://50.7.34.155:2200/BR/disneyjunior-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Tooncast
+http://50.7.34.155:2200/BR/Tooncast-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Baby TV
+http://50.7.34.155:2200/BR/babytv-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Nick Jr.
+http://50.7.34.155:2200/BR/Nick_Jr_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Disney Channel
+http://50.7.34.155:2200/BR/Dianey_Channel_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Nickelodeon
+http://50.7.34.155:2200/BR/Nickelodeon_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Gloob
+http://50.7.34.155:2200/BR/Gloob_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Boomerang
+http://50.7.34.155:2200/BR/Boomerang_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Discovery Kids
+http://50.7.34.155:2200/BR/Discovery_Ks_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Cartoon Network
+http://50.7.34.155:2200/BR/Cartoon_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", ZooMoo
+http://50.7.34.155:2200/BR/ZooMoo_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Play Kids
+http://50.7.34.155:2200/BR/PlayKids_-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Nat Geo Kids
+http://50.7.34.155:2200/BR/NatGeoKidsHD-br/tracks-v1a1/mono.m3u8
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 #EXTINF:-1,BR| CONMEBOL TV 4 HD
 http://bazarhd.online:80/2993289990/5002883998/82351
 #EXTINF:-1,BR| CONMEBOL TV 3 HD
@@ -36,6 +282,32 @@ http://163.172.103.202:8880/287994003710/287994003710/31187
 http://163.172.103.202:8880/287994003710/287994003710/31190
 #EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL TV 4" tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png" group-title="CANAIS | ESPORTES",CONMEBOL TV 4
 http://163.172.103.202:8880/287994003710/287994003710/31192
+
+
+http://212.224.98.209:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=
+
+http://212.224.98.209:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8?token=
+
+http://212.224.98.209:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8?token=
+
+http://212.224.98.209:2200/BR/CNN_Brasil_HD-br/tracks-v1a1/mono.m3u8?token=
+
+http://212.224.98.209:2200/BR/Band_News_HD-br/tracks-v1a1/mono.m3u8?token=
+
+http://212.224.98.209:2200/BR/Globo_News_HD-br/tracks-v1a1/mono.m3u8?token=
+
+http://212.224.98.209:2200/BR/Premiere_1_HD-br/tracks-v1a1/mono.m3u8?token=
+
+http://212.224.98.209:2200/BR/Premiere_2_HD-br/tracks-v1a1/mono.m3u8?token=
+
+http://212.224.98.209:2200/BR/Premiere_3_HD-br/tracks-v1a1/mono.m3u8?token=
+
+http://212.224.98.209:2200/BR/Premiere_4_HD-br/tracks-v1a1/mono.m3u8?token=
+
+http://212.224.98.209:2200/BR/Premiere_5_HD-br/tracks-v1a1/mono.m3u8?token=
+
+http://212.224.98.209:2200/BR/Premiere_6_HD-br/tracks-v1a1/mono.m3u8?token=
+
 
 
 
