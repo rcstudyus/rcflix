@@ -304,6 +304,23 @@ http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/317.m3u8
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/314.m3u8
 
 
+
+#EXTINF:-1 tvg-name="SporTV HD" tvg-logo="https://i.imgur.com/Ae0NTmY.png" group-title="ESPORTES",SporTV HD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/474.m3u8
+#EXTINF:-1 tvg-name="SporTV HD *" tvg-logo="https://i.imgur.com/Ae0NTmY.png" group-title="ESPORTES",SporTV HD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/473.m3u8
+#EXTINF:-1 tvg-name="SporTV 2 HD" tvg-logo="https://i.imgur.com/bMjXFfc.png" group-title="ESPORTES",SporTV 2 HD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/467.m3u8
+#EXTINF:-1 tvg-name="SporTV 2 HD *" tvg-logo="https://i.imgur.com/bMjXFfc.png" group-title="ESPORTES",SporTV 2 FHD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/466.m3u8
+#EXTINF:-1 tvg-name="SporTV 3 HD" tvg-logo="https://i.imgur.com/IFSLGPa.png" group-title="ESPORTES",SporTV 3 HD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/469.m3u8
+#EXTINF:-1 tvg-name="SporTV 3 HD *" tvg-logo="https://i.imgur.com/IFSLGPa.png" group-title="ESPORTES",SporTV 3 HD 
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/468.m3u8
+
+
+
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
