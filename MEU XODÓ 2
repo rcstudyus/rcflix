@@ -246,42 +246,48 @@ http://50.7.34.155:2200/BR/PlayKids_-br/tracks-v1a1/mono.m3u8
 http://50.7.34.155:2200/BR/NatGeoKidsHD-br/tracks-v1a1/mono.m3u8
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-#EXTINF:-1,BR| CONMEBOL TV 4 HD
-http://bazarhd.online:80/2993289990/5002883998/82351
-#EXTINF:-1,BR| CONMEBOL TV 3 HD
-http://bazarhd.online:80/2993289990/5002883998/82350
-#EXTINF:-1,BR| CONMEBOL TV 2 HD
-http://bazarhd.online:80/2993289990/5002883998/82349
-#EXTINF:-1,BR| CONMEBOL TV 1 HD
-http://bazarhd.online:80/2993289990/5002883998/82348
-
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais: Esportes PPV",Conmebol
-http://assistirpainel.ddns.net:8080/jmn1etr4q2z/4ust2y3mwxg/21761
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol²" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais: Esportes PPV",Conmebol²
-http://assistirpainel.ddns.net:8080/jmn1etr4q2z/4ust2y3mwxg/36198
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol³" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais: Esportes PPV",Conmebol³
-http://assistirpainel.ddns.net:8080/jmn1etr4q2z/4ust2y3mwxg/36199
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol¹" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais: Esportes PPV",Conmebol¹
-http://assistirpainel.ddns.net:8080/jmn1etr4q2z/4ust2y3mwxg/36197
 
 
-#EXTINF:-1,BR CONMEBOL TV 01
-http://goodtv.xyz:2052/Mike/Mike123/2274685
-#EXTINF:-1,BR CONMEBOL TV 02
-http://goodtv.xyz:2052/Mike/Mike123/2274686
-#EXTINF:-1,BR CONMEBOL TV 03
-http://goodtv.xyz:2052/Mike/Mike123/2274687
-#EXTINF:-1,BR CONMEBOL TV 04
-http://goodtv.xyz:2052/Mike/Mike123/2274688
+DTV
 
-#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL TV 1" tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png" group-title="CANAIS | ESPORTES",CONMEBOL TV 1
-http://163.172.103.202:8880/287994003710/287994003710/31185
-#EXTINF:-1 tvg-id="CONMEBOL TV 2"tvg-name="CONMEBOL TV 2"tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png" group-title="CANAIS | ESPORTES",CONMEBOL TV 2
-http://163.172.103.202:8880/287994003710/287994003710/31187
-#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="CONMEBOL TV 3" tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png" group-title="CANAIS | ESPORTES",CONMEBOL TV 3
-http://163.172.103.202:8880/287994003710/287994003710/31190
-#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL TV 4" tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png" group-title="CANAIS | ESPORTES",CONMEBOL TV 4
-http://163.172.103.202:8880/287994003710/287994003710/31192
+#EXTINF:-1 tvg-name="Premiere Clubes" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere Clubes
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/350.m3u8
+#EXTINF:-1 tvg-name="Premiere Clubes HD" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere Clubes HD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/351.m3u8
+#EXTINF:-1 tvg-name="Premiere 2" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 2
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/353.m3u8
+#EXTINF:-1 tvg-name="Premiere 2 HD" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 2 HD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/354.m3u8
+#EXTINF:-1 tvg-name="Premiere 3" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 3
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/355.m3u8
+#EXTINF:-1 tvg-name="Premiere 3 HD" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 3 HD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/356.m3u8
+#EXTINF:-1 tvg-name="Premiere 4" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 4
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/357.m3u8
+#EXTINF:-1 tvg-name="Premiere 4 HD" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 4 HD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/358.m3u8
+#EXTINF:-1 tvg-name="Premiere 5" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 5
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/359.m3u8
+#EXTINF:-1 tvg-name="Premiere 5 HD" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 5 HD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/360.m3u8
+#EXTINF:-1 tvg-name="Premiere 6" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 6
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/361.m3u8
+#EXTINF:-1 tvg-name="Premiere 6 HD" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 6 HD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/362.m3u8
+#EXTINF:-1 tvg-name="Premiere 7" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 7
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/364.m3u8
+#EXTINF:-1 tvg-name="Premiere 7 HD" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 7 HD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/365.m3u8
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+
+
+
 
 
 http://212.224.98.209:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=
