@@ -82,18 +82,6 @@ http://50.7.34.155:2200/BR/HBO_Pop_Mundi_HD-br/tracks-v1a1/mono.m3u8
 http://50.7.34.155:2200/BR/HBO_Signature_Mundi_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO Xtreme
 http://50.7.34.155:2200/BR/HBO_Xtreme_Mundi_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Action
-http://50.7.34.155:2200/BR/Telecine_Action_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Fun
-http://50.7.34.155:2200/BR/Telecine_Fun_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Pipoca
-http://50.7.34.155:2200/BR/Telecine_Pipoca_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Premium
-http://50.7.34.155:2200/BR/Telecine_Premium_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Touch
-http://50.7.34.155:2200/BR/Telecine_Touch_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Cult
-http://50.7.34.155:2200/BR/Telecine_Cult_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Canal Brasil
 http://50.7.34.155:2200/BR/Canal_Brasil_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Universal TV
@@ -134,28 +122,7 @@ http://50.7.34.155:2200/BR/TNT_Series_HD-br/tracks-v1a1/mono.m3u8
 http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", A&E
 http://50.7.34.155:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Sportv 1
-http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Sportv 2
-http://50.7.34.155:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Sportv 3
-http://50.7.34.155:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere Clubes
-http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 2
-http://50.7.34.155:2200/BR/Premiere_2_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 3
-http://50.7.34.155:2200/BR/Premiere_3_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 4
-http://50.7.34.155:2200/BR/Premiere_4_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 5
-http://50.7.34.155:2200/BR/Premiere_5_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 6
-http://50.7.34.155:2200/BR/Premiere_6_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 7
-http://50.7.34.155:2200/BR/Premiere_7_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 8
-http://50.7.34.155:2200/BR/Premiere_8_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", ESPN
 http://50.7.34.155:2200/BR/ESPN_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", ESPN 2
@@ -254,30 +221,53 @@ DTV
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/350.m3u8
 #EXTINF:-1 tvg-name="Premiere Clubes HD" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere Clubes HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/351.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV | PREMIERE", Premiere Clubes*
+http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Premiere 2" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 2
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/353.m3u8
 #EXTINF:-1 tvg-name="Premiere 2 HD" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 2 HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/354.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV | PREMIERE", Premiere 2*
+http://50.7.34.155:2200/BR/Premiere_2_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Premiere 3" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 3
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/355.m3u8
 #EXTINF:-1 tvg-name="Premiere 3 HD" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 3 HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/356.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV | PREMIERE", Premiere 3*
+http://50.7.34.155:2200/BR/Premiere_3_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Premiere 4" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 4
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/357.m3u8
 #EXTINF:-1 tvg-name="Premiere 4 HD" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 4 HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/358.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV | PREMIERE", Premiere 4*
+http://50.7.34.155:2200/BR/Premiere_4_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Premiere 5" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 5
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/359.m3u8
 #EXTINF:-1 tvg-name="Premiere 5 HD" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 5 HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/360.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV | PREMIERE", Premiere 5*
+http://50.7.34.155:2200/BR/Premiere_5_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Premiere 6" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 6
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/361.m3u8
 #EXTINF:-1 tvg-name="Premiere 6 HD" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 6 HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/362.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV | PREMIERE", Premiere 6*
+http://50.7.34.155:2200/BR/Premiere_6_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Premiere 7" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 7
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/364.m3u8
 #EXTINF:-1 tvg-name="Premiere 7 HD" tvg-logo="http://chronostv.com/logos/img/pfc.png" group-title="DTV | PREMIERE",Premiere 7 HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/365.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV | PREMIERE", Premiere 7*
+http://50.7.34.155:2200/BR/Premiere_7_HD-br/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV | PREMIERE", Premiere 8*
+http://50.7.34.155:2200/BR/Premiere_8_HD-br/tracks-v1a1/mono.m3u8
 
 
 
@@ -307,16 +297,27 @@ http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/314.m3u8
 
 #EXTINF:-1 tvg-name="SporTV HD" tvg-logo="https://i.imgur.com/Ae0NTmY.png" group-title="DTV ESPORTES",SporTV HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/474.m3u8
-#EXTINF:-1 tvg-name="SporTV HD *" tvg-logo="https://i.imgur.com/Ae0NTmY.png" group-title="DTV ESPORTES",SporTV HD
+#EXTINF:-1 tvg-name="SporTV HD *" tvg-logo="https://i.imgur.com/Ae0NTmY.png" group-title="DTV ESPORTES",SporTV FHD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/473.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV ESPORTES", SporTV* 
+http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="SporTV 2 HD" tvg-logo="https://i.imgur.com/bMjXFfc.png" group-title="DTV ESPORTES",SporTV 2 HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/467.m3u8
 #EXTINF:-1 tvg-name="SporTV 2 HD *" tvg-logo="https://i.imgur.com/bMjXFfc.png" group-title="DTV ESPORTES",SporTV 2 FHD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/466.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV ESPORTES", SporTV 2*
+http://50.7.34.155:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="SporTV 3 HD" tvg-logo="https://i.imgur.com/IFSLGPa.png" group-title="DTV ESPORTES",SporTV 3 HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/469.m3u8
 #EXTINF:-1 tvg-name="SporTV 3 HD *" tvg-logo="https://i.imgur.com/IFSLGPa.png" group-title="DTV ESPORTES",SporTV 3 HD 
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/468.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV ESPORTES", SporTV 3*
+http://50.7.34.155:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8
+
+
+
 
 
 
@@ -324,26 +325,45 @@ http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/468.m3u8
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/491.m3u8
 #EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="DTV Filmes e Séries",Telecine Premium FHD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/489.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Premium*
+http://50.7.34.155:2200/BR/Telecine_Premium_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="DTV Filmes e Séries",Telecine Action HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/481.m3u8
 #EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="DTV Filmes e Séries",Telecine Action FHD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/480.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Action*
+http://50.7.34.155:2200/BR/Telecine_Action_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="DTV Filmes e Séries",Telecine Touch HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/493.m3u8
 #EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="DTV Filmes e Séries",Telecine Touch FHD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/492.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Touch*
+http://50.7.34.155:2200/BR/Telecine_Touch_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="DTV Filmes e Séries",Telecine Pipoca HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/488.m3u8
 #EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="DTV Filmes e Séries",Telecine Pipoca FHD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/486.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Pipoca*
+http://50.7.34.155:2200/BR/Telecine_Pipoca_HD-br/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="DTV Filmes e Séries",Telecine Fun HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/484.m3u8
 #EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="DTV Filmes e Séries",Telecine Fun FHD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/485.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Fun*
+http://50.7.34.155:2200/BR/Telecine_Fun_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="DTV Filmes e Séries",Telecine Cult HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/483.m3u8
 #EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="DTV Filmes e Séries",Telecine Cult FHD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/482.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Cult*
+http://50.7.34.155:2200/BR/Telecine_Cult_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SPACE FHD" tvg-logo="http://u.meulogin.net:80/images/30dc3e62f46c6470d0e9e12c457dafb5.png" group-title="DTV Filmes e Séries",SPACE HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/457.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPACE FHD" tvg-logo="http://u.meulogin.net:80/images/30dc3e62f46c6470d0e9e12c457dafb5.png" group-title="DTV Filmes e Séries",SPACE FHD
