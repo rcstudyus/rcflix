@@ -40,12 +40,6 @@ http://50.7.34.155:2200/BR/canalrural-br/tracks-v1a1/mono.m3u8
 http://50.7.34.155:2200/BR/tvaparecida-br/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Abertos",TV Escola
 http://50.7.34.155:2200/BR/tvescola-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Notícias", CNN Brasil
-http://50.7.34.155:2200/BR/CNN_Brasil_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Notícias", Globo News
-http://50.7.34.155:2200/BR/Globo_News_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Notícias", Record News
-http://50.7.34.155:2200/BR/recordnews-br/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", Mais Globosat
 http://50.7.34.155:2200/BR/Mais_Globosat_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", GNT
@@ -392,7 +386,41 @@ http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/345.m3u8
 
 
 
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://s03.video.glbimg.com/x720/61910.jpg",Globo News LD
+https://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/playlist.m3u8
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="DTV Notícias",Globo News HD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/277.m3u8
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="DTV Notícias",Globo News HD*
+http://50.7.34.155:2200/BR/Globo_News_HD-br/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="https://i.imgur.com/f3m6Tcz.png",CNN Brasil FHD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/107.m3u8
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="https://i.imgur.com/f3m6Tcz.png",CNN Brasil HD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/108.m3u8
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="https://i.imgur.com/f3m6Tcz.png",CNN Brasil HD*
+http://50.7.34.155:2200/BR/CNN_Brasil_HD-br/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News HD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/431.m3u8
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News HD*
+http://50.7.34.155:2200/BR/recordnews-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News MA LD
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News LD
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News LD
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
+
+
+
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/oLcHI8G.png",Band News HD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/72.m3u8
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/oLcHI8G.png",Band News LD
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/oLcHI8G.png",Band News LD
+https://nxplay-srv1.nxplay.com.br/BAND_NEWS/tracks-v1a1/mono.m3u8?sd=10&rebase=on
 
 
 
@@ -683,9 +711,8 @@ https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZj
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="DTV Variedades",Multishow
 http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Filmes e Séries",Multishow HD
-
-
 http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://i.imgur.com/ZekUX7A.png",Comedy Central
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://i.imgur.com/ZekUX7A.png",Comedy Central HD
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="https://i.imgur.com/fuKwYWn.png" group-title="Filmes e Séries",Comedy Central HD
@@ -703,32 +730,6 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs
 #EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentários",Arte 1 HD
 
 
-#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://s03.video.glbimg.com/x720/61910.jpg",Globo News LD
-https://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/playlist.m3u8
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="DTV Notícias",Globo News HD
-http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/277.m3u8
-
-#EXTINF:-1 group-title="DTV Notícias" tvg-logo="https://i.imgur.com/f3m6Tcz.png",CNN Brasil FHD
-http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/107.m3u8
-#EXTINF:-1 group-title="DTV Notícias" tvg-logo="https://i.imgur.com/f3m6Tcz.png",CNN Brasil HD
-http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/108.m3u8
-
-#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News HD
-http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/431.m3u8
-#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News MA LD
-https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
-#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News LD
-http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8
-#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News LD
-http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
-
-
-#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/oLcHI8G.png",Band News HD
-http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/72.m3u8
-#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/oLcHI8G.png",Band News LD
-http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
-#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/oLcHI8G.png",Band News LD
-https://nxplay-srv1.nxplay.com.br/BAND_NEWS/tracks-v1a1/mono.m3u8?sd=10&rebase=on
 
 
 
