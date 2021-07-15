@@ -66,22 +66,6 @@ http://50.7.34.155:2200/BR/Fashion_HD-br/tracks-v1a1/mono.m3u8
 http://50.7.34.155:2200/BR/TLC_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", TCM
 http://50.7.34.155:2200/BR/tcm-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO
-http://50.7.34.155:2200/BR/HBO_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO 2
-http://50.7.34.155:2200/BR/HBO_2_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO Family
-http://50.7.34.155:2200/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO Plus
-http://50.7.34.155:2200/BR/HBO_Plus_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO Mundi
-http://50.7.34.155:2200/BR/HBO_Mundi_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO Pop
-http://50.7.34.155:2200/BR/HBO_Pop_Mundi_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO Signature
-http://50.7.34.155:2200/BR/HBO_Signature_Mundi_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO Xtreme
-http://50.7.34.155:2200/BR/HBO_Xtreme_Mundi_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Canal Brasil
 http://50.7.34.155:2200/BR/Canal_Brasil_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Universal TV
@@ -272,26 +256,52 @@ http://50.7.34.155:2200/BR/Premiere_8_HD-br/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO-SD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO-SD
+
+
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO-SD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO SD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/307.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO-SD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO SD*
+http://50.7.34.155:2200/BR/HBO_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HBO +-SD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="HBO",DTV HBO +-SD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/304.m3u8
 #EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2-FHD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO 2-FHD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/303.m3u8
 #EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2-HD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO 2-HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/302.m3u8
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2-HD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO 2 HD*
+http://50.7.34.155:2200/BR/HBO_2_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY-SD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO FAMILY-SD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/308.m3u8
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY-SD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO FAMILY HD*
+http://50.7.34.155:2200/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="hbo.mundi.brasil.br" tvg-name="HBO MUNDI-HD " tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO MUNDI-HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/310.m3u8
+#EXTINF:-1 tvg-id="hbo.mundi.brasil.br" tvg-name="HBO MUNDI-HD " tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO MUNDI HD*
+http://50.7.34.155:2200/BR/HBO_Mundi_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE-SD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO SIGNATURE-SD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/315.m3u8
 #EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE-FHD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO SIGNATURE-FHD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/316.m3u8
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE-FHD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO SIGNATURE HD*
+http://50.7.34.155:2200/BR/HBO_Signature_Mundi_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="hbo.xtreme.brasil.br" tvg-name="HBO XTREME-FHD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO XTREME-FHD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/317.m3u8
+#EXTINF:-1 tvg-id="hbo.xtreme.brasil.br" tvg-name="HBO XTREME-FHD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO XTREME HD*
+http://50.7.34.155:2200/BR/HBO_Xtreme_Mundi_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP-HD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO POP-HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/314.m3u8
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP-HD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO POP HD*
+http://50.7.34.155:2200/BR/HBO_Pop_Mundi_HD-br/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP-HD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO", HBO Plus*
+http://50.7.34.155:2200/BR/HBO_Plus_HD-br/tracks-v1a1/mono.m3u8
+
 
 
 
