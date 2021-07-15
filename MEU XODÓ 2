@@ -263,7 +263,7 @@ http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/307.m3u8
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO-SD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO SD*
 http://50.7.34.155:2200/BR/HBO_HD-br/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO +-SD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="HBO",DTV HBO +-SD
+#EXTINF:-1 tvg-id="" tvg-name="HBO +-SD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",DTV HBO + SD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/304.m3u8
 #EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2-FHD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO 2-FHD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/303.m3u8
