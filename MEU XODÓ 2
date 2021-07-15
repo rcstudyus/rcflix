@@ -656,84 +656,70 @@ http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_360_av-p.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/ZhTxu0F.png",Play Kids HD
 http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/WCFVJCx.png",Zoomoo
-http://origin-02.nxplay.com.br/ZOOMOO_HD_NX/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/WCFVJCx.png",Zoomoo HD
-http://origin-02.nxplay.com.br/ZOOMOO_HD_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/ZjLSLiY.png",Nickelodeon
-http://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/ZjLSLiY.png",Nickelodeon HD
-http://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/6vVmJJf.png",Nick Jr.
-http://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/6vVmJJf.png",Nick Jr. HD
-http://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/zNNIALN.png",Disney XD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_360_av-p.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/zNNIALN.png",Disney XD HD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/H9AY5z4.png",Disney Junior
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_360_av-p.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/H9AY5z4.png",Disney Junior HD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/ETxffjm.png",Disney Channel
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-p.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/ETxffjm.png",Disney Channel HD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Filmes e Séries",Multishow
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DTV Variedades",Multishow
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/playlist.m3u8
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Filmes e Séries",Multishow
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="DTV Variedades",Multishow
 http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Filmes e Séries",Multishow HD
+
+
 http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://i.imgur.com/ZekUX7A.png",Comedy Central
-http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://i.imgur.com/ZekUX7A.png",Comedy Central HD
-http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="https://i.imgur.com/fuKwYWn.png" group-title="Filmes e Séries",Comedy Central HD
-https://ug1upc1hgb.singularcdn.net.br/CCLB_HD/index.m3u8
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="https://i.imgur.com/YBdPi3r.png" group-title="Filmes e Séries",Paramount Network
-https://nxplay-srv1.nxplay.com.br/PCBR_HD/index.m3u8
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="https://i.imgur.com/YBdPi3r.png" group-title="Filmes e Séries",Paramount Network HD
-https://nxplay-srv1.nxplay.com.br/PCBR_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Tbs.br" tvg-logo="https://i.imgur.com/WGQ4LCM.png" group-title="Filmes e Séries",TBS
-https://origin-02.nxplay.com.br/TBS/index.m3u8
 #EXTINF:-1 tvg-id="Tbs.br" tvg-logo="https://i.imgur.com/WGQ4LCM.png" group-title="Filmes e Séries",TBS HD
-https://origin-02.nxplay.com.br/TBS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://i.imgur.com/RSGqIKS.png" group-title="Filmes e Séries",TNT
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://i.imgur.com/RSGqIKS.png" group-title="DTV Filmes e Séries",TNT
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/playlist.m3u8
 #EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://i.imgur.com/RSGqIKS.png" group-title="Filmes e Séries",TNT HD
 #EXTINF:-1 tvg-id="AMC" tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Filmes e Séries",AMC
-http://cdn-1.nxplay.com.br/AMC_BRASIL/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="AMC" tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Filmes e Séries",AMC HD
-http://cdn-1.nxplay.com.br/AMC_BRASIL/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
 #EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentários",Arte 1
-http://cdn-1.nxplay.com.br/ARTE1_NX/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentários",Arte 1 HD
-http://cdn-1.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 
-#EXTINF:-1 group-title="Notícias" tvg-logo="http://s03.video.glbimg.com/x720/61910.jpg",Globo News
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://s03.video.glbimg.com/x720/61910.jpg",Globo News LD
 https://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/playlist.m3u8
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Notícias",Globo News Opção 2
-http://s4.pjtiptv.ga/GLOBONEWS/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
-#EXTINF:-1 group-title="Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News MA
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="DTV Notícias",Globo News HD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/277.m3u8
+
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="https://i.imgur.com/f3m6Tcz.png",CNN Brasil FHD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/107.m3u8
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="https://i.imgur.com/f3m6Tcz.png",CNN Brasil HD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/108.m3u8
+
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News HD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/431.m3u8
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News MA LD
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
-#EXTINF:-1 group-title="Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News LD
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8
-#EXTINF:-1 group-title="Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News HD
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News LD
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
-#EXTINF:-1 group-title="Notícias" tvg-logo="http://i.imgur.com/oLcHI8G.png",Band News
+
+
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/oLcHI8G.png",Band News HD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/72.m3u8
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/oLcHI8G.png",Band News LD
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
-#EXTINF:-1 group-title="Notícias" tvg-logo="http://i.imgur.com/oLcHI8G.png",Band News
+#EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/oLcHI8G.png",Band News LD
 https://nxplay-srv1.nxplay.com.br/BAND_NEWS/tracks-v1a1/mono.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="http://i.imgur.com/f3m6Tcz.png" group-title="Notícias",CNN Brasil
-http://cdn-1.nxplay.com.br/CNN_Brazil_HD_NX_01/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="http://i.imgur.com/f3m6Tcz.png" group-title="Notícias",CNN Brasil HD
-http://cdn-1.nxplay.com.br/CNN_Brazil_HD_NX_01/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Notícias" tvg-logo="https://i.imgur.com/f3m6Tcz.png",CNN Brasil
-http://cdn-1.nxplay.com.br/CNN_Brazil_HD_NX_01/tracks-v1a1/mono.m3u8
+
 
 
 
