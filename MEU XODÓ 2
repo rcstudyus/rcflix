@@ -253,7 +253,7 @@ http://50.7.34.155:2200/BR/Premiere_8_HD-br/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO-SD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO SD
-http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/307.m3u8
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/305.m3u8
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO-SD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="DTV HBO",HBO SD*
 http://50.7.34.155:2200/BR/HBO_HD-br/tracks-v1a1/mono.m3u8
 
@@ -325,47 +325,47 @@ http://50.7.34.155:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="DTV Filmes e Séries",Telecine Premium HD
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="DTV Telecine",Telecine Premium HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/491.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="DTV Filmes e Séries",Telecine Premium FHD
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="DTV Telecine",Telecine Premium FHD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/489.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Premium*
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="DTV Telecine", Telecine Premium*
 http://50.7.34.155:2200/BR/Telecine_Premium_HD-br/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="DTV Filmes e Séries",Telecine Action HD
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="DTV Telecine",Telecine Action HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/481.m3u8
-#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="DTV Filmes e Séries",Telecine Action FHD
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="DTV Telecine",Telecine Action FHD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/480.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Action*
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="DTV Telecine", Telecine Action*
 http://50.7.34.155:2200/BR/Telecine_Action_HD-br/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="DTV Filmes e Séries",Telecine Touch HD
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="DTV Telecine",Telecine Touch HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/493.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="DTV Filmes e Séries",Telecine Touch FHD
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="DTV Telecine",Telecine Touch FHD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/492.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Touch*
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="DTV Telecine", Telecine Touch*
 http://50.7.34.155:2200/BR/Telecine_Touch_HD-br/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="DTV Filmes e Séries",Telecine Pipoca HD
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="DTV Telecine",Telecine Pipoca HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/488.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="DTV Filmes e Séries",Telecine Pipoca FHD
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="DTV Telecine",Telecine Pipoca FHD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/486.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Pipoca*
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="DTV Telecine", Telecine Pipoca*
 http://50.7.34.155:2200/BR/Telecine_Pipoca_HD-br/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="DTV Filmes e Séries",Telecine Fun HD
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="DTV Telecine",Telecine Fun HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/484.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="DTV Filmes e Séries",Telecine Fun FHD
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="DTV Telecine",Telecine Fun FHD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/485.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Fun*
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="DTV Telecine", Telecine Fun*
 http://50.7.34.155:2200/BR/Telecine_Fun_HD-br/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="DTV Filmes e Séries",Telecine Cult HD
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="DTV Telecine",Telecine Cult HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/483.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="DTV Filmes e Séries",Telecine Cult FHD
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="DTV Telecine",Telecine Cult FHD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/482.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Cult*
+#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="DTV Telecine", Telecine Cult*
 http://50.7.34.155:2200/BR/Telecine_Cult_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPACE FHD" tvg-logo="http://u.meulogin.net:80/images/30dc3e62f46c6470d0e9e12c457dafb5.png" group-title="DTV Filmes e Séries",SPACE HD
