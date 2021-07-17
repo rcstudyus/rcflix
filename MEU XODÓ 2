@@ -161,34 +161,6 @@ http://50.7.34.155:2200/BR/NatGeo_Wild_HD-br/tracks-v1a1/mono.m3u8
 http://50.7.34.155:2200/BR/The_History_Channel_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", History 2
 http://50.7.34.155:2200/BR/History_2_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Disney XD
-http://50.7.34.155:2200/BR/disneyxd-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Disney Junior
-http://50.7.34.155:2200/BR/disneyjunior-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Tooncast
-http://50.7.34.155:2200/BR/Tooncast-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Baby TV
-http://50.7.34.155:2200/BR/babytv-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Nick Jr.
-http://50.7.34.155:2200/BR/Nick_Jr_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Disney Channel
-http://50.7.34.155:2200/BR/Dianey_Channel_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Nickelodeon
-http://50.7.34.155:2200/BR/Nickelodeon_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Gloob
-http://50.7.34.155:2200/BR/Gloob_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Boomerang
-http://50.7.34.155:2200/BR/Boomerang_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Discovery Kids
-http://50.7.34.155:2200/BR/Discovery_Ks_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Cartoon Network
-http://50.7.34.155:2200/BR/Cartoon_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", ZooMoo
-http://50.7.34.155:2200/BR/ZooMoo_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Play Kids
-http://50.7.34.155:2200/BR/PlayKids_-br/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Nat Geo Kids
-http://50.7.34.155:2200/BR/NatGeoKidsHD-br/tracks-v1a1/mono.m3u8
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
@@ -413,8 +385,6 @@ http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8
 #EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News LD
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
 
-
-
 #EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/oLcHI8G.png",Band News HD
 http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/72.m3u8
 #EXTINF:-1 group-title="DTV Notícias" tvg-logo="http://i.imgur.com/oLcHI8G.png",Band News LD
@@ -425,6 +395,40 @@ https://nxplay-srv1.nxplay.com.br/BAND_NEWS/tracks-v1a1/mono.m3u8?sd=10&rebase=o
 
 
 
+
+
+INFANTIL
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="DTV INFANTIL", Disney XD*
+http://50.7.34.155:2200/BR/disneyxd-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="DTV INFANTIL", Disney XD HD
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/187.m3u8
+http://toptv2.com:2095/live/dtv_402149/YEbpZliJ/187.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV INFANTIL", Disney Junior
+http://50.7.34.155:2200/BR/disneyjunior-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV INFANTIL", Tooncast
+http://50.7.34.155:2200/BR/Tooncast-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV INFANTIL", Baby TV
+http://50.7.34.155:2200/BR/babytv-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV INFANTIL", Nick Jr.
+http://50.7.34.155:2200/BR/Nick_Jr_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV INFANTIL", Disney Channel
+http://50.7.34.155:2200/BR/Dianey_Channel_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV INFANTIL", Nickelodeon
+http://50.7.34.155:2200/BR/Nickelodeon_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV INFANTIL", Gloob
+http://50.7.34.155:2200/BR/Gloob_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV INFANTIL", Boomerang
+http://50.7.34.155:2200/BR/Boomerang_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV INFANTIL", Discovery Kids
+http://50.7.34.155:2200/BR/Discovery_Ks_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV INFANTIL", Cartoon Network
+http://50.7.34.155:2200/BR/Cartoon_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV INFANTIL", ZooMoo
+http://50.7.34.155:2200/BR/ZooMoo_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV INFANTIL", Play Kids
+http://50.7.34.155:2200/BR/PlayKids_-br/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="DTV INFANTIL", Nat Geo Kids
+http://50.7.34.155:2200/BR/NatGeoKidsHD-br/tracks-v1a1/mono.m3u8
 
 
 
