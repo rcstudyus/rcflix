@@ -250,6 +250,26 @@ http://toptv2.com:2095/live/dtv_463826/jOW7O4K1/534.m3u8
 http://50.7.34.155:2200/BR/Globo_Rpc_Cascavel_HD_-br/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="DTV GLOBO", GLOBO RS LD
+#EXTVLCOPT:network-caching=1000
+https://live-tvg-df-06.video.globo.com/d/nl/s/hls-globo-rs1/playlist.m3u8?h=0401627580459154216433716274940617040454583k1K6xmGU8vnbWXV4-pVhLg&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="DTV GLOBO", GLOBO MT LD
+#EXTVLCOPT:network-caching=1000
+https://live-df-05.video.globo.com/d/nl/s/hls-globo-mt/playlist.m3u8?h=04016275808724989188204162749447424192454202oGPxH8VkoMegRZOpKxVtQ&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="DTV GLOBO", GLOBO DF LD
+#EXTVLCOPT:network-caching=1000
+https://live-df-04.video.globo.com/d/m/nl/s/hls-globo-df/playlist.m3u8?h=0401627581547754935510516274951497094032161a9qPrOJxtXA_pUq_6kOa2w&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="DTV GLOBO", GLOBO MG LD
+#EXTVLCOPT:network-caching=1000
+https://live-tvg-df-06.video.globo.com/d/m/nl/s/hls-globo-bh/playlist.m3u8?h=0401627581741109612882116274953436123854235bCPKgUgdI2vQaW3azIkvOw&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="DTV GLOBO", GLOBO SP LD
+#EXTVLCOPT:network-caching=1000
+https://live-tvg-df-06.video.globo.com/d/m/nl/s/hls-globo-sp1/playlist.m3u8?h=0401627581829781598009516274954307121383561Z-Z7WR9lOimn6BfF6_HcVw&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="DTV GLOBO", GLOBO PE LD
+#EXTVLCOPT:network-caching=1000
+https://live-fe-tvg-df-3.video.globo.com/d/m/nl/s/hls-globo-pe1/playlist.m3u8?h=0401627581907948713704116274955104523763368WfHj2j_OeQiLg159K5Ho7A&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+
+
 
                                                             HBO
                                                             
